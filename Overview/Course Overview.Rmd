@@ -1,0 +1,173 @@
+---
+title: "Course Overview"
+author: "Tyler Hunt"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output:
+  ioslides_presentation:
+    fig_width: 10
+    fig_height: 5
+    css: class3.css
+    smaller: yes
+    widescreen: yes
+---
+
+<style type="text/css">
+
+h2 {
+    font-size: 30px;
+    line-height: 65px;
+    letter-spacing: -2px;
+    color: #515151;
+    padding-top: 15px;
+}
+article.smaller table td, article.smaller table th {
+    font-size: 12px;
+}
+
+.footer {
+    font-size: 15px;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 60px;
+    right: 0;
+    text-align:left;
+    bottom: 50px;
+    line-height: 1.9;
+    display: block;
+}
+</style>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+```{r libraries}
+library(png)
+library(grid)
+```
+
+
+## My Background
+* Manager of Data Science anmd Engineering | Snap! Finance
+* Graduate | MSTAT Educational Psychology (2013)
+
+## Topic 1: Overview of the data science process and intro to R
+* How does data science fit into an organization?
+* What is a data scientist?
+* What does a day as a data scientist look like?
+* How does data analytics in industry compare to academia?
+
+
+## Topic 1: Overview of the data science process and intro to R
+* The triad of data science (Hacking | Computer Science | Statistics)
+
+<center>
+```{r fig.width=3.2, fig.height=3.2}
+img <- readPNG("triad.png")
+grid.raster(img)
+```
+</center>
+
+
+## Topic 1: Overview of the data science process and intro to R
+* Where does R fit into the data science process?
+* Types of data science projects
+	* Exploratory
+	* Predictive Analytics
+		* Batch process
+		* Real-time
+	* Prescriptive Analytics
+	
+## Topic 1: Overview of the data science process and intro to R
+* Flavors
+	* Marketing Analytics
+	* Financial services (Forecasting vs. classification)
+	* Public policy
+	* etc.
+	
+## Topic 1: Overview of the data science process and intro to R	
+* Rstudio introduction
+	* Console vs. source code
+	* plot viewer
+	* pane layout
+	* Global vs project options
+
+
+## Topic 2: Version Control Methods
+* What is version control?
+* Git commands
+* Set up Github profile
+* Create 1st git repository
+* Using Git from RStudio
+
+
+## Topic 3: Loading/Saving and manipulating Data with R
+* Reading in data
+* Writing out data
+* Data maniuplation (base, dplyr, data.table)
+
+## Topic 4: Using SQL in R
+Relational databases are the industry standard and are used in nearly every organization that utilizes enterprise level software.  It is also a common language that is shared with database administrators, backend/frontend developers, and data scientists.  It is nearly impossible to be an effective data scientist without knowing your way around a relational database.
+
+* DBI packages
+* RPostres
+* RMySQL
+
+
+## Topic 5: Reproducible Research (knitr)
+A large proportion of a data scientist's workflow is taken up by automated or manual reports. There may be a KPI that needs deeper investigation and knitr provides a great mechanism for conducting reproducible research. The main theme here is to create data driven insights that can be easily reproduced. Several of the assignments after this class will be produced using knitr and then pushed to Github using proper version control methods.
+
+* Compiling knitr files (pdf, word, html)
+* Adjusting default options
+* Methods for tuning
+* Generating reproducible presentations via ioslides templates
+
+## Topic 6: Building R Packages
+Due to the dedication of the R developer community, great tools are well established that make R package creation very easy. Now you can create a new R package with thorough documentation and unit tests in a couple hours. An R package is highly portable so it can be used locally and on a production server. Here we will go through the steps to build an R packages, add automated tests, load data, export functions, and import functions from other packages.
+
+ * Introduction to devtools
+ * Rstudio package building tips tricks
+ * Documentation
+ * Automated tests
+ 
+## Topic 7/8: Classification Methods
+We will explore the tried and true statistical method for classification, logistic regression. 
+
+* Logistic regression (Statistics)
+* Model quality metrics
+	* logloss
+	* Area under the curve
+	* RMSE
+* Random forests (Machine Learning)
+* Gradient boosting machines (Machine Learning)
+
+## Topic 9/10: Regression Methods 
+
+* Linear regression (Statistics)
+* Random Forests (Machine Learning)
+* Gradient boosting (Machine Learning)
+
+## Topic 11: Production Methods - Batch Scoring
+Once a model is built we need to put it to use.  Once method, called batch scoring, is used when the model scores can be pre-loaded before the business logic needs to be executed. Often times in these cases, the models are scheduled to score nightly to set up activity for the following day.
+
+* Utilizing models to batch score data
+* Writing shell scripts and R
+* Creating cronjobs for scheduling model scoring
+* Brief primer on workflow/automation tools
+
+## Topic 12: Production Methods - Real-time Scoring
+
+When scoring is needed at the spur of a moment we need to use real-time scoring. In R there are two new ways to do this. `opencpu` is based on an R package so it is a bit easier to maintain but heavier. If something lightweight is needed the `plumber` is preferable. If functioning in a microservice architecture plumber is the better tool.
+
+* Constructing a real-time scoring engine in R
+* opencpu vs plumber
+
+## Topic 13: Visualization/Dashboards (shiny)
+One of the key parts of data science is reporting. The more this process is automated the happier the data science team will be (nobody seems to like reporting). `shiny` is a perfect tool in this case. It is highly likely that you already have some R code laying around that builds a plot or pulls out the KPIs that the business needs eyeballs on at some regular interval. Some basic principles and knowledge of `shiny` can help get these insights out to the broader organization. This naturally extends the impact of data science in an organization and helps other key decision makers make data driven decisions
+
+* shiny and shinydashboards
+* Building flex dashboards
+* Reactive vs observed objects
+
+
