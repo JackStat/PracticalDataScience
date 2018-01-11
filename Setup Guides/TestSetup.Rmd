@@ -1,0 +1,40 @@
+---
+title: "Test R setup"
+author: "Tyler Hunt"
+date: "`r format(Sys.time(), '%B %d, %Y')`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Libraries
+Here we are loading all of our libraries to make sure we have everything installed that we need.
+
+```{r libraries}
+library(dplyr)
+library(data.table)
+library(ggplot2)
+library(devtools)
+library(testthat)
+library(knitr)
+library(ModelMetrics)
+library(shiny)
+library(shinydashboard)
+```
+
+If the code above does not work then run this
+```{r eval=FALSE}
+
+install.packages(dplyr)
+install.packages(data.table)
+install.packages(ggplot2)
+install.packages(devtools)
+install.packages(testthat)
+install.packages(knitr)
+install.packages(ModelMetrics)
+install.packages(shiny)
+install.packages(shinydashboard)
+
+```
