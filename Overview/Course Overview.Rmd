@@ -105,7 +105,7 @@ grid.raster(img)
 ## Topic 3: Loading/Saving and manipulating Data with R
 * Reading in data
 * Writing out data
-* Data maniuplation (base, dplyr, data.table)
+* Data manipulation (base, dplyr, data.table)
 
 ## Topic 4: Using SQL in R
 Relational databases are the industry standard and are used in nearly every organization that utilizes enterprise level software.  It is also a common language that is shared with database administrators, backend/frontend developers, and data scientists.  It is nearly impossible to be an effective data scientist without knowing your way around a relational database.
