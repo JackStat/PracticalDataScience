@@ -6,11 +6,11 @@ https://github.com/JackStat/PracticalDataScience.
 
 In the top right you should see the fork button
 
-![](GithubFork.png)
+![](https://github.com/JackStat/PracticalDataScience/blob/master/Setup%20Guides/GithubFork.png)
 
 When you have it forked go to your copy of the Github repo and copy the link for cloning
 
-![](GithubClone.png)
+![](https://github.com/JackStat/PracticalDataScience/blob/master/Setup%20Guides/GithubClone.png)
 
 Now you need to use Terminal (Mac) or the git client (Windows) to execute the clone (copy the project to you machine). The first step is to pick the folder that you want to clone into. I recommend using Documents and you can execute this command
 
