@@ -10,7 +10,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Libraries
-Here we are loading all of our libraries to make sure we have everything installed that we need.
+Here we are loading all of our libraries to make sure we have everything installed that we need. These are packages that we will be using a lot so having them installed will save us time in class.
 
 ```{r libraries}
 library(dplyr)
@@ -33,6 +33,7 @@ install.packages("ggplot2")
 install.packages("devtools")
 install.packages("testthat")
 install.packages("knitr")
+install.packages("rmarkdown")
 install.packages("ModelMetrics")
 install.packages("shiny")
 install.packages("shinydashboard")
