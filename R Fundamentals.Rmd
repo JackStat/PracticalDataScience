@@ -1,0 +1,143 @@
+---
+title: "R Fundamentals"
+author: "Tyler Hunt"
+date: "January 17, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Using R packages
+As you may have noted from the setup document R is a generalized language that harnesses the power of individual packages. These packages can be installed from CRAN or from github directly (using `devtools`). To install a package from CRAN place the package name in the `install.packages` function like so.
+
+```{r eval=FALSE}
+install.packages("devtools")
+```
+
+To install the package from github (usually development branches so be careful) just copy the username/repo for the R package.
+
+```{r eval=FALSE}
+library(dplyr)
+install_github("hadley/devtools")
+```
+
+## Help
+One of my favorite things about R is the documentation and access to help. If there is a function that you want to use but don't quite understand you execute the help function
+
+```{r eval=FALSE}
+?read.csv
+?plot
+?iris
+```
+
+
+## Variable Assignement `<-` vs `=`
+```{r}
+
+x = 3
+y = x + x
+sqrt(y)
+
+```
+
+
+```{r}
+
+x <- 3
+y <- x + x
+sqrt(y)
+
+```
+
+## `class`
+
+```{r}
+
+class(x)
+class(y)
+
+```
+
+
+## `data.frame`
+The `data.frame` is the basic class that R uses to represent columns of data together. The columns all can have different classes.
+
+
+```{r}
+# iris is a classic example data set
+class(iris)
+```
+
+sapply allows you to execute a function on every column in a `data.frame`
+```{r}
+sapply(iris, class)
+```
+
+head and tail show the top or bottom 6 rows of the data.frame
+```{r}
+head(iris)
+```
+
+```{r}
+tail(iris)
+```
+
+`summary` allows you to get some high level details about a data.frame in a quick step. It handles the different classes of the columns differently and does what is appropriate
+```{r}
+summary(iris)
+```
+
+I also use `str` quite a bit to look through more general objects like `lists` but they can be applied to a `data.frame` as well.
+
+```{r}
+str(iris)
+```
+
+
+## Base R plots
+R has basic plots that can be used to generate some great plots. If you have a `data.frame` that has two numeric columns (like `pressure` or `cars`) it will automatically build a scatterplot
+```{r}
+plot(pressure)
+```
+
+
+```{r}
+plot(cars)
+```
+
+
+Far more complicated plots are also possible. In this example we are using a function to demonstrate how confidence intervals work.
+
+```{r}
+generator = function(n, pop.mean , pop.sd, conf.lvl) {
+  
+  plot(NULL
+       ,xlim = c(pop.mean-pop.sd,pop.mean+pop.sd)
+       ,ylim = c(0,100)
+       ,yaxt = 'n'
+       ,xlab = (conf.lvl)
+       ,ylab = (n)
+#        ,main = "Confidence Intervals of 100 Samples"
+       )
+  
+  abline(v = pop.mean, col = 'black')
+  mtext(expression(mu), cex = 2, at = pop.mean)
+  
+  for (i in 1:100){
+    x <- rnorm(n, mean = pop.mean, sd = pop.sd)
+    test <- t.test(x,conf.level=conf.lvl)
+    interval <- test$conf.int
+    
+    if(pop.mean>interval[1] & pop.mean<interval[2]){
+      lines(c(interval[1],interval[2]),c(i,i), lwd=2,col='black')
+    }
+    else{
+      lines(c(interval[1],interval[2]),c(i,i), lwd=2,col='red' )
+    } 
+  } 
+}
+
+generator(100, 0, 1, .95)
+```
