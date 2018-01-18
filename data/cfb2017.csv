@@ -1,0 +1,2971 @@
+"Win","Date","Team","Opponent","ScoreOff","ScoreDef","Home"
+1,2017-08-31,"Cincinnati (OH)","Austin Peay St. (TN)",26,14,1
+0,2017-09-09,"Cincinnati (OH)","Michigan",14,36,0
+1,2017-09-16,"Cincinnati (OH)","Miami (OH)",21,17,0
+0,2017-09-23,"Cincinnati (OH)","Navy (MD)",32,42,0
+0,2017-09-30,"Cincinnati (OH)","Marshall (WV)",21,38,1
+0,2017-10-07,"Cincinnati (OH)","Central Florida",23,51,1
+0,2017-10-14,"Cincinnati (OH)","South Florida",3,33,0
+0,2017-10-21,"Cincinnati (OH)","Southern Methodist (TX)",28,31,1
+1,2017-11-04,"Cincinnati (OH)","Tulane (LA)",17,16,0
+0,2017-11-10,"Cincinnati (OH)","Temple (PA)",24,35,1
+0,2017-11-18,"Cincinnati (OH)","East Carolina (NC)",20,48,0
+1,2017-11-25,"Cincinnati (OH)","Connecticut",22,21,1
+1,2017-09-09,"Houston (TX)","Arizona",19,16,0
+1,2017-09-16,"Houston (TX)","Rice (TX)",38,3,1
+0,2017-09-23,"Houston (TX)","Texas Tech",24,27,1
+1,2017-09-30,"Houston (TX)","Temple (PA)",20,13,0
+1,2017-10-07,"Houston (TX)","Southern Methodist (TX)",35,22,1
+0,2017-10-14,"Houston (TX)","Tulsa (OK)",17,45,0
+0,2017-10-19,"Houston (TX)","Memphis (TN)",38,42,1
+1,2017-10-28,"Houston (TX)","South Florida",28,24,0
+1,2017-11-04,"Houston (TX)","East Carolina (NC)",52,27,1
+0,2017-11-18,"Houston (TX)","Tulane (LA)",17,20,0
+1,2017-11-24,"Houston (TX)","Navy (MD)",24,14,1
+0,2017-12-24,"Houston (TX)","Fresno St. (CA)",27,33,1
+1,2017-08-31,"Connecticut","Holy Cross (MA)",27,20,1
+0,2017-09-16,"Connecticut","Virginia",18,38,0
+0,2017-09-24,"Connecticut","East Carolina (NC)",38,41,1
+0,2017-09-30,"Connecticut","Southern Methodist (TX)",28,49,0
+0,2017-10-06,"Connecticut","Memphis (TN)",31,70,1
+1,2017-10-14,"Connecticut","Temple (PA)",28,24,0
+1,2017-10-21,"Connecticut","Tulsa (OK)",20,14,1
+0,2017-10-28,"Connecticut","Missouri",12,52,1
+0,2017-11-04,"Connecticut","South Florida",20,37,1
+0,2017-11-11,"Connecticut","Central Florida",24,49,0
+0,2017-11-18,"Connecticut","Boston College (MA)",16,39,1
+0,2017-11-25,"Connecticut","Cincinnati (OH)",21,22,0
+1,2017-09-01,"Navy (MD)","Florida Atlantic",42,19,0
+1,2017-09-09,"Navy (MD)","Tulane (LA)",23,21,1
+1,2017-09-23,"Navy (MD)","Cincinnati (OH)",42,32,1
+1,2017-09-30,"Navy (MD)","Tulsa (OK)",31,21,0
+1,2017-10-07,"Navy (MD)","Air Force (CO)",48,45,1
+0,2017-10-14,"Navy (MD)","Memphis (TN)",27,30,0
+0,2017-10-21,"Navy (MD)","Central Florida",21,31,1
+0,2017-11-02,"Navy (MD)","Temple (PA)",26,34,0
+1,2017-11-11,"Navy (MD)","Southern Methodist (TX)",43,40,1
+0,2017-11-18,"Navy (MD)","Notre Dame (IN)",17,24,0
+0,2017-11-24,"Navy (MD)","Houston (TX)",14,24,0
+0,2017-12-09,"Navy (MD)","Army (NY)",13,14,1
+1,2017-12-28,"Navy (MD)","Virginia",49,7,1
+0,2017-09-02,"East Carolina (NC)","James Madison (VA)",14,34,1
+0,2017-09-09,"East Carolina (NC)","West Virginia",20,56,0
+0,2017-09-16,"East Carolina (NC)","Virginia Tech",17,64,1
+1,2017-09-24,"East Carolina (NC)","Connecticut",41,38,0
+0,2017-09-30,"East Carolina (NC)","South Florida",31,61,1
+0,2017-10-07,"East Carolina (NC)","Temple (PA)",10,34,1
+0,2017-10-14,"East Carolina (NC)","Central Florida",21,63,0
+1,2017-10-21,"East Carolina (NC)","Brigham Young (UT)",33,17,1
+0,2017-11-04,"East Carolina (NC)","Houston (TX)",27,52,0
+0,2017-11-11,"East Carolina (NC)","Tulane (LA)",24,31,1
+1,2017-11-18,"East Carolina (NC)","Cincinnati (OH)",48,20,1
+0,2017-11-25,"East Carolina (NC)","Memphis (TN)",13,70,0
+1,2017-09-02,"Southern Methodist (TX)","Stephen F. Austin (TX)",58,14,1
+1,2017-09-09,"Southern Methodist (TX)","North Texas",54,32,1
+0,2017-09-16,"Southern Methodist (TX)","Texas Christian",36,56,0
+1,2017-09-23,"Southern Methodist (TX)","Arkansas St.",44,21,1
+1,2017-09-30,"Southern Methodist (TX)","Connecticut",49,28,1
+0,2017-10-07,"Southern Methodist (TX)","Houston (TX)",22,35,0
+1,2017-10-21,"Southern Methodist (TX)","Cincinnati (OH)",31,28,0
+1,2017-10-27,"Southern Methodist (TX)","Tulsa (OK)",38,34,1
+0,2017-11-04,"Southern Methodist (TX)","Central Florida",24,31,1
+0,2017-11-11,"Southern Methodist (TX)","Navy (MD)",40,43,0
+0,2017-11-18,"Southern Methodist (TX)","Memphis (TN)",45,66,0
+1,2017-11-25,"Southern Methodist (TX)","Tulane (LA)",41,38,1
+0,2017-12-20,"Southern Methodist (TX)","Louisiana Tech",10,51,1
+1,2017-08-31,"Memphis (TN)","Louisiana-Monroe",37,29,1
+1,2017-09-16,"Memphis (TN)","UCLA",48,45,1
+1,2017-09-23,"Memphis (TN)","Southern Illinois",44,31,1
+0,2017-09-30,"Memphis (TN)","Central Florida",13,40,0
+1,2017-10-06,"Memphis (TN)","Connecticut",70,31,0
+1,2017-10-14,"Memphis (TN)","Navy (MD)",30,27,1
+1,2017-10-19,"Memphis (TN)","Houston (TX)",42,38,0
+1,2017-10-27,"Memphis (TN)","Tulane (LA)",56,26,1
+1,2017-11-03,"Memphis (TN)","Tulsa (OK)",41,14,0
+1,2017-11-18,"Memphis (TN)","Southern Methodist (TX)",66,45,1
+1,2017-11-25,"Memphis (TN)","East Carolina (NC)",70,13,1
+0,2017-12-02,"Memphis (TN)","Central Florida",55,62,0
+0,2017-12-30,"Memphis (TN)","Iowa St.",20,21,1
+0,2017-09-09,"Tulane (LA)","Navy (MD)",21,23,0
+0,2017-09-16,"Tulane (LA)","Oklahoma",14,56,0
+1,2017-09-23,"Tulane (LA)","Army (NY)",21,17,1
+1,2017-10-07,"Tulane (LA)","Tulsa (OK)",62,28,1
+0,2017-10-14,"Tulane (LA)","Florida International",10,23,0
+0,2017-10-21,"Tulane (LA)","South Florida",28,34,1
+0,2017-10-27,"Tulane (LA)","Memphis (TN)",26,56,0
+0,2017-11-04,"Tulane (LA)","Cincinnati (OH)",16,17,1
+1,2017-11-11,"Tulane (LA)","East Carolina (NC)",31,24,0
+1,2017-11-18,"Tulane (LA)","Houston (TX)",20,17,1
+0,2017-11-25,"Tulane (LA)","Southern Methodist (TX)",38,41,0
+1,2017-08-26,"South Florida","San Jose St. (CA)",42,22,0
+1,2017-09-02,"South Florida","SUNY-Stony Brook (NY)",31,17,1
+1,2017-09-15,"South Florida","Illinois",47,23,1
+1,2017-09-21,"South Florida","Temple (PA)",43,7,1
+1,2017-09-30,"South Florida","East Carolina (NC)",61,31,0
+1,2017-10-14,"South Florida","Cincinnati (OH)",33,3,1
+1,2017-10-21,"South Florida","Tulane (LA)",34,28,0
+0,2017-10-28,"South Florida","Houston (TX)",24,28,1
+1,2017-11-04,"South Florida","Connecticut",37,20,0
+1,2017-11-16,"South Florida","Tulsa (OK)",27,20,1
+0,2017-11-24,"South Florida","Central Florida",42,49,0
+1,2017-12-23,"South Florida","Texas Tech",38,34,1
+0,2017-09-02,"Temple (PA)","Notre Dame (IN)",16,49,0
+1,2017-09-09,"Temple (PA)","Villanova (PA)",16,13,1
+1,2017-09-15,"Temple (PA)","Massachusetts",29,21,1
+0,2017-09-21,"Temple (PA)","South Florida",7,43,0
+0,2017-09-30,"Temple (PA)","Houston (TX)",13,20,1
+1,2017-10-07,"Temple (PA)","East Carolina (NC)",34,10,0
+0,2017-10-14,"Temple (PA)","Connecticut",24,28,1
+0,2017-10-21,"Temple (PA)","Army (NY)",28,31,0
+1,2017-11-02,"Temple (PA)","Navy (MD)",34,26,1
+1,2017-11-10,"Temple (PA)","Cincinnati (OH)",35,24,0
+0,2017-11-18,"Temple (PA)","Central Florida",19,45,1
+1,2017-11-25,"Temple (PA)","Tulsa (OK)",43,22,0
+1,2017-12-21,"Temple (PA)","Florida International",28,3,1
+1,2017-08-31,"Central Florida","Florida International",61,17,1
+1,2017-09-23,"Central Florida","Maryland",38,10,0
+1,2017-09-30,"Central Florida","Memphis (TN)",40,13,1
+1,2017-10-07,"Central Florida","Cincinnati (OH)",51,23,0
+1,2017-10-14,"Central Florida","East Carolina (NC)",63,21,1
+1,2017-10-21,"Central Florida","Navy (MD)",31,21,0
+1,2017-10-28,"Central Florida","Austin Peay St. (TN)",73,33,1
+1,2017-11-04,"Central Florida","Southern Methodist (TX)",31,24,0
+1,2017-11-11,"Central Florida","Connecticut",49,24,1
+1,2017-11-18,"Central Florida","Temple (PA)",45,19,0
+1,2017-11-24,"Central Florida","South Florida",49,42,1
+1,2017-12-02,"Central Florida","Memphis (TN)",62,55,1
+1,2017-01-01,"Central Florida","Auburn (AL)",34,27,1
+1,2017-09-01,"Boston College (MA)","Northern Illinois",23,20,0
+0,2017-09-09,"Boston College (MA)","Wake Forest (NC)",10,34,1
+0,2017-09-16,"Boston College (MA)","Notre Dame (IN)",20,49,1
+0,2017-09-23,"Boston College (MA)","Clemson (SC)",7,34,0
+1,2017-09-30,"Boston College (MA)","Central Michigan",28,8,1
+0,2017-10-07,"Boston College (MA)","Virginia Tech",10,23,1
+1,2017-10-14,"Boston College (MA)","Louisville (KY)",45,42,0
+1,2017-10-21,"Boston College (MA)","Virginia",41,10,0
+1,2017-10-27,"Boston College (MA)","Florida St.",35,3,1
+0,2017-11-11,"Boston College (MA)","North Carolina St.",14,17,1
+1,2017-11-18,"Boston College (MA)","Connecticut",39,16,1
+1,2017-11-25,"Boston College (MA)","Syracuse (NY)",42,14,0
+0,2017-12-27,"Boston College (MA)","Iowa",20,27,1
+1,2017-09-02,"Clemson (SC)","Kent St. (OH)",56,3,1
+1,2017-09-09,"Clemson (SC)","Auburn (AL)",14,6,1
+1,2017-09-16,"Clemson (SC)","Louisville (KY)",47,21,0
+1,2017-09-23,"Clemson (SC)","Boston College (MA)",34,7,1
+1,2017-09-30,"Clemson (SC)","Virginia Tech",31,17,0
+1,2017-10-07,"Clemson (SC)","Wake Forest (NC)",28,14,1
+0,2017-10-13,"Clemson (SC)","Syracuse (NY)",24,27,0
+1,2017-10-28,"Clemson (SC)","Georgia Tech",24,10,1
+1,2017-11-04,"Clemson (SC)","North Carolina St.",38,31,0
+1,2017-11-11,"Clemson (SC)","Florida St.",31,14,1
+1,2017-11-18,"Clemson (SC)","Citadel (SC)",61,3,1
+1,2017-11-25,"Clemson (SC)","South Carolina",34,10,0
+1,2017-12-02,"Clemson (SC)","Miami (FL)",38,3,1
+0,2017-01-01,"Clemson (SC)","Alabama",6,24,1
+0,2017-08-31,"Tulsa (OK)","Oklahoma St.",24,59,0
+0,2017-09-16,"Tulsa (OK)","Toledo (OH)",51,54,0
+0,2017-09-23,"Tulsa (OK)","New Mexico",13,16,1
+0,2017-09-30,"Tulsa (OK)","Navy (MD)",21,31,1
+0,2017-10-07,"Tulsa (OK)","Tulane (LA)",28,62,0
+1,2017-10-14,"Tulsa (OK)","Houston (TX)",45,17,1
+0,2017-10-21,"Tulsa (OK)","Connecticut",14,20,0
+0,2017-10-27,"Tulsa (OK)","Southern Methodist (TX)",34,38,0
+0,2017-11-03,"Tulsa (OK)","Memphis (TN)",14,41,1
+0,2017-11-16,"Tulsa (OK)","South Florida",20,27,0
+0,2017-11-25,"Tulsa (OK)","Temple (PA)",22,43,1
+1,2017-09-02,"Louisville (KY)","Purdue (IN)",35,28,1
+1,2017-09-09,"Louisville (KY)","North Carolina",47,35,0
+0,2017-09-16,"Louisville (KY)","Clemson (SC)",21,47,1
+1,2017-09-23,"Louisville (KY)","Kent St. (OH)",42,3,1
+1,2017-09-30,"Louisville (KY)","Murray St. (KY)",55,10,1
+0,2017-10-05,"Louisville (KY)","North Carolina St.",25,39,0
+0,2017-10-14,"Louisville (KY)","Boston College (MA)",42,45,1
+1,2017-10-21,"Louisville (KY)","Florida St.",31,28,0
+0,2017-10-28,"Louisville (KY)","Wake Forest (NC)",32,42,0
+1,2017-11-11,"Louisville (KY)","Virginia",38,21,1
+1,2017-11-18,"Louisville (KY)","Syracuse (NY)",56,10,1
+1,2017-11-25,"Louisville (KY)","Kentucky",44,17,0
+0,2017-12-30,"Louisville (KY)","Mississippi St.",27,31,1
+1,2017-09-02,"Miami (FL)","Bethune-Cookman (FL)",41,13,1
+1,2017-09-23,"Miami (FL)","Toledo (OH)",52,30,1
+1,2017-09-29,"Miami (FL)","Duke (NC)",31,6,0
+1,2017-10-07,"Miami (FL)","Florida St.",24,20,0
+1,2017-10-14,"Miami (FL)","Georgia Tech",25,24,1
+1,2017-10-21,"Miami (FL)","Syracuse (NY)",27,19,1
+1,2017-10-28,"Miami (FL)","North Carolina",24,19,0
+1,2017-11-04,"Miami (FL)","Virginia Tech",28,10,1
+1,2017-11-11,"Miami (FL)","Notre Dame (IN)",41,8,1
+1,2017-11-18,"Miami (FL)","Virginia",44,28,1
+0,2017-11-24,"Miami (FL)","Pittsburgh (PA)",14,24,0
+0,2017-12-02,"Miami (FL)","Clemson (SC)",3,38,1
+0,2017-12-30,"Miami (FL)","Wisconsin",24,34,1
+1,2017-09-02,"Duke (NC)","North Carolina Central",60,7,1
+1,2017-09-09,"Duke (NC)","Northwestern (IL)",41,17,1
+1,2017-09-16,"Duke (NC)","Baylor (TX)",34,20,1
+1,2017-09-23,"Duke (NC)","North Carolina",27,17,0
+0,2017-09-29,"Duke (NC)","Miami (FL)",6,31,1
+0,2017-10-07,"Duke (NC)","Virginia",21,28,0
+0,2017-10-14,"Duke (NC)","Florida St.",10,17,1
+0,2017-10-21,"Duke (NC)","Pittsburgh (PA)",17,24,1
+0,2017-10-28,"Duke (NC)","Virginia Tech",3,24,0
+0,2017-11-11,"Duke (NC)","Army (NY)",16,21,0
+1,2017-11-18,"Duke (NC)","Georgia Tech",43,20,1
+1,2017-11-25,"Duke (NC)","Wake Forest (NC)",31,23,0
+1,2017-12-26,"Duke (NC)","Northern Illinois",36,14,1
+0,2017-09-02,"Florida St.","Alabama",7,24,1
+0,2017-09-23,"Florida St.","North Carolina St.",21,27,1
+1,2017-09-30,"Florida St.","Wake Forest (NC)",26,19,0
+0,2017-10-07,"Florida St.","Miami (FL)",20,24,1
+1,2017-10-14,"Florida St.","Duke (NC)",17,10,0
+0,2017-10-21,"Florida St.","Louisville (KY)",28,31,1
+0,2017-10-27,"Florida St.","Boston College (MA)",3,35,0
+1,2017-11-04,"Florida St.","Syracuse (NY)",27,24,1
+0,2017-11-11,"Florida St.","Clemson (SC)",14,31,0
+1,2017-11-18,"Florida St.","Delaware St.",77,6,1
+1,2017-11-25,"Florida St.","Florida",38,22,0
+1,2017-12-02,"Florida St.","Louisiana-Monroe",42,10,1
+1,2017-12-27,"Florida St.","Southern Mississippi",42,13,1
+0,2017-09-02,"North Carolina St.","South Carolina",28,35,1
+1,2017-09-09,"North Carolina St.","Marshall (WV)",37,20,1
+1,2017-09-16,"North Carolina St.","Furman (SC)",49,16,1
+1,2017-09-23,"North Carolina St.","Florida St.",27,21,0
+1,2017-09-30,"North Carolina St.","Syracuse (NY)",33,25,1
+1,2017-10-05,"North Carolina St.","Louisville (KY)",39,25,1
+1,2017-10-14,"North Carolina St.","Pittsburgh (PA)",35,17,0
+0,2017-10-28,"North Carolina St.","Notre Dame (IN)",14,35,0
+0,2017-11-04,"North Carolina St.","Clemson (SC)",31,38,1
+1,2017-11-11,"North Carolina St.","Boston College (MA)",17,14,0
+0,2017-11-18,"North Carolina St.","Wake Forest (NC)",24,30,0
+1,2017-11-25,"North Carolina St.","North Carolina",33,21,1
+1,2017-12-29,"North Carolina St.","Arizona St.",52,31,1
+1,2017-09-02,"Pittsburgh (PA)","Youngstown St. (OH)",28,21,1
+0,2017-09-09,"Pittsburgh (PA)","Penn St.",14,33,0
+0,2017-09-16,"Pittsburgh (PA)","Oklahoma St.",21,59,1
+0,2017-09-23,"Pittsburgh (PA)","Georgia Tech",17,35,0
+1,2017-09-30,"Pittsburgh (PA)","Rice (TX)",42,10,1
+0,2017-10-07,"Pittsburgh (PA)","Syracuse (NY)",24,27,0
+0,2017-10-14,"Pittsburgh (PA)","North Carolina St.",17,35,1
+1,2017-10-21,"Pittsburgh (PA)","Duke (NC)",24,17,0
+1,2017-10-28,"Pittsburgh (PA)","Virginia",31,14,1
+0,2017-11-09,"Pittsburgh (PA)","North Carolina",31,34,1
+0,2017-11-18,"Pittsburgh (PA)","Virginia Tech",14,20,0
+1,2017-11-24,"Pittsburgh (PA)","Miami (FL)",24,14,1
+1,2017-09-01,"Syracuse (NY)","Central Connecticut St.",50,7,1
+0,2017-09-09,"Syracuse (NY)","Middle Tennessee St.",23,30,1
+1,2017-09-16,"Syracuse (NY)","Central Michigan",41,17,1
+0,2017-09-23,"Syracuse (NY)","Louisiana St.",26,35,0
+0,2017-09-30,"Syracuse (NY)","North Carolina St.",25,33,0
+1,2017-10-07,"Syracuse (NY)","Pittsburgh (PA)",27,24,1
+1,2017-10-13,"Syracuse (NY)","Clemson (SC)",27,24,1
+0,2017-10-21,"Syracuse (NY)","Miami (FL)",19,27,0
+0,2017-11-04,"Syracuse (NY)","Florida St.",24,27,0
+0,2017-11-11,"Syracuse (NY)","Wake Forest (NC)",43,64,1
+0,2017-11-18,"Syracuse (NY)","Louisville (KY)",10,56,0
+0,2017-11-25,"Syracuse (NY)","Boston College (MA)",14,42,1
+1,2017-09-02,"Virginia","William & Mary (VA)",28,10,1
+0,2017-09-09,"Virginia","Indiana",17,34,1
+1,2017-09-16,"Virginia","Connecticut",38,18,1
+1,2017-09-22,"Virginia","Boise St. (ID)",42,23,0
+1,2017-10-07,"Virginia","Duke (NC)",28,21,1
+1,2017-10-14,"Virginia","North Carolina",20,14,0
+0,2017-10-21,"Virginia","Boston College (MA)",10,41,1
+0,2017-10-28,"Virginia","Pittsburgh (PA)",14,31,0
+1,2017-11-04,"Virginia","Georgia Tech",40,36,1
+0,2017-11-11,"Virginia","Louisville (KY)",21,38,0
+0,2017-11-18,"Virginia","Miami (FL)",28,44,0
+0,2017-11-24,"Virginia","Virginia Tech",0,10,1
+0,2017-12-28,"Virginia","Navy (MD)",7,49,0
+0,2017-09-04,"Georgia Tech","Tennessee",41,42,1
+1,2017-09-09,"Georgia Tech","Jacksonville St. (AL)",37,10,1
+1,2017-09-23,"Georgia Tech","Pittsburgh (PA)",35,17,1
+1,2017-09-30,"Georgia Tech","North Carolina",33,7,1
+0,2017-10-14,"Georgia Tech","Miami (FL)",24,25,0
+1,2017-10-21,"Georgia Tech","Wake Forest (NC)",38,24,1
+0,2017-10-28,"Georgia Tech","Clemson (SC)",10,24,0
+0,2017-11-04,"Georgia Tech","Virginia",36,40,0
+1,2017-11-11,"Georgia Tech","Virginia Tech",28,22,1
+0,2017-11-18,"Georgia Tech","Duke (NC)",20,43,0
+0,2017-11-25,"Georgia Tech","Georgia",7,38,1
+1,2017-09-03,"Virginia Tech","West Virginia",31,24,1
+1,2017-09-09,"Virginia Tech","Delaware",27,0,1
+1,2017-09-16,"Virginia Tech","East Carolina (NC)",64,17,0
+1,2017-09-23,"Virginia Tech","Old Dominion (VA)",38,0,1
+0,2017-09-30,"Virginia Tech","Clemson (SC)",17,31,1
+1,2017-10-07,"Virginia Tech","Boston College (MA)",23,10,0
+1,2017-10-21,"Virginia Tech","North Carolina",59,7,1
+1,2017-10-28,"Virginia Tech","Duke (NC)",24,3,1
+0,2017-11-04,"Virginia Tech","Miami (FL)",10,28,0
+0,2017-11-11,"Virginia Tech","Georgia Tech",22,28,0
+1,2017-11-18,"Virginia Tech","Pittsburgh (PA)",20,14,1
+1,2017-11-24,"Virginia Tech","Virginia",10,0,0
+0,2017-12-28,"Virginia Tech","Oklahoma St.",21,30,1
+0,2017-09-02,"Baylor (TX)","Liberty (VA)",45,48,1
+0,2017-09-09,"Baylor (TX)","Texas-San Antonio",10,17,1
+0,2017-09-16,"Baylor (TX)","Duke (NC)",20,34,0
+0,2017-09-23,"Baylor (TX)","Oklahoma",41,49,1
+0,2017-09-30,"Baylor (TX)","Kansas St.",20,33,0
+0,2017-10-14,"Baylor (TX)","Oklahoma St.",16,59,0
+0,2017-10-21,"Baylor (TX)","West Virginia",36,38,1
+0,2017-10-28,"Baylor (TX)","Texas",7,38,1
+1,2017-11-04,"Baylor (TX)","Kansas",38,9,0
+0,2017-11-11,"Baylor (TX)","Texas Tech",24,38,1
+0,2017-11-18,"Baylor (TX)","Iowa St.",13,23,1
+0,2017-11-24,"Baylor (TX)","Texas Christian",22,45,0
+1,2017-08-31,"Wake Forest (NC)","Presbyterian (SC)",51,7,1
+1,2017-09-09,"Wake Forest (NC)","Boston College (MA)",34,10,0
+1,2017-09-16,"Wake Forest (NC)","Utah St.",46,10,1
+1,2017-09-23,"Wake Forest (NC)","Appalachian State (NC)",20,19,0
+0,2017-09-30,"Wake Forest (NC)","Florida St.",19,26,1
+0,2017-10-07,"Wake Forest (NC)","Clemson (SC)",14,28,0
+0,2017-10-21,"Wake Forest (NC)","Georgia Tech",24,38,0
+1,2017-10-28,"Wake Forest (NC)","Louisville (KY)",42,32,1
+0,2017-11-04,"Wake Forest (NC)","Notre Dame (IN)",37,48,0
+1,2017-11-11,"Wake Forest (NC)","Syracuse (NY)",64,43,0
+1,2017-11-18,"Wake Forest (NC)","North Carolina St.",30,24,1
+0,2017-11-25,"Wake Forest (NC)","Duke (NC)",23,31,1
+1,2017-12-29,"Wake Forest (NC)","Texas A&M",55,52,1
+1,2017-09-02,"Kansas St.","Central Arkansas",55,19,1
+1,2017-09-09,"Kansas St.","North Carolina-Charlotte",55,7,1
+0,2017-09-16,"Kansas St.","Vanderbilt (TN)",7,14,0
+1,2017-09-30,"Kansas St.","Baylor (TX)",33,20,1
+0,2017-10-07,"Kansas St.","Texas",34,40,0
+0,2017-10-14,"Kansas St.","Texas Christian",6,26,1
+0,2017-10-21,"Kansas St.","Oklahoma",35,42,1
+1,2017-10-28,"Kansas St.","Kansas",30,20,0
+1,2017-11-04,"Kansas St.","Texas Tech",42,35,0
+0,2017-11-11,"Kansas St.","West Virginia",23,28,1
+1,2017-11-18,"Kansas St.","Oklahoma St.",45,40,0
+1,2017-11-25,"Kansas St.","Iowa St.",20,19,1
+1,2017-12-26,"Kansas St.","UCLA",35,17,1
+1,2017-09-02,"Oklahoma","Texas-El Paso",56,7,1
+1,2017-09-09,"Oklahoma","Ohio St.",31,16,0
+1,2017-09-16,"Oklahoma","Tulane (LA)",56,14,1
+1,2017-09-23,"Oklahoma","Baylor (TX)",49,41,0
+0,2017-10-07,"Oklahoma","Iowa St.",31,38,1
+1,2017-10-14,"Oklahoma","Texas",29,24,1
+1,2017-10-21,"Oklahoma","Kansas St.",42,35,0
+1,2017-10-28,"Oklahoma","Texas Tech",49,27,1
+1,2017-11-04,"Oklahoma","Oklahoma St.",62,52,0
+1,2017-11-11,"Oklahoma","Texas Christian",38,20,1
+1,2017-11-18,"Oklahoma","Kansas",41,3,0
+1,2017-11-25,"Oklahoma","West Virginia",59,31,1
+1,2017-12-02,"Oklahoma","Texas Christian",41,17,1
+0,2017-01-01,"Oklahoma","Georgia",48,54,1
+1,2017-09-02,"Iowa St.","Northern Iowa",42,24,1
+0,2017-09-09,"Iowa St.","Iowa",41,44,1
+1,2017-09-16,"Iowa St.","Akron (OH)",41,14,0
+0,2017-09-28,"Iowa St.","Texas",7,17,1
+1,2017-10-07,"Iowa St.","Oklahoma",38,31,0
+1,2017-10-14,"Iowa St.","Kansas",45,0,1
+1,2017-10-21,"Iowa St.","Texas Tech",31,13,0
+1,2017-10-28,"Iowa St.","Texas Christian",14,7,1
+0,2017-11-04,"Iowa St.","West Virginia",16,20,0
+0,2017-11-11,"Iowa St.","Oklahoma St.",42,49,1
+1,2017-11-18,"Iowa St.","Baylor (TX)",23,13,0
+0,2017-11-25,"Iowa St.","Kansas St.",19,20,0
+1,2017-12-30,"Iowa St.","Memphis (TN)",21,20,0
+1,2017-09-02,"Kansas","Southeast Missouri St.",38,16,1
+0,2017-09-09,"Kansas","Central Michigan",27,45,1
+0,2017-09-16,"Kansas","Ohio",30,42,0
+0,2017-09-23,"Kansas","West Virginia",34,56,1
+0,2017-10-07,"Kansas","Texas Tech",19,65,1
+0,2017-10-14,"Kansas","Iowa St.",0,45,0
+0,2017-10-21,"Kansas","Texas Christian",0,43,0
+0,2017-10-28,"Kansas","Kansas St.",20,30,1
+0,2017-11-04,"Kansas","Baylor (TX)",9,38,1
+0,2017-11-11,"Kansas","Texas",27,42,0
+0,2017-11-18,"Kansas","Oklahoma",3,41,1
+0,2017-11-25,"Kansas","Oklahoma St.",17,58,0
+0,2017-09-02,"Texas","Maryland",41,51,1
+1,2017-09-09,"Texas","San Jose St. (CA)",56,0,1
+0,2017-09-16,"Texas","Southern California",24,27,0
+1,2017-09-28,"Texas","Iowa St.",17,7,0
+1,2017-10-07,"Texas","Kansas St.",40,34,1
+0,2017-10-14,"Texas","Oklahoma",24,29,1
+0,2017-10-21,"Texas","Oklahoma St.",10,13,1
+1,2017-10-28,"Texas","Baylor (TX)",38,7,0
+0,2017-11-04,"Texas","Texas Christian",7,24,0
+1,2017-11-11,"Texas","Kansas",42,27,1
+1,2017-11-18,"Texas","West Virginia",28,14,0
+0,2017-11-24,"Texas","Texas Tech",23,27,1
+1,2017-12-27,"Texas","Missouri",33,16,1
+1,2017-08-31,"Oklahoma St.","Tulsa (OK)",59,24,1
+1,2017-09-08,"Oklahoma St.","South Alabama",44,7,0
+1,2017-09-16,"Oklahoma St.","Pittsburgh (PA)",59,21,0
+0,2017-09-23,"Oklahoma St.","Texas Christian",31,44,1
+1,2017-09-30,"Oklahoma St.","Texas Tech",41,34,0
+1,2017-10-14,"Oklahoma St.","Baylor (TX)",59,16,1
+1,2017-10-21,"Oklahoma St.","Texas",13,10,0
+1,2017-10-28,"Oklahoma St.","West Virginia",50,39,0
+0,2017-11-04,"Oklahoma St.","Oklahoma",52,62,1
+1,2017-11-11,"Oklahoma St.","Iowa St.",49,42,0
+0,2017-11-18,"Oklahoma St.","Kansas St.",40,45,1
+1,2017-11-25,"Oklahoma St.","Kansas",58,17,1
+1,2017-12-28,"Oklahoma St.","Virginia Tech",30,21,1
+1,2017-09-02,"Texas Tech","Eastern Washington",56,10,1
+1,2017-09-16,"Texas Tech","Arizona St.",52,45,1
+1,2017-09-23,"Texas Tech","Houston (TX)",27,24,0
+0,2017-09-30,"Texas Tech","Oklahoma St.",34,41,1
+1,2017-10-07,"Texas Tech","Kansas",65,19,0
+0,2017-10-14,"Texas Tech","West Virginia",35,46,0
+0,2017-10-21,"Texas Tech","Iowa St.",13,31,1
+0,2017-10-28,"Texas Tech","Oklahoma",27,49,0
+0,2017-11-04,"Texas Tech","Kansas St.",35,42,1
+1,2017-11-11,"Texas Tech","Baylor (TX)",38,24,1
+0,2017-11-18,"Texas Tech","Texas Christian",3,27,1
+1,2017-11-24,"Texas Tech","Texas",27,23,0
+0,2017-12-23,"Texas Tech","South Florida",34,38,1
+1,2017-09-02,"Texas Christian","Jackson St. (MS)",63,0,1
+1,2017-09-09,"Texas Christian","Arkansas",28,7,0
+1,2017-09-16,"Texas Christian","Southern Methodist (TX)",56,36,1
+1,2017-09-23,"Texas Christian","Oklahoma St.",44,31,0
+1,2017-10-07,"Texas Christian","West Virginia",31,24,1
+1,2017-10-14,"Texas Christian","Kansas St.",26,6,0
+1,2017-10-21,"Texas Christian","Kansas",43,0,1
+0,2017-10-28,"Texas Christian","Iowa St.",7,14,0
+1,2017-11-04,"Texas Christian","Texas",24,7,1
+0,2017-11-11,"Texas Christian","Oklahoma",20,38,0
+1,2017-11-18,"Texas Christian","Texas Tech",27,3,0
+1,2017-11-24,"Texas Christian","Baylor (TX)",45,22,1
+0,2017-12-02,"Texas Christian","Oklahoma",17,41,1
+1,2017-12-28,"Texas Christian","Stanford (CA)",39,37,1
+0,2017-09-03,"West Virginia","Virginia Tech",24,31,1
+1,2017-09-09,"West Virginia","East Carolina (NC)",56,20,1
+1,2017-09-16,"West Virginia","Delaware St.",59,16,1
+1,2017-09-23,"West Virginia","Kansas",56,34,0
+0,2017-10-07,"West Virginia","Texas Christian",24,31,0
+1,2017-10-14,"West Virginia","Texas Tech",46,35,1
+1,2017-10-21,"West Virginia","Baylor (TX)",38,36,0
+0,2017-10-28,"West Virginia","Oklahoma St.",39,50,1
+1,2017-11-04,"West Virginia","Iowa St.",20,16,1
+1,2017-11-11,"West Virginia","Kansas St.",28,23,0
+0,2017-11-18,"West Virginia","Texas",14,28,1
+0,2017-11-25,"West Virginia","Oklahoma",31,59,0
+0,2017-12-26,"West Virginia","Utah",14,30,1
+1,2017-09-02,"Illinois","Ball St. (IN)",24,21,1
+1,2017-09-09,"Illinois","Western Kentucky",20,7,1
+0,2017-09-15,"Illinois","South Florida",23,47,0
+0,2017-09-29,"Illinois","Nebraska",6,28,1
+0,2017-10-07,"Illinois","Iowa",16,45,0
+0,2017-10-14,"Illinois","Rutgers (NJ)",24,35,1
+0,2017-10-21,"Illinois","Minnesota",17,24,0
+0,2017-10-28,"Illinois","Wisconsin",10,24,1
+0,2017-11-04,"Illinois","Purdue (IN)",10,29,0
+0,2017-11-11,"Illinois","Indiana",14,24,1
+0,2017-11-18,"Illinois","Ohio St.",14,52,0
+0,2017-11-25,"Illinois","Northwestern (IL)",7,42,1
+0,2017-08-31,"Indiana","Ohio St.",21,49,1
+1,2017-09-09,"Indiana","Virginia",34,17,0
+1,2017-09-23,"Indiana","Georgia Southern",52,17,1
+0,2017-09-30,"Indiana","Penn St.",14,45,0
+1,2017-10-07,"Indiana","Charleston Southern (SC)",27,0,1
+0,2017-10-14,"Indiana","Michigan",20,27,1
+0,2017-10-21,"Indiana","Michigan St.",9,17,0
+0,2017-10-28,"Indiana","Maryland",39,42,0
+0,2017-11-04,"Indiana","Wisconsin",17,45,1
+1,2017-11-11,"Indiana","Illinois",24,14,0
+1,2017-11-18,"Indiana","Rutgers (NJ)",41,0,1
+0,2017-11-25,"Indiana","Purdue (IN)",24,31,0
+1,2017-09-02,"Iowa","Wyoming",24,3,1
+1,2017-09-09,"Iowa","Iowa St.",44,41,0
+1,2017-09-16,"Iowa","North Texas",31,14,1
+0,2017-09-23,"Iowa","Penn St.",19,21,1
+0,2017-09-30,"Iowa","Michigan St.",10,17,0
+1,2017-10-07,"Iowa","Illinois",45,16,1
+0,2017-10-21,"Iowa","Northwestern (IL)",10,17,0
+1,2017-10-28,"Iowa","Minnesota",17,10,1
+1,2017-11-04,"Iowa","Ohio St.",55,24,1
+0,2017-11-11,"Iowa","Wisconsin",14,38,0
+0,2017-11-18,"Iowa","Purdue (IN)",15,24,1
+1,2017-11-24,"Iowa","Nebraska",56,14,0
+1,2017-12-27,"Iowa","Boston College (MA)",27,20,1
+1,2017-09-02,"Michigan","Florida",33,17,1
+1,2017-09-09,"Michigan","Cincinnati (OH)",36,14,1
+1,2017-09-16,"Michigan","Air Force (CO)",29,13,1
+1,2017-09-23,"Michigan","Purdue (IN)",28,10,0
+0,2017-10-07,"Michigan","Michigan St.",10,14,1
+1,2017-10-14,"Michigan","Indiana",27,20,0
+0,2017-10-21,"Michigan","Penn St.",13,42,0
+1,2017-10-28,"Michigan","Rutgers (NJ)",35,14,1
+1,2017-11-04,"Michigan","Minnesota",33,10,1
+1,2017-11-11,"Michigan","Maryland",35,10,0
+0,2017-11-18,"Michigan","Wisconsin",10,24,0
+0,2017-11-25,"Michigan","Ohio St.",20,31,1
+0,2017-01-01,"Michigan","South Carolina",19,26,1
+1,2017-09-02,"Maryland","Texas",51,41,0
+1,2017-09-09,"Maryland","Towson (MD)",63,17,1
+0,2017-09-23,"Maryland","Central Florida",10,38,1
+1,2017-09-30,"Maryland","Minnesota",31,24,0
+0,2017-10-07,"Maryland","Ohio St.",14,62,0
+0,2017-10-14,"Maryland","Northwestern (IL)",21,37,1
+0,2017-10-21,"Maryland","Wisconsin",13,38,0
+1,2017-10-28,"Maryland","Indiana",42,39,1
+0,2017-11-04,"Maryland","Rutgers (NJ)",24,31,0
+0,2017-11-11,"Maryland","Michigan",10,35,1
+0,2017-11-18,"Maryland","Michigan St.",7,17,0
+0,2017-11-25,"Maryland","Penn St.",3,66,1
+1,2017-09-02,"Michigan St.","Bowling Green (OH)",35,10,1
+1,2017-09-09,"Michigan St.","Western Michigan",28,14,1
+0,2017-09-23,"Michigan St.","Notre Dame (IN)",18,38,1
+1,2017-09-30,"Michigan St.","Iowa",17,10,1
+1,2017-10-07,"Michigan St.","Michigan",14,10,0
+1,2017-10-14,"Michigan St.","Minnesota",30,27,0
+1,2017-10-21,"Michigan St.","Indiana",17,9,1
+0,2017-10-28,"Michigan St.","Northwestern (IL)",31,39,0
+1,2017-11-04,"Michigan St.","Penn St.",27,24,1
+0,2017-11-11,"Michigan St.","Ohio St.",3,48,0
+1,2017-11-18,"Michigan St.","Maryland",17,7,1
+1,2017-11-25,"Michigan St.","Rutgers (NJ)",40,7,0
+1,2017-12-28,"Michigan St.","Washington St.",42,17,1
+0,2017-09-02,"North Carolina","California",30,35,1
+0,2017-09-09,"North Carolina","Louisville (KY)",35,47,1
+1,2017-09-16,"North Carolina","Old Dominion (VA)",53,23,0
+0,2017-09-23,"North Carolina","Duke (NC)",17,27,1
+0,2017-09-30,"North Carolina","Georgia Tech",7,33,0
+0,2017-10-07,"North Carolina","Notre Dame (IN)",10,33,1
+0,2017-10-14,"North Carolina","Virginia",14,20,1
+0,2017-10-21,"North Carolina","Virginia Tech",7,59,0
+0,2017-10-28,"North Carolina","Miami (FL)",19,24,1
+1,2017-11-09,"North Carolina","Pittsburgh (PA)",34,31,0
+1,2017-11-18,"North Carolina","Western Carolina (NC)",65,10,1
+0,2017-11-25,"North Carolina","North Carolina St.",21,33,0
+1,2017-08-31,"Ohio St.","Indiana",49,21,0
+0,2017-09-09,"Ohio St.","Oklahoma",16,31,1
+1,2017-09-16,"Ohio St.","Army (NY)",38,7,1
+1,2017-09-23,"Ohio St.","Nevada-Las Vegas",54,21,1
+1,2017-09-30,"Ohio St.","Rutgers (NJ)",56,0,0
+1,2017-10-07,"Ohio St.","Maryland",62,14,1
+1,2017-10-14,"Ohio St.","Nebraska",56,14,0
+1,2017-10-28,"Ohio St.","Penn St.",39,38,1
+0,2017-11-04,"Ohio St.","Iowa",24,55,0
+1,2017-11-11,"Ohio St.","Michigan St.",48,3,1
+1,2017-11-18,"Ohio St.","Illinois",52,14,1
+1,2017-11-25,"Ohio St.","Michigan",31,20,0
+1,2017-12-02,"Ohio St.","Wisconsin",27,21,1
+1,2017-12-29,"Ohio St.","Southern California",24,7,1
+1,2017-09-02,"Penn St.","Akron (OH)",52,0,1
+1,2017-09-09,"Penn St.","Pittsburgh (PA)",33,14,1
+1,2017-09-16,"Penn St.","Georgia St.",56,0,1
+1,2017-09-23,"Penn St.","Iowa",21,19,0
+1,2017-09-30,"Penn St.","Indiana",45,14,1
+1,2017-10-07,"Penn St.","Northwestern (IL)",31,7,0
+1,2017-10-21,"Penn St.","Michigan",42,13,1
+0,2017-10-28,"Penn St.","Ohio St.",38,39,0
+0,2017-11-04,"Penn St.","Michigan St.",24,27,0
+1,2017-11-11,"Penn St.","Rutgers (NJ)",35,6,1
+1,2017-11-18,"Penn St.","Nebraska",56,44,1
+1,2017-11-25,"Penn St.","Maryland",66,3,0
+1,2017-12-30,"Penn St.","Washington",35,28,1
+1,2017-09-02,"Nebraska","Arkansas St.",43,36,1
+0,2017-09-09,"Nebraska","Oregon",35,42,0
+0,2017-09-16,"Nebraska","Northern Illinois",17,21,1
+1,2017-09-23,"Nebraska","Rutgers (NJ)",27,17,1
+1,2017-09-29,"Nebraska","Illinois",28,6,0
+0,2017-10-07,"Nebraska","Wisconsin",17,38,1
+0,2017-10-14,"Nebraska","Ohio St.",14,56,1
+1,2017-10-28,"Nebraska","Purdue (IN)",25,24,0
+0,2017-11-04,"Nebraska","Northwestern (IL)",24,31,1
+0,2017-11-11,"Nebraska","Minnesota",21,54,0
+0,2017-11-18,"Nebraska","Penn St.",44,56,0
+0,2017-11-24,"Nebraska","Iowa",14,56,1
+1,2017-08-31,"Minnesota","Buffalo (NY)",17,7,1
+1,2017-09-09,"Minnesota","Oregon St.",48,14,0
+1,2017-09-16,"Minnesota","Middle Tennessee St.",34,3,1
+0,2017-09-30,"Minnesota","Maryland",24,31,1
+0,2017-10-07,"Minnesota","Purdue (IN)",17,31,0
+0,2017-10-14,"Minnesota","Michigan St.",27,30,1
+1,2017-10-21,"Minnesota","Illinois",24,17,1
+0,2017-10-28,"Minnesota","Iowa",10,17,0
+0,2017-11-04,"Minnesota","Michigan",10,33,0
+1,2017-11-11,"Minnesota","Nebraska",54,21,1
+0,2017-11-18,"Minnesota","Northwestern (IL)",0,39,0
+0,2017-11-25,"Minnesota","Wisconsin",0,31,1
+1,2017-09-02,"Northwestern (IL)","Nevada",31,20,1
+0,2017-09-09,"Northwestern (IL)","Duke (NC)",17,41,0
+1,2017-09-16,"Northwestern (IL)","Bowling Green (OH)",49,7,1
+0,2017-09-30,"Northwestern (IL)","Wisconsin",24,33,0
+0,2017-10-07,"Northwestern (IL)","Penn St.",7,31,1
+1,2017-10-14,"Northwestern (IL)","Maryland",37,21,0
+1,2017-10-21,"Northwestern (IL)","Iowa",17,10,1
+1,2017-10-28,"Northwestern (IL)","Michigan St.",39,31,1
+1,2017-11-04,"Northwestern (IL)","Nebraska",31,24,0
+1,2017-11-11,"Northwestern (IL)","Purdue (IN)",23,13,1
+1,2017-11-18,"Northwestern (IL)","Minnesota",39,0,1
+1,2017-11-25,"Northwestern (IL)","Illinois",42,7,0
+1,2017-12-29,"Northwestern (IL)","Kentucky",24,23,1
+0,2017-09-02,"Purdue (IN)","Louisville (KY)",28,35,1
+1,2017-09-08,"Purdue (IN)","Ohio",44,21,1
+1,2017-09-16,"Purdue (IN)","Missouri",35,3,0
+0,2017-09-23,"Purdue (IN)","Michigan",10,28,1
+1,2017-10-07,"Purdue (IN)","Minnesota",31,17,1
+0,2017-10-14,"Purdue (IN)","Wisconsin",9,17,0
+0,2017-10-21,"Purdue (IN)","Rutgers (NJ)",12,14,0
+0,2017-10-28,"Purdue (IN)","Nebraska",24,25,1
+1,2017-11-04,"Purdue (IN)","Illinois",29,10,1
+0,2017-11-11,"Purdue (IN)","Northwestern (IL)",13,23,0
+1,2017-11-18,"Purdue (IN)","Iowa",24,15,0
+1,2017-11-25,"Purdue (IN)","Indiana",31,24,1
+1,2017-12-27,"Purdue (IN)","Arizona",38,35,1
+0,2017-09-01,"Rutgers (NJ)","Washington",14,30,1
+0,2017-09-09,"Rutgers (NJ)","Eastern Michigan",13,16,1
+1,2017-09-16,"Rutgers (NJ)","Morgan St. (MD)",65,0,1
+0,2017-09-23,"Rutgers (NJ)","Nebraska",17,27,0
+0,2017-09-30,"Rutgers (NJ)","Ohio St.",0,56,1
+1,2017-10-14,"Rutgers (NJ)","Illinois",35,24,0
+1,2017-10-21,"Rutgers (NJ)","Purdue (IN)",14,12,1
+0,2017-10-28,"Rutgers (NJ)","Michigan",14,35,0
+1,2017-11-04,"Rutgers (NJ)","Maryland",31,24,1
+0,2017-11-11,"Rutgers (NJ)","Penn St.",6,35,0
+0,2017-11-18,"Rutgers (NJ)","Indiana",0,41,0
+0,2017-11-25,"Rutgers (NJ)","Michigan St.",7,40,1
+0,2017-09-01,"Florida Atlantic","Navy (MD)",19,42,1
+0,2017-09-09,"Florida Atlantic","Wisconsin",14,31,0
+1,2017-09-16,"Florida Atlantic","Bethune-Cookman (FL)",45,0,1
+0,2017-09-23,"Florida Atlantic","Buffalo (NY)",31,34,0
+1,2017-09-30,"Florida Atlantic","Middle Tennessee St.",38,20,1
+1,2017-10-07,"Florida Atlantic","Old Dominion (VA)",58,28,0
+1,2017-10-21,"Florida Atlantic","North Texas",69,31,1
+1,2017-10-28,"Florida Atlantic","Western Kentucky",42,28,0
+1,2017-11-03,"Florida Atlantic","Marshall (WV)",30,25,1
+1,2017-11-11,"Florida Atlantic","Louisiana Tech",48,23,0
+1,2017-11-18,"Florida Atlantic","Florida International",52,24,1
+1,2017-11-25,"Florida Atlantic","North Carolina-Charlotte",31,12,0
+1,2017-12-02,"Florida Atlantic","North Texas",41,17,1
+1,2017-12-19,"Florida Atlantic","Akron (OH)",50,3,1
+0,2017-09-01,"North Carolina-Charlotte","Eastern Michigan",7,24,0
+0,2017-09-09,"North Carolina-Charlotte","Kansas St.",7,55,0
+0,2017-09-16,"North Carolina-Charlotte","North Carolina A&T",31,35,1
+0,2017-09-23,"North Carolina-Charlotte","Georgia St.",0,28,1
+0,2017-09-30,"North Carolina-Charlotte","Florida International",29,30,0
+0,2017-10-07,"North Carolina-Charlotte","Marshall (WV)",3,14,1
+0,2017-10-14,"North Carolina-Charlotte","Western Kentucky",14,45,0
+1,2017-10-21,"North Carolina-Charlotte","Alabama-Birmingham",25,24,1
+0,2017-11-04,"North Carolina-Charlotte","Old Dominion (VA)",0,6,0
+0,2017-11-11,"North Carolina-Charlotte","Middle Tennessee St.",21,35,1
+0,2017-11-18,"North Carolina-Charlotte","Southern Mississippi",21,66,0
+0,2017-11-25,"North Carolina-Charlotte","Florida Atlantic",12,31,1
+0,2017-08-31,"Florida International","Central Florida",17,61,0
+1,2017-09-08,"Florida International","Alcorn St. (MS)",17,10,1
+1,2017-09-23,"Florida International","Rice (TX)",13,7,0
+1,2017-09-30,"Florida International","North Carolina-Charlotte",30,29,1
+0,2017-10-07,"Florida International","Middle Tennessee St.",17,37,0
+1,2017-10-14,"Florida International","Tulane (LA)",23,10,1
+1,2017-10-28,"Florida International","Marshall (WV)",41,30,0
+1,2017-11-04,"Florida International","Texas-San Antonio",14,7,1
+0,2017-11-11,"Florida International","Old Dominion (VA)",30,37,1
+0,2017-11-18,"Florida International","Florida Atlantic",24,52,0
+1,2017-11-24,"Florida International","Western Kentucky",41,17,1
+1,2017-12-02,"Florida International","Massachusetts",63,45,1
+0,2017-12-21,"Florida International","Temple (PA)",3,28,1
+1,2017-09-02,"Marshall (WV)","Miami (OH)",31,26,1
+0,2017-09-09,"Marshall (WV)","North Carolina St.",20,37,0
+1,2017-09-16,"Marshall (WV)","Kent St. (OH)",21,0,1
+1,2017-09-30,"Marshall (WV)","Cincinnati (OH)",38,21,0
+1,2017-10-07,"Marshall (WV)","North Carolina-Charlotte",14,3,0
+1,2017-10-14,"Marshall (WV)","Old Dominion (VA)",35,3,1
+1,2017-10-20,"Marshall (WV)","Middle Tennessee St.",38,10,0
+0,2017-10-28,"Marshall (WV)","Florida International",30,41,1
+0,2017-11-03,"Marshall (WV)","Florida Atlantic",25,30,0
+1,2017-11-11,"Marshall (WV)","Western Kentucky",30,23,1
+0,2017-11-18,"Marshall (WV)","Texas-San Antonio",7,9,0
+0,2017-11-25,"Marshall (WV)","Southern Mississippi",27,28,1
+1,2017-12-16,"Marshall (WV)","Colorado St.",31,28,1
+1,2017-09-02,"Louisiana Tech","Northwestern St. (LA)",52,24,1
+0,2017-09-09,"Louisiana Tech","Mississippi St.",21,57,1
+1,2017-09-16,"Louisiana Tech","Western Kentucky",23,22,0
+0,2017-09-23,"Louisiana Tech","South Carolina",16,17,0
+1,2017-09-30,"Louisiana Tech","South Alabama",34,16,1
+0,2017-10-07,"Louisiana Tech","Alabama-Birmingham",22,23,0
+0,2017-10-21,"Louisiana Tech","Southern Mississippi",27,34,1
+1,2017-10-28,"Louisiana Tech","Rice (TX)",42,28,0
+0,2017-11-04,"Louisiana Tech","North Texas",23,24,1
+0,2017-11-11,"Louisiana Tech","Florida Atlantic",23,48,1
+1,2017-11-18,"Louisiana Tech","Texas-El Paso",42,21,0
+1,2017-11-25,"Louisiana Tech","Texas-San Antonio",20,6,1
+1,2017-12-20,"Louisiana Tech","Southern Methodist (TX)",51,10,1
+0,2017-09-02,"Middle Tennessee St.","Vanderbilt (TN)",6,28,1
+1,2017-09-09,"Middle Tennessee St.","Syracuse (NY)",30,23,0
+0,2017-09-16,"Middle Tennessee St.","Minnesota",3,34,0
+1,2017-09-23,"Middle Tennessee St.","Bowling Green (OH)",24,13,1
+0,2017-09-30,"Middle Tennessee St.","Florida Atlantic",20,38,0
+1,2017-10-07,"Middle Tennessee St.","Florida International",37,17,1
+0,2017-10-14,"Middle Tennessee St.","Alabama-Birmingham",23,25,0
+0,2017-10-20,"Middle Tennessee St.","Marshall (WV)",10,38,1
+1,2017-11-04,"Middle Tennessee St.","Texas-El Paso",30,3,1
+1,2017-11-11,"Middle Tennessee St.","North Carolina-Charlotte",35,21,0
+0,2017-11-17,"Middle Tennessee St.","Western Kentucky",38,41,0
+1,2017-11-25,"Middle Tennessee St.","Old Dominion (VA)",41,10,1
+1,2017-12-16,"Middle Tennessee St.","Arkansas St.",35,30,1
+1,2017-09-02,"Old Dominion (VA)","SUNY-Albany (NY)",31,17,1
+1,2017-09-09,"Old Dominion (VA)","Massachusetts",17,7,0
+0,2017-09-16,"Old Dominion (VA)","North Carolina",23,53,1
+0,2017-09-23,"Old Dominion (VA)","Virginia Tech",0,38,0
+0,2017-10-07,"Old Dominion (VA)","Florida Atlantic",28,58,1
+0,2017-10-14,"Old Dominion (VA)","Marshall (WV)",3,35,0
+0,2017-10-20,"Old Dominion (VA)","Western Kentucky",31,35,1
+0,2017-10-28,"Old Dominion (VA)","North Texas",38,45,0
+1,2017-11-04,"Old Dominion (VA)","North Carolina-Charlotte",6,0,1
+1,2017-11-11,"Old Dominion (VA)","Florida International",37,30,0
+1,2017-11-18,"Old Dominion (VA)","Rice (TX)",24,21,1
+0,2017-11-25,"Old Dominion (VA)","Middle Tennessee St.",10,41,0
+0,2017-08-26,"Rice (TX)","Stanford (CA)",7,62,1
+1,2017-09-09,"Rice (TX)","Texas-El Paso",31,14,0
+0,2017-09-16,"Rice (TX)","Houston (TX)",3,38,0
+0,2017-09-23,"Rice (TX)","Florida International",7,13,1
+0,2017-09-30,"Rice (TX)","Pittsburgh (PA)",10,42,0
+0,2017-10-07,"Rice (TX)","Army (NY)",12,49,1
+0,2017-10-21,"Rice (TX)","Texas-San Antonio",7,20,0
+0,2017-10-28,"Rice (TX)","Louisiana Tech",28,42,1
+0,2017-11-04,"Rice (TX)","Alabama-Birmingham",21,52,0
+0,2017-11-11,"Rice (TX)","Southern Mississippi",34,43,1
+0,2017-11-18,"Rice (TX)","Old Dominion (VA)",21,24,0
+0,2017-11-25,"Rice (TX)","North Texas",14,30,1
+0,2017-09-02,"Texas-El Paso","Oklahoma",7,56,0
+0,2017-09-09,"Texas-El Paso","Rice (TX)",14,31,1
+0,2017-09-15,"Texas-El Paso","Arizona",16,63,1
+0,2017-09-23,"Texas-El Paso","New Mexico St.",14,41,0
+0,2017-09-30,"Texas-El Paso","Army (NY)",21,35,0
+0,2017-10-07,"Texas-El Paso","Western Kentucky",14,15,1
+0,2017-10-14,"Texas-El Paso","Southern Mississippi",0,24,0
+0,2017-10-28,"Texas-El Paso","Texas-San Antonio",14,31,1
+0,2017-11-04,"Texas-El Paso","Middle Tennessee St.",3,30,0
+0,2017-11-11,"Texas-El Paso","North Texas",10,45,0
+0,2017-11-18,"Texas-El Paso","Louisiana Tech",21,42,1
+0,2017-11-25,"Texas-El Paso","Alabama-Birmingham",7,28,0
+1,2017-09-09,"Texas-San Antonio","Baylor (TX)",17,10,0
+1,2017-09-16,"Texas-San Antonio","Southern (LA)",51,17,1
+1,2017-09-23,"Texas-San Antonio","Texas St.",44,14,0
+0,2017-10-07,"Texas-San Antonio","Southern Mississippi",29,31,1
+0,2017-10-14,"Texas-San Antonio","North Texas",26,29,0
+1,2017-10-21,"Texas-San Antonio","Rice (TX)",20,7,1
+1,2017-10-28,"Texas-San Antonio","Texas-El Paso",31,14,0
+0,2017-11-04,"Texas-San Antonio","Florida International",7,14,0
+0,2017-11-11,"Texas-San Antonio","Alabama-Birmingham",19,24,1
+1,2017-11-18,"Texas-San Antonio","Marshall (WV)",9,7,1
+0,2017-11-25,"Texas-San Antonio","Louisiana Tech",6,20,0
+1,2017-09-02,"Western Kentucky","Eastern Kentucky",31,17,1
+0,2017-09-09,"Western Kentucky","Illinois",7,20,0
+0,2017-09-16,"Western Kentucky","Louisiana Tech",22,23,1
+1,2017-09-23,"Western Kentucky","Ball St. (IN)",33,21,1
+1,2017-10-07,"Western Kentucky","Texas-El Paso",15,14,0
+1,2017-10-14,"Western Kentucky","North Carolina-Charlotte",45,14,1
+1,2017-10-20,"Western Kentucky","Old Dominion (VA)",35,31,0
+0,2017-10-28,"Western Kentucky","Florida Atlantic",28,42,1
+0,2017-11-04,"Western Kentucky","Vanderbilt (TN)",17,31,0
+0,2017-11-11,"Western Kentucky","Marshall (WV)",23,30,0
+1,2017-11-17,"Western Kentucky","Middle Tennessee St.",41,38,1
+0,2017-11-24,"Western Kentucky","Florida International",17,41,0
+0,2017-12-16,"Western Kentucky","Georgia St.",17,27,1
+1,2017-08-26,"Brigham Young (UT)","Portland St. (OR)",20,6,1
+0,2017-09-02,"Brigham Young (UT)","Louisiana St.",0,27,1
+0,2017-09-09,"Brigham Young (UT)","Utah",13,19,1
+0,2017-09-16,"Brigham Young (UT)","Wisconsin",6,40,1
+0,2017-09-29,"Brigham Young (UT)","Utah St.",24,40,0
+0,2017-10-06,"Brigham Young (UT)","Boise St. (ID)",7,24,1
+0,2017-10-14,"Brigham Young (UT)","Mississippi St.",10,35,0
+0,2017-10-21,"Brigham Young (UT)","East Carolina (NC)",17,33,0
+1,2017-10-28,"Brigham Young (UT)","San Jose St. (CA)",41,20,1
+0,2017-11-04,"Brigham Young (UT)","Fresno St. (CA)",13,20,0
+1,2017-11-10,"Brigham Young (UT)","Nevada-Las Vegas",31,21,0
+0,2017-11-18,"Brigham Young (UT)","Massachusetts",10,16,1
+1,2017-11-25,"Brigham Young (UT)","Hawaii",30,20,0
+1,2017-09-01,"Army (NY)","Fordham (NY)",64,6,1
+1,2017-09-09,"Army (NY)","Buffalo (NY)",21,17,1
+0,2017-09-16,"Army (NY)","Ohio St.",7,38,0
+0,2017-09-23,"Army (NY)","Tulane (LA)",17,21,0
+1,2017-09-30,"Army (NY)","Texas-El Paso",35,21,1
+1,2017-10-07,"Army (NY)","Rice (TX)",49,12,0
+1,2017-10-14,"Army (NY)","Eastern Michigan",28,27,1
+1,2017-10-21,"Army (NY)","Temple (PA)",31,28,1
+1,2017-11-04,"Army (NY)","Air Force (CO)",21,0,0
+1,2017-11-11,"Army (NY)","Duke (NC)",21,16,1
+0,2017-11-18,"Army (NY)","North Texas",49,52,0
+1,2017-12-09,"Army (NY)","Navy (MD)",14,13,1
+1,2017-12-23,"Army (NY)","San Diego St. (CA)",42,35,1
+1,2017-09-01,"Wisconsin","Utah St.",59,10,1
+1,2017-09-09,"Wisconsin","Florida Atlantic",31,14,1
+1,2017-09-16,"Wisconsin","Brigham Young (UT)",40,6,0
+1,2017-09-30,"Wisconsin","Northwestern (IL)",33,24,1
+1,2017-10-07,"Wisconsin","Nebraska",38,17,0
+1,2017-10-14,"Wisconsin","Purdue (IN)",17,9,1
+1,2017-10-21,"Wisconsin","Maryland",38,13,1
+1,2017-10-28,"Wisconsin","Illinois",24,10,0
+1,2017-11-04,"Wisconsin","Indiana",45,17,0
+1,2017-11-11,"Wisconsin","Iowa",38,14,1
+1,2017-11-18,"Wisconsin","Michigan",24,10,1
+1,2017-11-25,"Wisconsin","Minnesota",31,0,0
+0,2017-12-02,"Wisconsin","Ohio St.",21,27,1
+1,2017-12-30,"Wisconsin","Miami (FL)",34,24,0
+1,2017-09-02,"Notre Dame (IN)","Temple (PA)",49,16,1
+0,2017-09-09,"Notre Dame (IN)","Georgia",19,20,1
+1,2017-09-16,"Notre Dame (IN)","Boston College (MA)",49,20,0
+1,2017-09-23,"Notre Dame (IN)","Michigan St.",38,18,0
+1,2017-09-30,"Notre Dame (IN)","Miami (OH)",52,17,1
+1,2017-10-07,"Notre Dame (IN)","North Carolina",33,10,0
+1,2017-10-21,"Notre Dame (IN)","Southern California",49,14,1
+1,2017-10-28,"Notre Dame (IN)","North Carolina St.",35,14,1
+1,2017-11-04,"Notre Dame (IN)","Wake Forest (NC)",48,37,1
+0,2017-11-11,"Notre Dame (IN)","Miami (FL)",8,41,0
+1,2017-11-18,"Notre Dame (IN)","Navy (MD)",24,17,1
+0,2017-11-25,"Notre Dame (IN)","Stanford (CA)",20,38,0
+1,2017-01-01,"Notre Dame (IN)","Louisiana St.",21,17,1
+0,2017-09-02,"Akron (OH)","Penn St.",0,52,0
+1,2017-09-09,"Akron (OH)","Arkansas-Pine Bluff",52,3,1
+0,2017-09-16,"Akron (OH)","Iowa St.",14,41,1
+0,2017-09-23,"Akron (OH)","Troy (AL)",17,22,0
+1,2017-09-30,"Akron (OH)","Bowling Green (OH)",34,23,0
+1,2017-10-07,"Akron (OH)","Ball St. (IN)",31,3,1
+1,2017-10-15,"Akron (OH)","Western Michigan",14,13,0
+0,2017-10-21,"Akron (OH)","Toledo (OH)",21,48,0
+1,2017-10-28,"Akron (OH)","Buffalo (NY)",21,20,1
+0,2017-11-07,"Akron (OH)","Miami (OH)",14,24,0
+1,2017-11-14,"Akron (OH)","Ohio",37,34,1
+1,2017-11-21,"Akron (OH)","Kent St. (OH)",24,14,1
+0,2017-12-02,"Akron (OH)","Toledo (OH)",28,45,1
+0,2017-12-19,"Akron (OH)","Florida Atlantic",3,50,0
+1,2017-09-02,"North Texas","Lamar (TX)",59,14,1
+0,2017-09-09,"North Texas","Southern Methodist (TX)",32,54,0
+0,2017-09-16,"North Texas","Iowa",14,31,0
+1,2017-09-23,"North Texas","Alabama-Birmingham",46,43,1
+1,2017-09-30,"North Texas","Southern Mississippi",43,28,0
+1,2017-10-14,"North Texas","Texas-San Antonio",29,26,1
+0,2017-10-21,"North Texas","Florida Atlantic",31,69,0
+1,2017-10-28,"North Texas","Old Dominion (VA)",45,38,1
+1,2017-11-04,"North Texas","Louisiana Tech",24,23,0
+1,2017-11-11,"North Texas","Texas-El Paso",45,10,1
+1,2017-11-18,"North Texas","Army (NY)",52,49,1
+1,2017-11-25,"North Texas","Rice (TX)",30,14,0
+0,2017-12-02,"North Texas","Florida Atlantic",17,41,0
+0,2017-12-16,"North Texas","Troy (AL)",30,50,1
+0,2017-09-02,"Southern Mississippi","Kentucky",17,24,1
+1,2017-09-09,"Southern Mississippi","Southern (LA)",45,0,1
+1,2017-09-16,"Southern Mississippi","Louisiana-Monroe",28,17,0
+0,2017-09-30,"Southern Mississippi","North Texas",28,43,1
+1,2017-10-07,"Southern Mississippi","Texas-San Antonio",31,29,0
+1,2017-10-14,"Southern Mississippi","Texas-El Paso",24,0,1
+1,2017-10-21,"Southern Mississippi","Louisiana Tech",34,27,0
+0,2017-10-28,"Southern Mississippi","Alabama-Birmingham",12,30,1
+0,2017-11-04,"Southern Mississippi","Tennessee",10,24,0
+1,2017-11-11,"Southern Mississippi","Rice (TX)",43,34,0
+1,2017-11-18,"Southern Mississippi","North Carolina-Charlotte",66,21,1
+1,2017-11-25,"Southern Mississippi","Marshall (WV)",28,27,0
+0,2017-12-27,"Southern Mississippi","Florida St.",13,42,1
+1,2017-09-02,"Alabama-Birmingham","Alabama A&M",38,7,1
+0,2017-09-09,"Alabama-Birmingham","Ball St. (IN)",31,51,0
+0,2017-09-23,"Alabama-Birmingham","North Texas",43,46,0
+1,2017-10-07,"Alabama-Birmingham","Louisiana Tech",23,22,1
+1,2017-10-14,"Alabama-Birmingham","Middle Tennessee St.",25,23,1
+0,2017-10-21,"Alabama-Birmingham","North Carolina-Charlotte",24,25,0
+1,2017-10-28,"Alabama-Birmingham","Southern Mississippi",30,12,0
+1,2017-11-04,"Alabama-Birmingham","Rice (TX)",52,21,1
+1,2017-11-11,"Alabama-Birmingham","Texas-San Antonio",24,19,0
+0,2017-11-18,"Alabama-Birmingham","Florida",7,36,0
+1,2017-11-25,"Alabama-Birmingham","Texas-El Paso",28,7,1
+0,2017-12-22,"Alabama-Birmingham","Ohio",6,41,1
+0,2017-08-31,"Buffalo (NY)","Minnesota",7,17,0
+0,2017-09-09,"Buffalo (NY)","Army (NY)",17,21,0
+1,2017-09-16,"Buffalo (NY)","Colgate (NY)",33,10,1
+1,2017-09-23,"Buffalo (NY)","Florida Atlantic",34,31,1
+1,2017-09-30,"Buffalo (NY)","Kent St. (OH)",27,13,0
+0,2017-10-07,"Buffalo (NY)","Western Michigan",68,71,1
+0,2017-10-14,"Buffalo (NY)","Northern Illinois",13,14,1
+0,2017-10-21,"Buffalo (NY)","Miami (OH)",14,24,0
+0,2017-10-28,"Buffalo (NY)","Akron (OH)",20,21,0
+1,2017-11-07,"Buffalo (NY)","Bowling Green (OH)",38,28,1
+1,2017-11-16,"Buffalo (NY)","Ball St. (IN)",40,24,0
+1,2017-11-24,"Buffalo (NY)","Ohio",31,24,1
+0,2017-09-02,"Bowling Green (OH)","Michigan St.",10,35,0
+0,2017-09-09,"Bowling Green (OH)","South Dakota",27,35,1
+0,2017-09-16,"Bowling Green (OH)","Northwestern (IL)",7,49,0
+0,2017-09-23,"Bowling Green (OH)","Middle Tennessee St.",13,24,0
+0,2017-09-30,"Bowling Green (OH)","Akron (OH)",23,34,1
+1,2017-10-07,"Bowling Green (OH)","Miami (OH)",37,29,0
+0,2017-10-14,"Bowling Green (OH)","Ohio",30,48,1
+0,2017-10-21,"Bowling Green (OH)","Northern Illinois",17,48,1
+1,2017-10-31,"Bowling Green (OH)","Kent St. (OH)",44,16,0
+0,2017-11-07,"Bowling Green (OH)","Buffalo (NY)",28,38,0
+0,2017-11-15,"Bowling Green (OH)","Toledo (OH)",37,66,1
+0,2017-11-21,"Bowling Green (OH)","Eastern Michigan",31,34,0
+1,2017-08-31,"Central Michigan","Rhode Island",30,27,1
+1,2017-09-09,"Central Michigan","Kansas",45,27,0
+0,2017-09-16,"Central Michigan","Syracuse (NY)",17,41,0
+0,2017-09-23,"Central Michigan","Miami (OH)",14,31,1
+0,2017-09-30,"Central Michigan","Boston College (MA)",8,28,0
+1,2017-10-07,"Central Michigan","Ohio",26,23,0
+0,2017-10-14,"Central Michigan","Toledo (OH)",10,30,1
+1,2017-10-21,"Central Michigan","Ball St. (IN)",56,9,0
+1,2017-11-01,"Central Michigan","Western Michigan",35,28,0
+1,2017-11-08,"Central Michigan","Eastern Michigan",42,30,1
+1,2017-11-14,"Central Michigan","Kent St. (OH)",42,23,0
+1,2017-11-24,"Central Michigan","Northern Illinois",31,24,1
+0,2017-12-22,"Central Michigan","Wyoming",14,37,1
+1,2017-09-01,"Eastern Michigan","North Carolina-Charlotte",24,7,1
+1,2017-09-09,"Eastern Michigan","Rutgers (NJ)",16,13,0
+0,2017-09-23,"Eastern Michigan","Ohio",20,27,1
+0,2017-09-30,"Eastern Michigan","Kentucky",20,24,0
+0,2017-10-07,"Eastern Michigan","Toledo (OH)",15,20,0
+0,2017-10-14,"Eastern Michigan","Army (NY)",27,28,0
+0,2017-10-21,"Eastern Michigan","Western Michigan",17,20,1
+0,2017-10-26,"Eastern Michigan","Northern Illinois",27,30,0
+1,2017-11-02,"Eastern Michigan","Ball St. (IN)",56,14,1
+0,2017-11-08,"Eastern Michigan","Central Michigan",30,42,0
+1,2017-11-15,"Eastern Michigan","Miami (OH)",27,24,0
+1,2017-11-21,"Eastern Michigan","Bowling Green (OH)",34,31,1
+0,2017-09-02,"Miami (OH)","Marshall (WV)",26,31,0
+1,2017-09-09,"Miami (OH)","Austin Peay St. (TN)",31,10,1
+0,2017-09-16,"Miami (OH)","Cincinnati (OH)",17,21,1
+1,2017-09-23,"Miami (OH)","Central Michigan",31,14,0
+0,2017-09-30,"Miami (OH)","Notre Dame (IN)",17,52,0
+0,2017-10-07,"Miami (OH)","Bowling Green (OH)",29,37,1
+0,2017-10-14,"Miami (OH)","Kent St. (OH)",14,17,0
+1,2017-10-21,"Miami (OH)","Buffalo (NY)",24,14,1
+0,2017-10-31,"Miami (OH)","Ohio",28,45,0
+1,2017-11-07,"Miami (OH)","Akron (OH)",24,14,1
+0,2017-11-15,"Miami (OH)","Eastern Michigan",24,27,1
+1,2017-11-21,"Miami (OH)","Ball St. (IN)",28,7,0
+0,2017-09-01,"Northern Illinois","Boston College (MA)",20,23,1
+1,2017-09-09,"Northern Illinois","Eastern Illinois",38,10,1
+1,2017-09-16,"Northern Illinois","Nebraska",21,17,0
+0,2017-09-30,"Northern Illinois","San Diego St. (CA)",28,34,0
+1,2017-10-07,"Northern Illinois","Kent St. (OH)",24,3,1
+1,2017-10-14,"Northern Illinois","Buffalo (NY)",14,13,0
+1,2017-10-21,"Northern Illinois","Bowling Green (OH)",48,17,0
+1,2017-10-26,"Northern Illinois","Eastern Michigan",30,27,1
+0,2017-11-02,"Northern Illinois","Toledo (OH)",17,27,0
+1,2017-11-09,"Northern Illinois","Ball St. (IN)",63,17,1
+1,2017-11-15,"Northern Illinois","Western Michigan",35,31,1
+0,2017-11-24,"Northern Illinois","Central Michigan",24,31,0
+0,2017-12-26,"Northern Illinois","Duke (NC)",14,36,1
+0,2017-09-02,"Kent St. (OH)","Clemson (SC)",3,56,0
+1,2017-09-09,"Kent St. (OH)","Howard (DC)",38,31,1
+0,2017-09-16,"Kent St. (OH)","Marshall (WV)",0,21,0
+0,2017-09-23,"Kent St. (OH)","Louisville (KY)",3,42,0
+0,2017-09-30,"Kent St. (OH)","Buffalo (NY)",13,27,1
+0,2017-10-07,"Kent St. (OH)","Northern Illinois",3,24,0
+1,2017-10-14,"Kent St. (OH)","Miami (OH)",17,14,1
+0,2017-10-21,"Kent St. (OH)","Ohio",3,48,0
+0,2017-10-31,"Kent St. (OH)","Bowling Green (OH)",16,44,1
+0,2017-11-08,"Kent St. (OH)","Western Michigan",20,48,0
+0,2017-11-14,"Kent St. (OH)","Central Michigan",23,42,1
+0,2017-11-21,"Kent St. (OH)","Akron (OH)",14,24,0
+1,2017-09-02,"Ohio","Hampton (VA)",59,0,1
+0,2017-09-08,"Ohio","Purdue (IN)",21,44,0
+1,2017-09-16,"Ohio","Kansas",42,30,1
+1,2017-09-23,"Ohio","Eastern Michigan",27,20,0
+1,2017-09-30,"Ohio","Massachusetts",58,50,0
+0,2017-10-07,"Ohio","Central Michigan",23,26,1
+1,2017-10-14,"Ohio","Bowling Green (OH)",48,30,0
+1,2017-10-21,"Ohio","Kent St. (OH)",48,3,1
+1,2017-10-31,"Ohio","Miami (OH)",45,28,1
+1,2017-11-08,"Ohio","Toledo (OH)",38,10,1
+0,2017-11-14,"Ohio","Akron (OH)",34,37,0
+0,2017-11-24,"Ohio","Buffalo (NY)",24,31,0
+1,2017-12-22,"Ohio","Alabama-Birmingham",41,6,1
+0,2017-09-02,"Western Michigan","Southern California",31,49,0
+0,2017-09-09,"Western Michigan","Michigan St.",14,28,0
+1,2017-09-16,"Western Michigan","Idaho",37,28,1
+1,2017-09-23,"Western Michigan","Wagner (NY)",49,14,1
+1,2017-09-30,"Western Michigan","Ball St. (IN)",55,3,1
+1,2017-10-07,"Western Michigan","Buffalo (NY)",71,68,0
+0,2017-10-15,"Western Michigan","Akron (OH)",13,14,1
+1,2017-10-21,"Western Michigan","Eastern Michigan",20,17,0
+0,2017-11-01,"Western Michigan","Central Michigan",28,35,1
+1,2017-11-08,"Western Michigan","Kent St. (OH)",48,20,1
+0,2017-11-15,"Western Michigan","Northern Illinois",31,35,0
+0,2017-11-24,"Western Michigan","Toledo (OH)",10,37,0
+1,2017-09-02,"Air Force (CO)","Virginia Military Institute",62,0,1
+0,2017-09-16,"Air Force (CO)","Michigan",13,29,0
+0,2017-09-23,"Air Force (CO)","San Diego St. (CA)",24,28,1
+0,2017-09-30,"Air Force (CO)","New Mexico",38,56,0
+0,2017-10-07,"Air Force (CO)","Navy (MD)",45,48,0
+1,2017-10-14,"Air Force (CO)","Nevada-Las Vegas",34,30,1
+1,2017-10-20,"Air Force (CO)","Nevada",45,42,0
+1,2017-10-28,"Air Force (CO)","Colorado St.",45,28,0
+0,2017-11-04,"Air Force (CO)","Army (NY)",0,21,1
+0,2017-11-11,"Air Force (CO)","Wyoming",14,28,1
+0,2017-11-18,"Air Force (CO)","Boise St. (ID)",19,44,0
+1,2017-11-25,"Air Force (CO)","Utah St.",38,35,1
+0,2017-08-26,"Massachusetts","Hawaii",35,38,1
+0,2017-09-09,"Massachusetts","Old Dominion (VA)",7,17,1
+0,2017-09-15,"Massachusetts","Temple (PA)",21,29,0
+0,2017-09-23,"Massachusetts","Tennessee",13,17,0
+0,2017-09-30,"Massachusetts","Ohio",50,58,1
+1,2017-10-21,"Massachusetts","Georgia Southern",55,20,1
+1,2017-10-28,"Massachusetts","Appalachian State (NC)",30,27,1
+0,2017-11-04,"Massachusetts","Mississippi St.",23,34,0
+1,2017-11-11,"Massachusetts","Maine",44,31,1
+1,2017-11-18,"Massachusetts","Brigham Young (UT)",16,10,0
+0,2017-12-02,"Massachusetts","Florida International",45,63,0
+1,2017-08-26,"Colorado St.","Oregon St.",58,27,1
+0,2017-09-01,"Colorado St.","Colorado",3,17,1
+1,2017-09-09,"Colorado St.","Abilene Christian (TX)",38,10,1
+0,2017-09-16,"Colorado St.","Alabama",23,41,0
+1,2017-09-30,"Colorado St.","Hawaii",51,21,0
+1,2017-10-07,"Colorado St.","Utah St.",27,14,0
+1,2017-10-14,"Colorado St.","Nevada",44,42,1
+1,2017-10-20,"Colorado St.","New Mexico",27,24,0
+0,2017-10-28,"Colorado St.","Air Force (CO)",28,45,1
+0,2017-11-04,"Colorado St.","Wyoming",13,16,0
+0,2017-11-11,"Colorado St.","Boise St. (ID)",52,59,1
+1,2017-11-18,"Colorado St.","San Jose St. (CA)",42,14,1
+0,2017-12-16,"Colorado St.","Marshall (WV)",28,31,1
+1,2017-09-02,"Boise St. (ID)","Troy (AL)",24,13,1
+0,2017-09-09,"Boise St. (ID)","Washington St.",44,47,0
+1,2017-09-14,"Boise St. (ID)","New Mexico",28,14,1
+0,2017-09-22,"Boise St. (ID)","Virginia",23,42,1
+1,2017-10-06,"Boise St. (ID)","Brigham Young (UT)",24,7,0
+1,2017-10-14,"Boise St. (ID)","San Diego St. (CA)",31,14,0
+1,2017-10-21,"Boise St. (ID)","Wyoming",24,14,1
+1,2017-10-28,"Boise St. (ID)","Utah St.",41,14,0
+1,2017-11-04,"Boise St. (ID)","Nevada",41,14,1
+1,2017-11-11,"Boise St. (ID)","Colorado St.",59,52,0
+1,2017-11-18,"Boise St. (ID)","Air Force (CO)",44,19,1
+0,2017-11-25,"Boise St. (ID)","Fresno St. (CA)",17,28,0
+1,2017-12-02,"Boise St. (ID)","Fresno St. (CA)",17,14,1
+1,2017-12-16,"Boise St. (ID)","Oregon",38,28,1
+1,2017-09-02,"Fresno St. (CA)","Incarnate Word (TX)",66,0,1
+0,2017-09-09,"Fresno St. (CA)","Alabama",10,41,0
+0,2017-09-16,"Fresno St. (CA)","Washington",16,48,0
+1,2017-09-30,"Fresno St. (CA)","Nevada",41,21,1
+1,2017-10-07,"Fresno St. (CA)","San Jose St. (CA)",27,10,0
+1,2017-10-14,"Fresno St. (CA)","New Mexico",38,0,1
+1,2017-10-21,"Fresno St. (CA)","San Diego St. (CA)",27,3,0
+0,2017-10-28,"Fresno St. (CA)","Nevada-Las Vegas",16,26,1
+1,2017-11-04,"Fresno St. (CA)","Brigham Young (UT)",20,13,1
+1,2017-11-11,"Fresno St. (CA)","Hawaii",31,21,0
+1,2017-11-18,"Fresno St. (CA)","Wyoming",13,7,0
+1,2017-11-25,"Fresno St. (CA)","Boise St. (ID)",28,17,1
+0,2017-12-02,"Fresno St. (CA)","Boise St. (ID)",14,17,0
+1,2017-12-24,"Fresno St. (CA)","Houston (TX)",33,27,1
+1,2017-08-26,"Hawaii","Massachusetts",38,35,0
+1,2017-09-02,"Hawaii","Western Carolina (NC)",41,18,1
+0,2017-09-09,"Hawaii","UCLA",23,56,0
+0,2017-09-23,"Hawaii","Wyoming",21,28,0
+0,2017-09-30,"Hawaii","Colorado St.",21,51,1
+0,2017-10-07,"Hawaii","Nevada",21,35,0
+1,2017-10-14,"Hawaii","San Jose St. (CA)",37,26,1
+0,2017-10-28,"Hawaii","San Diego St. (CA)",7,28,1
+0,2017-11-04,"Hawaii","Nevada-Las Vegas",23,31,0
+0,2017-11-11,"Hawaii","Fresno St. (CA)",21,31,1
+0,2017-11-18,"Hawaii","Utah St.",0,38,0
+0,2017-11-25,"Hawaii","Brigham Young (UT)",20,30,1
+0,2017-09-02,"Ball St. (IN)","Illinois",21,24,0
+1,2017-09-09,"Ball St. (IN)","Alabama-Birmingham",51,31,1
+1,2017-09-16,"Ball St. (IN)","Tennessee Tech",28,13,1
+0,2017-09-23,"Ball St. (IN)","Western Kentucky",21,33,0
+0,2017-09-30,"Ball St. (IN)","Western Michigan",3,55,0
+0,2017-10-07,"Ball St. (IN)","Akron (OH)",3,31,0
+0,2017-10-21,"Ball St. (IN)","Central Michigan",9,56,1
+0,2017-10-26,"Ball St. (IN)","Toledo (OH)",17,58,1
+0,2017-11-02,"Ball St. (IN)","Eastern Michigan",14,56,0
+0,2017-11-09,"Ball St. (IN)","Northern Illinois",17,63,0
+0,2017-11-16,"Ball St. (IN)","Buffalo (NY)",24,40,1
+0,2017-11-21,"Ball St. (IN)","Miami (OH)",7,28,1
+0,2017-09-02,"Nevada","Northwestern (IL)",20,31,0
+0,2017-09-09,"Nevada","Toledo (OH)",24,37,1
+0,2017-09-16,"Nevada","Idaho St.",28,30,1
+0,2017-09-23,"Nevada","Washington St.",7,45,0
+0,2017-09-30,"Nevada","Fresno St. (CA)",21,41,0
+1,2017-10-07,"Nevada","Hawaii",35,21,1
+0,2017-10-14,"Nevada","Colorado St.",42,44,0
+0,2017-10-20,"Nevada","Air Force (CO)",42,45,1
+0,2017-11-04,"Nevada","Boise St. (ID)",14,41,0
+1,2017-11-11,"Nevada","San Jose St. (CA)",59,14,1
+0,2017-11-18,"Nevada","San Diego St. (CA)",23,42,0
+1,2017-11-25,"Nevada","Nevada-Las Vegas",23,16,1
+1,2017-09-02,"New Mexico","Abilene Christian (TX)",38,14,1
+0,2017-09-09,"New Mexico","New Mexico St.",28,30,1
+0,2017-09-14,"New Mexico","Boise St. (ID)",14,28,0
+1,2017-09-23,"New Mexico","Tulsa (OK)",16,13,0
+1,2017-09-30,"New Mexico","Air Force (CO)",56,38,1
+0,2017-10-14,"New Mexico","Fresno St. (CA)",0,38,0
+0,2017-10-20,"New Mexico","Colorado St.",24,27,1
+0,2017-10-28,"New Mexico","Wyoming",3,42,0
+0,2017-11-04,"New Mexico","Utah St.",10,24,1
+0,2017-11-11,"New Mexico","Texas A&M",14,55,0
+0,2017-11-17,"New Mexico","Nevada-Las Vegas",35,38,1
+0,2017-11-24,"New Mexico","San Diego St. (CA)",10,35,0
+1,2017-09-02,"San Diego St. (CA)","California-Davis",38,17,1
+1,2017-09-09,"San Diego St. (CA)","Arizona St.",30,20,0
+1,2017-09-16,"San Diego St. (CA)","Stanford (CA)",20,17,1
+1,2017-09-23,"San Diego St. (CA)","Air Force (CO)",28,24,0
+1,2017-09-30,"San Diego St. (CA)","Northern Illinois",34,28,1
+1,2017-10-07,"San Diego St. (CA)","Nevada-Las Vegas",41,10,0
+0,2017-10-14,"San Diego St. (CA)","Boise St. (ID)",14,31,1
+0,2017-10-21,"San Diego St. (CA)","Fresno St. (CA)",3,27,1
+1,2017-10-28,"San Diego St. (CA)","Hawaii",28,7,0
+1,2017-11-04,"San Diego St. (CA)","San Jose St. (CA)",52,7,0
+1,2017-11-18,"San Diego St. (CA)","Nevada",42,23,1
+1,2017-11-24,"San Diego St. (CA)","New Mexico",35,10,1
+0,2017-12-23,"San Diego St. (CA)","Army (NY)",35,42,1
+0,2017-08-26,"San Jose St. (CA)","South Florida",22,42,1
+1,2017-09-02,"San Jose St. (CA)","Cal Poly-San Luis Obispo",34,13,1
+0,2017-09-09,"San Jose St. (CA)","Texas",0,56,0
+0,2017-09-16,"San Jose St. (CA)","Utah",16,54,0
+0,2017-09-23,"San Jose St. (CA)","Utah St.",10,61,1
+0,2017-09-30,"San Jose St. (CA)","Nevada-Las Vegas",13,41,0
+0,2017-10-07,"San Jose St. (CA)","Fresno St. (CA)",10,27,1
+0,2017-10-14,"San Jose St. (CA)","Hawaii",26,37,0
+0,2017-10-28,"San Jose St. (CA)","Brigham Young (UT)",20,41,0
+0,2017-11-04,"San Jose St. (CA)","San Diego St. (CA)",7,52,1
+0,2017-11-11,"San Jose St. (CA)","Nevada",14,59,0
+0,2017-11-18,"San Jose St. (CA)","Colorado St.",14,42,0
+1,2017-11-25,"San Jose St. (CA)","Wyoming",20,17,1
+0,2017-09-01,"Utah St.","Wisconsin",10,59,0
+1,2017-09-07,"Utah St.","Idaho St.",51,13,1
+0,2017-09-16,"Utah St.","Wake Forest (NC)",10,46,0
+1,2017-09-23,"Utah St.","San Jose St. (CA)",61,10,0
+1,2017-09-29,"Utah St.","Brigham Young (UT)",40,24,1
+0,2017-10-07,"Utah St.","Colorado St.",14,27,1
+0,2017-10-14,"Utah St.","Wyoming",23,28,1
+1,2017-10-21,"Utah St.","Nevada-Las Vegas",52,28,0
+0,2017-10-28,"Utah St.","Boise St. (ID)",14,41,1
+1,2017-11-04,"Utah St.","New Mexico",24,10,0
+1,2017-11-18,"Utah St.","Hawaii",38,0,1
+0,2017-11-25,"Utah St.","Air Force (CO)",35,38,0
+0,2017-12-29,"Utah St.","New Mexico St.",20,26,1
+0,2017-09-02,"Nevada-Las Vegas","Howard (DC)",40,43,1
+1,2017-09-09,"Nevada-Las Vegas","Idaho",44,16,0
+0,2017-09-23,"Nevada-Las Vegas","Ohio St.",21,54,0
+1,2017-09-30,"Nevada-Las Vegas","San Jose St. (CA)",41,13,1
+0,2017-10-07,"Nevada-Las Vegas","San Diego St. (CA)",10,41,1
+0,2017-10-14,"Nevada-Las Vegas","Air Force (CO)",30,34,0
+0,2017-10-21,"Nevada-Las Vegas","Utah St.",28,52,1
+1,2017-10-28,"Nevada-Las Vegas","Fresno St. (CA)",26,16,0
+1,2017-11-04,"Nevada-Las Vegas","Hawaii",31,23,1
+0,2017-11-10,"Nevada-Las Vegas","Brigham Young (UT)",21,31,1
+1,2017-11-17,"Nevada-Las Vegas","New Mexico",38,35,0
+0,2017-11-25,"Nevada-Las Vegas","Nevada",16,23,0
+1,2017-08-31,"Arizona St.","New Mexico St.",37,31,1
+0,2017-09-09,"Arizona St.","San Diego St. (CA)",20,30,1
+0,2017-09-16,"Arizona St.","Texas Tech",45,52,0
+1,2017-09-23,"Arizona St.","Oregon",37,35,1
+0,2017-09-30,"Arizona St.","Stanford (CA)",24,34,0
+1,2017-10-14,"Arizona St.","Washington",13,7,1
+1,2017-10-21,"Arizona St.","Utah",30,10,0
+0,2017-10-28,"Arizona St.","Southern California",17,48,1
+1,2017-11-04,"Arizona St.","Colorado",41,30,1
+0,2017-11-11,"Arizona St.","UCLA",37,44,0
+1,2017-11-18,"Arizona St.","Oregon St.",40,24,0
+1,2017-11-25,"Arizona St.","Arizona",42,30,1
+0,2017-12-29,"Arizona St.","North Carolina St.",31,52,1
+1,2017-09-02,"Arizona","Northern Arizona",62,24,1
+0,2017-09-09,"Arizona","Houston (TX)",16,19,1
+1,2017-09-15,"Arizona","Texas-El Paso",63,16,0
+0,2017-09-22,"Arizona","Utah",24,30,1
+1,2017-10-07,"Arizona","Colorado",45,42,0
+1,2017-10-14,"Arizona","UCLA",47,30,1
+1,2017-10-21,"Arizona","California",45,44,0
+1,2017-10-28,"Arizona","Washington St.",58,37,1
+0,2017-11-04,"Arizona","Southern California",35,49,0
+1,2017-11-11,"Arizona","Oregon St.",49,28,1
+0,2017-11-18,"Arizona","Oregon",28,48,0
+0,2017-11-25,"Arizona","Arizona St.",30,42,0
+0,2017-12-27,"Arizona","Purdue (IN)",35,38,1
+1,2017-09-02,"California","North Carolina",35,30,0
+1,2017-09-09,"California","Weber St. (UT)",33,20,1
+1,2017-09-16,"California","Mississippi",27,16,1
+0,2017-09-23,"California","Southern California",20,30,1
+0,2017-09-30,"California","Oregon",24,45,0
+0,2017-10-07,"California","Washington",7,38,0
+1,2017-10-13,"California","Washington St.",37,3,1
+0,2017-10-21,"California","Arizona",44,45,1
+0,2017-10-28,"California","Colorado",28,44,0
+1,2017-11-04,"California","Oregon St.",37,23,1
+0,2017-11-18,"California","Stanford (CA)",14,17,0
+0,2017-11-24,"California","UCLA",27,30,0
+1,2017-09-02,"Oregon","Southern Utah",77,21,1
+1,2017-09-09,"Oregon","Nebraska",42,35,1
+1,2017-09-16,"Oregon","Wyoming",49,13,0
+0,2017-09-23,"Oregon","Arizona St.",35,37,0
+1,2017-09-30,"Oregon","California",45,24,1
+0,2017-10-07,"Oregon","Washington St.",10,33,1
+0,2017-10-14,"Oregon","Stanford (CA)",7,49,0
+0,2017-10-21,"Oregon","UCLA",14,31,0
+1,2017-10-28,"Oregon","Utah",41,20,1
+0,2017-11-04,"Oregon","Washington",3,38,0
+1,2017-11-18,"Oregon","Arizona",48,28,1
+1,2017-11-25,"Oregon","Oregon St.",69,10,1
+0,2017-12-16,"Oregon","Boise St. (ID)",28,38,1
+1,2017-08-26,"Stanford (CA)","Rice (TX)",62,7,1
+0,2017-09-09,"Stanford (CA)","Southern California",24,42,0
+0,2017-09-16,"Stanford (CA)","San Diego St. (CA)",17,20,0
+1,2017-09-23,"Stanford (CA)","UCLA",58,34,1
+1,2017-09-30,"Stanford (CA)","Arizona St.",34,24,1
+1,2017-10-07,"Stanford (CA)","Utah",23,20,0
+1,2017-10-14,"Stanford (CA)","Oregon",49,7,1
+1,2017-10-26,"Stanford (CA)","Oregon St.",15,14,0
+0,2017-11-04,"Stanford (CA)","Washington St.",21,24,0
+1,2017-11-10,"Stanford (CA)","Washington",30,22,1
+1,2017-11-18,"Stanford (CA)","California",17,14,1
+1,2017-11-25,"Stanford (CA)","Notre Dame (IN)",38,20,1
+0,2017-12-01,"Stanford (CA)","Southern California",28,31,1
+0,2017-12-28,"Stanford (CA)","Texas Christian",37,39,1
+1,2017-09-01,"Colorado","Colorado St.",17,3,1
+1,2017-09-09,"Colorado","Texas St.",37,3,1
+1,2017-09-16,"Colorado","Northern Colorado",41,21,1
+0,2017-09-23,"Colorado","Washington",10,37,1
+0,2017-09-30,"Colorado","UCLA",23,27,0
+0,2017-10-07,"Colorado","Arizona",42,45,1
+1,2017-10-14,"Colorado","Oregon St.",36,33,0
+0,2017-10-21,"Colorado","Washington St.",0,28,0
+1,2017-10-28,"Colorado","California",44,28,1
+0,2017-11-04,"Colorado","Arizona St.",30,41,0
+0,2017-11-11,"Colorado","Southern California",24,38,1
+0,2017-11-25,"Colorado","Utah",13,34,0
+0,2017-08-26,"Oregon St.","Colorado St.",27,58,0
+1,2017-09-02,"Oregon St.","Portland St. (OR)",35,32,1
+0,2017-09-09,"Oregon St.","Minnesota",14,48,1
+0,2017-09-16,"Oregon St.","Washington St.",23,52,0
+0,2017-09-30,"Oregon St.","Washington",7,42,1
+0,2017-10-07,"Oregon St.","Southern California",10,38,0
+0,2017-10-14,"Oregon St.","Colorado",33,36,1
+0,2017-10-26,"Oregon St.","Stanford (CA)",14,15,1
+0,2017-11-04,"Oregon St.","California",23,37,0
+0,2017-11-11,"Oregon St.","Arizona",28,49,0
+0,2017-11-18,"Oregon St.","Arizona St.",24,40,1
+0,2017-11-25,"Oregon St.","Oregon",10,69,0
+1,2017-09-03,"UCLA","Texas A&M",45,44,1
+1,2017-09-09,"UCLA","Hawaii",56,23,1
+0,2017-09-16,"UCLA","Memphis (TN)",45,48,0
+0,2017-09-23,"UCLA","Stanford (CA)",34,58,0
+1,2017-09-30,"UCLA","Colorado",27,23,1
+0,2017-10-14,"UCLA","Arizona",30,47,0
+1,2017-10-21,"UCLA","Oregon",31,14,1
+0,2017-10-28,"UCLA","Washington",23,44,0
+0,2017-11-03,"UCLA","Utah",17,48,0
+1,2017-11-11,"UCLA","Arizona St.",44,37,1
+0,2017-11-18,"UCLA","Southern California",23,28,0
+1,2017-11-24,"UCLA","California",30,27,1
+0,2017-12-26,"UCLA","Kansas St.",17,35,1
+1,2017-08-31,"Toledo (OH)","Elon (NC)",47,13,1
+1,2017-09-09,"Toledo (OH)","Nevada",37,24,0
+1,2017-09-16,"Toledo (OH)","Tulsa (OK)",54,51,1
+0,2017-09-23,"Toledo (OH)","Miami (FL)",30,52,0
+1,2017-10-07,"Toledo (OH)","Eastern Michigan",20,15,1
+1,2017-10-14,"Toledo (OH)","Central Michigan",30,10,0
+1,2017-10-21,"Toledo (OH)","Akron (OH)",48,21,1
+1,2017-10-26,"Toledo (OH)","Ball St. (IN)",58,17,0
+1,2017-11-02,"Toledo (OH)","Northern Illinois",27,17,1
+0,2017-11-08,"Toledo (OH)","Ohio",10,38,0
+1,2017-11-15,"Toledo (OH)","Bowling Green (OH)",66,37,0
+1,2017-11-24,"Toledo (OH)","Western Michigan",37,10,1
+1,2017-12-02,"Toledo (OH)","Akron (OH)",45,28,1
+0,2017-12-23,"Toledo (OH)","Appalachian State (NC)",0,34,1
+1,2017-09-01,"Washington","Rutgers (NJ)",30,14,0
+1,2017-09-09,"Washington","Montana",63,7,1
+1,2017-09-16,"Washington","Fresno St. (CA)",48,16,1
+1,2017-09-23,"Washington","Colorado",37,10,0
+1,2017-09-30,"Washington","Oregon St.",42,7,0
+1,2017-10-07,"Washington","California",38,7,1
+0,2017-10-14,"Washington","Arizona St.",7,13,0
+1,2017-10-28,"Washington","UCLA",44,23,1
+1,2017-11-04,"Washington","Oregon",38,3,1
+0,2017-11-10,"Washington","Stanford (CA)",22,30,0
+1,2017-11-18,"Washington","Utah",33,30,1
+1,2017-11-25,"Washington","Washington St.",41,14,1
+0,2017-12-30,"Washington","Penn St.",28,35,1
+1,2017-09-02,"Washington St.","Montana St.",31,0,1
+1,2017-09-09,"Washington St.","Boise St. (ID)",47,44,1
+1,2017-09-16,"Washington St.","Oregon St.",52,23,1
+1,2017-09-23,"Washington St.","Nevada",45,7,1
+1,2017-09-29,"Washington St.","Southern California",30,27,1
+1,2017-10-07,"Washington St.","Oregon",33,10,0
+0,2017-10-13,"Washington St.","California",3,37,0
+1,2017-10-21,"Washington St.","Colorado",28,0,1
+0,2017-10-28,"Washington St.","Arizona",37,58,0
+1,2017-11-04,"Washington St.","Stanford (CA)",24,21,1
+1,2017-11-11,"Washington St.","Utah",33,25,0
+0,2017-11-25,"Washington St.","Washington",14,41,0
+0,2017-12-28,"Washington St.","Michigan St.",17,42,1
+1,2017-09-02,"Southern California","Western Michigan",49,31,1
+1,2017-09-09,"Southern California","Stanford (CA)",42,24,1
+1,2017-09-16,"Southern California","Texas",27,24,1
+1,2017-09-23,"Southern California","California",30,20,0
+0,2017-09-29,"Southern California","Washington St.",27,30,0
+1,2017-10-07,"Southern California","Oregon St.",38,10,1
+1,2017-10-14,"Southern California","Utah",28,27,1
+0,2017-10-21,"Southern California","Notre Dame (IN)",14,49,0
+1,2017-10-28,"Southern California","Arizona St.",48,17,0
+1,2017-11-04,"Southern California","Arizona",49,35,1
+1,2017-11-11,"Southern California","Colorado",38,24,0
+1,2017-11-18,"Southern California","UCLA",28,23,1
+1,2017-12-01,"Southern California","Stanford (CA)",31,28,1
+0,2017-12-29,"Southern California","Ohio St.",7,24,1
+1,2017-08-31,"Utah","North Dakota",37,16,1
+1,2017-09-09,"Utah","Brigham Young (UT)",19,13,0
+1,2017-09-16,"Utah","San Jose St. (CA)",54,16,1
+1,2017-09-22,"Utah","Arizona",30,24,0
+0,2017-10-07,"Utah","Stanford (CA)",20,23,1
+0,2017-10-14,"Utah","Southern California",27,28,0
+0,2017-10-21,"Utah","Arizona St.",10,30,1
+0,2017-10-28,"Utah","Oregon",20,41,0
+1,2017-11-03,"Utah","UCLA",48,17,1
+0,2017-11-11,"Utah","Washington St.",25,33,1
+0,2017-11-18,"Utah","Washington",30,33,0
+1,2017-11-25,"Utah","Colorado",34,13,1
+1,2017-12-26,"Utah","West Virginia",30,14,1
+1,2017-09-02,"Alabama","Florida St.",24,7,1
+1,2017-09-09,"Alabama","Fresno St. (CA)",41,10,1
+1,2017-09-16,"Alabama","Colorado St.",41,23,1
+1,2017-09-23,"Alabama","Vanderbilt (TN)",59,0,0
+1,2017-09-30,"Alabama","Mississippi",66,3,1
+1,2017-10-07,"Alabama","Texas A&M",27,19,0
+1,2017-10-14,"Alabama","Arkansas",41,9,1
+1,2017-10-21,"Alabama","Tennessee",45,7,1
+1,2017-11-04,"Alabama","Louisiana St.",24,10,1
+1,2017-11-11,"Alabama","Mississippi St.",31,24,0
+1,2017-11-18,"Alabama","Mercer (GA)",56,0,1
+0,2017-11-25,"Alabama","Auburn (AL)",14,26,0
+1,2017-01-01,"Alabama","Clemson (SC)",24,6,1
+1,2017-01-08,"Alabama","Georgia",26,23,1
+1,2017-09-02,"Auburn (AL)","Georgia Southern",41,7,1
+0,2017-09-09,"Auburn (AL)","Clemson (SC)",6,14,0
+1,2017-09-16,"Auburn (AL)","Mercer (GA)",24,10,1
+1,2017-09-23,"Auburn (AL)","Missouri",51,14,0
+1,2017-09-30,"Auburn (AL)","Mississippi St.",49,10,1
+1,2017-10-07,"Auburn (AL)","Mississippi",44,23,1
+0,2017-10-14,"Auburn (AL)","Louisiana St.",23,27,0
+1,2017-10-21,"Auburn (AL)","Arkansas",52,20,0
+1,2017-11-04,"Auburn (AL)","Texas A&M",42,27,0
+1,2017-11-11,"Auburn (AL)","Georgia",40,17,1
+1,2017-11-18,"Auburn (AL)","Louisiana-Monroe",42,14,1
+1,2017-11-25,"Auburn (AL)","Alabama",26,14,1
+0,2017-12-02,"Auburn (AL)","Georgia",7,28,1
+0,2017-01-01,"Auburn (AL)","Central Florida",27,34,1
+1,2017-09-02,"Georgia","Appalachian State (NC)",31,10,1
+1,2017-09-09,"Georgia","Notre Dame (IN)",20,19,0
+1,2017-09-16,"Georgia","Samford (AL)",42,14,1
+1,2017-09-23,"Georgia","Mississippi St.",31,3,1
+1,2017-09-30,"Georgia","Tennessee",41,0,0
+1,2017-10-07,"Georgia","Vanderbilt (TN)",45,14,0
+1,2017-10-14,"Georgia","Missouri",53,28,1
+1,2017-10-28,"Georgia","Florida",42,7,1
+1,2017-11-04,"Georgia","South Carolina",24,10,1
+0,2017-11-11,"Georgia","Auburn (AL)",17,40,0
+1,2017-11-18,"Georgia","Kentucky",42,13,1
+1,2017-11-25,"Georgia","Georgia Tech",38,7,0
+1,2017-12-02,"Georgia","Auburn (AL)",28,7,1
+1,2017-01-01,"Georgia","Oklahoma",54,48,1
+0,2017-01-08,"Georgia","Alabama",23,26,1
+0,2017-09-02,"Florida","Michigan",17,33,1
+1,2017-09-16,"Florida","Tennessee",26,20,1
+1,2017-09-23,"Florida","Kentucky",28,27,0
+1,2017-09-30,"Florida","Vanderbilt (TN)",38,24,1
+0,2017-10-07,"Florida","Louisiana St.",16,17,1
+0,2017-10-14,"Florida","Texas A&M",17,19,1
+0,2017-10-28,"Florida","Georgia",7,42,1
+0,2017-11-04,"Florida","Missouri",16,45,0
+0,2017-11-11,"Florida","South Carolina",20,28,0
+1,2017-11-18,"Florida","Alabama-Birmingham",36,7,1
+0,2017-11-25,"Florida","Florida St.",22,38,1
+1,2017-09-02,"Louisiana St.","Brigham Young (UT)",27,0,1
+1,2017-09-09,"Louisiana St.","Tennessee-Chattanooga",45,10,1
+0,2017-09-16,"Louisiana St.","Mississippi St.",7,37,0
+1,2017-09-23,"Louisiana St.","Syracuse (NY)",35,26,1
+0,2017-09-30,"Louisiana St.","Troy (AL)",21,24,1
+1,2017-10-07,"Louisiana St.","Florida",17,16,0
+1,2017-10-14,"Louisiana St.","Auburn (AL)",27,23,1
+1,2017-10-21,"Louisiana St.","Mississippi",40,24,0
+0,2017-11-04,"Louisiana St.","Alabama",10,24,0
+1,2017-11-11,"Louisiana St.","Arkansas",33,10,1
+1,2017-11-18,"Louisiana St.","Tennessee",30,10,0
+1,2017-11-25,"Louisiana St.","Texas A&M",45,21,1
+0,2017-01-01,"Louisiana St.","Notre Dame (IN)",17,21,1
+1,2017-09-02,"Kentucky","Southern Mississippi",24,17,0
+1,2017-09-09,"Kentucky","Eastern Kentucky",27,16,1
+1,2017-09-16,"Kentucky","South Carolina",23,13,0
+0,2017-09-23,"Kentucky","Florida",27,28,1
+1,2017-09-30,"Kentucky","Eastern Michigan",24,20,1
+1,2017-10-07,"Kentucky","Missouri",40,34,1
+0,2017-10-21,"Kentucky","Mississippi St.",7,45,0
+1,2017-10-28,"Kentucky","Tennessee",29,26,1
+0,2017-11-04,"Kentucky","Mississippi",34,37,1
+1,2017-11-11,"Kentucky","Vanderbilt (TN)",44,21,0
+0,2017-11-18,"Kentucky","Georgia",13,42,0
+0,2017-11-25,"Kentucky","Louisville (KY)",17,44,1
+0,2017-12-29,"Kentucky","Northwestern (IL)",23,24,1
+1,2017-09-02,"Mississippi St.","Charleston Southern (SC)",49,0,1
+1,2017-09-09,"Mississippi St.","Louisiana Tech",57,21,0
+1,2017-09-16,"Mississippi St.","Louisiana St.",37,7,1
+0,2017-09-23,"Mississippi St.","Georgia",3,31,0
+0,2017-09-30,"Mississippi St.","Auburn (AL)",10,49,0
+1,2017-10-14,"Mississippi St.","Brigham Young (UT)",35,10,1
+1,2017-10-21,"Mississippi St.","Kentucky",45,7,1
+1,2017-10-28,"Mississippi St.","Texas A&M",35,14,0
+1,2017-11-04,"Mississippi St.","Massachusetts",34,23,1
+0,2017-11-11,"Mississippi St.","Alabama",24,31,1
+1,2017-11-18,"Mississippi St.","Arkansas",28,21,0
+0,2017-11-23,"Mississippi St.","Mississippi",28,31,1
+1,2017-12-30,"Mississippi St.","Louisville (KY)",31,27,1
+0,2017-09-02,"Wyoming","Iowa",3,24,0
+1,2017-09-09,"Wyoming","Gardner-Webb (NC)",27,0,1
+0,2017-09-16,"Wyoming","Oregon",13,49,1
+1,2017-09-23,"Wyoming","Hawaii",28,21,1
+1,2017-09-30,"Wyoming","Texas St.",45,10,1
+1,2017-10-14,"Wyoming","Utah St.",28,23,0
+0,2017-10-21,"Wyoming","Boise St. (ID)",14,24,0
+1,2017-10-28,"Wyoming","New Mexico",42,3,1
+1,2017-11-04,"Wyoming","Colorado St.",16,13,1
+1,2017-11-11,"Wyoming","Air Force (CO)",28,14,0
+0,2017-11-18,"Wyoming","Fresno St. (CA)",7,13,1
+0,2017-11-25,"Wyoming","San Jose St. (CA)",17,20,0
+1,2017-12-22,"Wyoming","Central Michigan",37,14,1
+1,2017-08-31,"Arkansas","Florida A&M",49,7,1
+0,2017-09-09,"Arkansas","Texas Christian",7,28,1
+0,2017-09-23,"Arkansas","Texas A&M",43,50,1
+1,2017-09-30,"Arkansas","New Mexico St.",42,24,1
+0,2017-10-07,"Arkansas","South Carolina",22,48,0
+0,2017-10-14,"Arkansas","Alabama",9,41,0
+0,2017-10-21,"Arkansas","Auburn (AL)",20,52,1
+1,2017-10-28,"Arkansas","Mississippi",38,37,0
+0,2017-11-11,"Arkansas","Louisiana St.",10,33,0
+0,2017-11-18,"Arkansas","Mississippi St.",21,28,1
+0,2017-11-24,"Arkansas","Missouri",45,48,1
+1,2017-09-02,"Missouri","Missouri St.",72,43,1
+0,2017-09-09,"Missouri","South Carolina",13,31,1
+0,2017-09-16,"Missouri","Purdue (IN)",3,35,1
+0,2017-09-23,"Missouri","Auburn (AL)",14,51,1
+0,2017-10-07,"Missouri","Kentucky",34,40,0
+0,2017-10-14,"Missouri","Georgia",28,53,0
+1,2017-10-21,"Missouri","Idaho",68,21,1
+1,2017-10-28,"Missouri","Connecticut",52,12,0
+1,2017-11-04,"Missouri","Florida",45,16,1
+1,2017-11-11,"Missouri","Tennessee",50,17,1
+1,2017-11-18,"Missouri","Vanderbilt (TN)",45,17,0
+1,2017-11-24,"Missouri","Arkansas",48,45,0
+0,2017-12-27,"Missouri","Texas",16,33,1
+1,2017-09-02,"Mississippi","South Alabama",47,27,1
+1,2017-09-09,"Mississippi","Tennessee-Martin",45,23,1
+0,2017-09-16,"Mississippi","California",16,27,0
+0,2017-09-30,"Mississippi","Alabama",3,66,0
+0,2017-10-07,"Mississippi","Auburn (AL)",23,44,0
+1,2017-10-14,"Mississippi","Vanderbilt (TN)",57,35,1
+0,2017-10-21,"Mississippi","Louisiana St.",24,40,1
+0,2017-10-28,"Mississippi","Arkansas",37,38,1
+1,2017-11-04,"Mississippi","Kentucky",37,34,0
+0,2017-11-18,"Mississippi","Texas A&M",24,31,1
+1,2017-11-23,"Mississippi","Mississippi St.",31,28,0
+1,2017-09-04,"Tennessee","Georgia Tech",42,41,1
+1,2017-09-09,"Tennessee","Indiana St.",42,7,1
+0,2017-09-16,"Tennessee","Florida",20,26,0
+1,2017-09-23,"Tennessee","Massachusetts",17,13,1
+0,2017-09-30,"Tennessee","Georgia",0,41,1
+0,2017-10-14,"Tennessee","South Carolina",9,15,1
+0,2017-10-21,"Tennessee","Alabama",7,45,0
+0,2017-10-28,"Tennessee","Kentucky",26,29,0
+1,2017-11-04,"Tennessee","Southern Mississippi",24,10,1
+0,2017-11-11,"Tennessee","Missouri",17,50,0
+0,2017-11-18,"Tennessee","Louisiana St.",10,30,1
+0,2017-11-25,"Tennessee","Vanderbilt (TN)",24,42,1
+0,2017-09-03,"Texas A&M","UCLA",44,45,0
+1,2017-09-09,"Texas A&M","Nicholls St. (LA)",24,14,1
+1,2017-09-23,"Texas A&M","Arkansas",50,43,1
+1,2017-09-30,"Texas A&M","South Carolina",24,17,1
+0,2017-10-07,"Texas A&M","Alabama",19,27,1
+1,2017-10-14,"Texas A&M","Florida",19,17,0
+0,2017-10-28,"Texas A&M","Mississippi St.",14,35,1
+0,2017-11-04,"Texas A&M","Auburn (AL)",27,42,1
+1,2017-11-11,"Texas A&M","New Mexico",55,14,1
+1,2017-11-18,"Texas A&M","Mississippi",31,24,0
+0,2017-11-25,"Texas A&M","Louisiana St.",21,45,0
+0,2017-12-29,"Texas A&M","Wake Forest (NC)",52,55,1
+1,2017-09-02,"South Carolina","North Carolina St.",35,28,1
+1,2017-09-09,"South Carolina","Missouri",31,13,0
+0,2017-09-16,"South Carolina","Kentucky",13,23,1
+1,2017-09-23,"South Carolina","Louisiana Tech",17,16,1
+0,2017-09-30,"South Carolina","Texas A&M",17,24,0
+1,2017-10-07,"South Carolina","Arkansas",48,22,1
+1,2017-10-14,"South Carolina","Tennessee",15,9,0
+1,2017-10-28,"South Carolina","Vanderbilt (TN)",34,27,1
+0,2017-11-04,"South Carolina","Georgia",10,24,0
+1,2017-11-11,"South Carolina","Florida",28,20,1
+1,2017-11-18,"South Carolina","Wofford (SC)",31,10,1
+0,2017-11-25,"South Carolina","Clemson (SC)",10,34,1
+1,2017-01-01,"South Carolina","Michigan",26,19,1
+0,2017-09-02,"Appalachian State (NC)","Georgia",10,31,0
+1,2017-09-09,"Appalachian State (NC)","Savannah St. (GA)",54,7,1
+1,2017-09-16,"Appalachian State (NC)","Texas St.",20,13,0
+0,2017-09-23,"Appalachian State (NC)","Wake Forest (NC)",19,20,1
+1,2017-10-07,"Appalachian State (NC)","New Mexico St.",45,31,1
+1,2017-10-14,"Appalachian State (NC)","Idaho",23,20,0
+0,2017-10-28,"Appalachian State (NC)","Massachusetts",27,30,0
+0,2017-11-04,"Appalachian State (NC)","Louisiana-Monroe",45,52,0
+1,2017-11-09,"Appalachian State (NC)","Georgia Southern",27,6,1
+1,2017-11-25,"Appalachian State (NC)","Georgia St.",31,10,0
+1,2017-12-23,"Appalachian State (NC)","Toledo (OH)",34,0,1
+1,2017-09-02,"Vanderbilt (TN)","Middle Tennessee St.",28,6,0
+1,2017-09-09,"Vanderbilt (TN)","Alabama A&M",42,0,1
+1,2017-09-16,"Vanderbilt (TN)","Kansas St.",14,7,1
+0,2017-09-23,"Vanderbilt (TN)","Alabama",0,59,1
+0,2017-09-30,"Vanderbilt (TN)","Florida",24,38,0
+0,2017-10-07,"Vanderbilt (TN)","Georgia",14,45,1
+0,2017-10-14,"Vanderbilt (TN)","Mississippi",35,57,0
+0,2017-10-28,"Vanderbilt (TN)","South Carolina",27,34,0
+1,2017-11-04,"Vanderbilt (TN)","Western Kentucky",31,17,1
+0,2017-11-11,"Vanderbilt (TN)","Kentucky",21,44,1
+0,2017-11-18,"Vanderbilt (TN)","Missouri",17,45,1
+1,2017-11-25,"Vanderbilt (TN)","Tennessee",42,24,0
+1,2017-09-02,"Coastal Carolina (SC)","Massachusetts",38,28,1
+0,2017-09-16,"Coastal Carolina (SC)","Alabama-Birmingham",23,30,0
+0,2017-09-23,"Coastal Carolina (SC)","Western Illinois",10,52,1
+0,2017-09-30,"Coastal Carolina (SC)","Louisiana-Monroe",43,51,0
+0,2017-10-07,"Coastal Carolina (SC)","Georgia St.",21,27,1
+0,2017-10-14,"Coastal Carolina (SC)","Arkansas St.",17,51,0
+0,2017-10-21,"Coastal Carolina (SC)","Appalachian State (NC)",29,37,0
+0,2017-10-28,"Coastal Carolina (SC)","Texas St.",7,27,1
+0,2017-11-04,"Coastal Carolina (SC)","Arkansas",38,39,0
+0,2017-11-11,"Coastal Carolina (SC)","Troy (AL)",17,42,1
+1,2017-11-18,"Coastal Carolina (SC)","Idaho",13,7,0
+1,2017-12-02,"Coastal Carolina (SC)","Georgia Southern",28,17,1
+0,2017-09-02,"Georgia Southern","Auburn (AL)",7,41,0
+0,2017-09-09,"Georgia Southern","New Hampshire",12,22,1
+0,2017-09-23,"Georgia Southern","Indiana",17,52,0
+0,2017-10-04,"Georgia Southern","Arkansas St.",25,43,1
+0,2017-10-14,"Georgia Southern","New Mexico St.",27,35,1
+0,2017-10-21,"Georgia Southern","Massachusetts",20,55,0
+0,2017-10-28,"Georgia Southern","Troy (AL)",16,38,0
+0,2017-11-04,"Georgia Southern","Georgia St.",17,21,1
+0,2017-11-09,"Georgia Southern","Appalachian State (NC)",6,27,0
+1,2017-11-18,"Georgia Southern","South Alabama",52,0,1
+1,2017-08-31,"Idaho","Cal St.-Sacramento",28,6,1
+0,2017-09-09,"Idaho","Nevada-Las Vegas",16,44,1
+0,2017-09-16,"Idaho","Western Michigan",28,37,0
+1,2017-09-23,"Idaho","South Alabama",29,23,0
+0,2017-10-14,"Idaho","Appalachian State (NC)",20,23,1
+0,2017-10-21,"Idaho","Missouri",21,68,0
+1,2017-10-28,"Idaho","Louisiana-Monroe",31,23,1
+0,2017-11-02,"Idaho","Troy (AL)",21,24,0
+0,2017-11-25,"Idaho","New Mexico St.",10,17,0
+1,2017-12-02,"Idaho","Georgia St.",24,10,0
+0,2017-08-31,"Georgia St.","Tennessee St.",10,17,1
+0,2017-09-16,"Georgia St.","Penn St.",0,56,0
+1,2017-09-23,"Georgia St.","North Carolina-Charlotte",28,0,0
+1,2017-10-14,"Georgia St.","Louisiana-Monroe",47,37,0
+0,2017-10-21,"Georgia St.","Troy (AL)",10,34,1
+1,2017-10-26,"Georgia St.","South Alabama",21,13,1
+1,2017-11-04,"Georgia St.","Georgia Southern",21,17,0
+1,2017-11-11,"Georgia St.","Texas St.",33,30,0
+0,2017-11-25,"Georgia St.","Appalachian State (NC)",10,31,1
+0,2017-12-02,"Georgia St.","Idaho",10,24,1
+1,2017-12-16,"Georgia St.","Western Kentucky",27,17,1
+1,2017-09-02,"Louisiana-Lafayette","Southeastern Louisiana",51,48,1
+0,2017-09-09,"Louisiana-Lafayette","Tulsa (OK)",42,66,0
+0,2017-09-16,"Louisiana-Lafayette","Texas A&M",21,45,0
+0,2017-09-23,"Louisiana-Lafayette","Louisiana-Monroe",50,56,1
+1,2017-10-07,"Louisiana-Lafayette","Idaho",21,16,0
+1,2017-10-12,"Louisiana-Lafayette","Texas St.",24,7,1
+0,2017-10-19,"Louisiana-Lafayette","Arkansas St.",3,47,0
+1,2017-11-04,"Louisiana-Lafayette","South Alabama",19,14,0
+0,2017-11-11,"Louisiana-Lafayette","Mississippi",22,50,0
+1,2017-11-18,"Louisiana-Lafayette","New Mexico St.",47,34,1
+0,2017-11-25,"Louisiana-Lafayette","Georgia Southern",24,34,1
+0,2017-12-02,"Louisiana-Lafayette","Appalachian State (NC)",14,63,0
+0,2017-08-31,"Louisiana-Monroe","Memphis (TN)",29,37,0
+0,2017-09-16,"Louisiana-Monroe","Southern Mississippi",17,28,1
+1,2017-10-07,"Louisiana-Monroe","Texas St.",45,27,0
+0,2017-10-14,"Louisiana-Monroe","Georgia St.",37,47,1
+0,2017-10-21,"Louisiana-Monroe","South Alabama",23,33,0
+0,2017-10-28,"Louisiana-Monroe","Idaho",23,31,0
+1,2017-11-04,"Louisiana-Monroe","Appalachian State (NC)",52,45,1
+0,2017-11-18,"Louisiana-Monroe","Auburn (AL)",14,42,0
+0,2017-11-25,"Louisiana-Monroe","Arkansas St.",50,67,1
+0,2017-12-02,"Louisiana-Monroe","Florida St.",10,42,0
+0,2017-08-31,"New Mexico St.","Arizona St.",31,37,0
+1,2017-09-09,"New Mexico St.","New Mexico",30,28,0
+0,2017-09-16,"New Mexico St.","Troy (AL)",24,27,1
+1,2017-09-23,"New Mexico St.","Texas-El Paso",41,14,1
+0,2017-09-30,"New Mexico St.","Arkansas",24,42,0
+0,2017-10-07,"New Mexico St.","Appalachian State (NC)",31,45,0
+1,2017-10-14,"New Mexico St.","Georgia Southern",35,27,0
+0,2017-10-28,"New Mexico St.","Arkansas St.",21,37,1
+1,2017-11-04,"New Mexico St.","Texas St.",45,35,0
+1,2017-11-25,"New Mexico St.","Idaho",17,10,1
+1,2017-12-02,"New Mexico St.","South Alabama",22,17,1
+1,2017-12-29,"New Mexico St.","Utah St.",26,20,1
+1,2017-09-02,"Texas St.","Houston Baptist (TX)",20,11,1
+0,2017-09-09,"Texas St.","Colorado",3,37,0
+0,2017-09-16,"Texas St.","Appalachian State (NC)",13,20,1
+0,2017-09-23,"Texas St.","Texas-San Antonio",14,44,1
+0,2017-09-30,"Texas St.","Wyoming",10,45,0
+0,2017-10-07,"Texas St.","Louisiana-Monroe",27,45,1
+0,2017-11-04,"Texas St.","New Mexico St.",35,45,1
+0,2017-11-11,"Texas St.","Georgia St.",30,33,1
+0,2017-11-18,"Texas St.","Arkansas St.",12,30,0
+0,2017-11-24,"Texas St.","Troy (AL)",9,62,0
+0,2017-09-02,"Troy (AL)","Boise St. (ID)",13,24,0
+1,2017-09-09,"Troy (AL)","Alabama St.",34,7,1
+1,2017-09-16,"Troy (AL)","New Mexico St.",27,24,0
+1,2017-09-23,"Troy (AL)","Akron (OH)",22,17,1
+1,2017-09-30,"Troy (AL)","Louisiana St.",24,21,0
+0,2017-10-11,"Troy (AL)","South Alabama",8,19,1
+1,2017-10-21,"Troy (AL)","Georgia St.",34,10,0
+1,2017-10-28,"Troy (AL)","Georgia Southern",38,16,1
+1,2017-11-02,"Troy (AL)","Idaho",24,21,1
+1,2017-11-24,"Troy (AL)","Texas St.",62,9,1
+1,2017-12-02,"Troy (AL)","Arkansas St.",32,25,0
+1,2017-12-16,"Troy (AL)","North Texas",50,30,1
+0,2017-08-26,"Cal Poly-San Luis Obispo","Colgate (NY)",14,20,1
+0,2017-09-02,"Cal Poly-San Luis Obispo","San Jose St. (CA)",13,34,0
+0,2017-09-09,"Cal Poly-San Luis Obispo","Northern Iowa",38,45,0
+0,2017-09-23,"Cal Poly-San Luis Obispo","Northern Arizona",10,28,1
+0,2017-09-30,"Cal Poly-San Luis Obispo","Idaho St.",34,38,0
+0,2017-10-07,"Cal Poly-San Luis Obispo","Southern Utah",14,20,0
+0,2017-10-21,"Cal Poly-San Luis Obispo","Weber St. (UT)",3,17,1
+0,2017-10-28,"Cal Poly-San Luis Obispo","California-Davis",28,31,0
+1,2017-11-04,"Cal Poly-San Luis Obispo","Portland St. (OR)",35,28,1
+0,2017-11-11,"Cal Poly-San Luis Obispo","Cal St.-Sacramento",14,49,1
+0,2017-11-18,"Cal Poly-San Luis Obispo","Northern Colorado",0,42,0
+0,2017-09-02,"Eastern Washington","Texas Tech",10,56,0
+0,2017-09-09,"Eastern Washington","North Dakota St.",13,40,1
+1,2017-09-16,"Eastern Washington","Fordham (NY)",56,21,0
+1,2017-09-23,"Eastern Washington","Montana",48,41,0
+1,2017-09-30,"Eastern Washington","Cal St.-Sacramento",52,31,1
+1,2017-10-07,"Eastern Washington","California-Davis",41,38,0
+1,2017-10-14,"Eastern Washington","Montana St.",31,19,1
+0,2017-10-21,"Eastern Washington","Southern Utah",28,46,0
+0,2017-11-04,"Eastern Washington","Weber St. (UT)",20,28,1
+1,2017-11-11,"Eastern Washington","North Dakota",21,14,0
+1,2017-11-18,"Eastern Washington","Portland St. (OR)",59,33,1
+0,2017-09-07,"Idaho St.","Utah St.",13,51,0
+1,2017-09-16,"Idaho St.","Nevada",30,28,0
+0,2017-09-23,"Idaho St.","Northern Colorado",42,43,0
+1,2017-09-30,"Idaho St.","Cal Poly-San Luis Obispo",38,34,1
+0,2017-10-07,"Idaho St.","Montana",31,39,1
+0,2017-10-14,"Idaho St.","Cal St.-Sacramento",21,41,0
+1,2017-10-21,"Idaho St.","Portland St. (OR)",59,30,1
+0,2017-10-28,"Idaho St.","Montana St.",14,28,0
+0,2017-11-04,"Idaho St.","California-Davis",17,56,1
+0,2017-11-18,"Idaho St.","Weber St. (UT)",7,35,0
+1,2017-09-02,"Montana","Valparaiso (IN)",45,23,1
+0,2017-09-09,"Montana","Washington",7,63,0
+1,2017-09-16,"Montana","Savannah St. (GA)",56,3,1
+0,2017-09-23,"Montana","Eastern Washington",41,48,1
+1,2017-09-30,"Montana","Portland St. (OR)",45,33,1
+1,2017-10-07,"Montana","Idaho St.",39,31,0
+1,2017-10-14,"Montana","North Dakota",41,17,1
+0,2017-10-28,"Montana","Weber St. (UT)",27,41,0
+1,2017-11-04,"Montana","Northern Arizona",17,15,1
+1,2017-11-11,"Montana","Northern Colorado",44,14,1
+0,2017-11-18,"Montana","Montana St.",23,31,0
+0,2017-08-31,"North Dakota","Utah",16,37,0
+1,2017-09-09,"North Dakota","Missouri St.",34,0,1
+0,2017-09-16,"North Dakota","South Dakota",7,45,0
+0,2017-09-23,"North Dakota","Montana St.",21,49,1
+0,2017-09-30,"North Dakota","California-Davis",24,48,0
+1,2017-10-07,"North Dakota","Northern Colorado",48,38,1
+0,2017-10-14,"North Dakota","Montana",17,41,0
+0,2017-10-21,"North Dakota","Cal St.-Sacramento",27,34,1
+1,2017-10-28,"North Dakota","Portland St. (OR)",48,21,0
+0,2017-11-04,"North Dakota","Southern Utah",21,47,0
+0,2017-11-11,"North Dakota","Eastern Washington",14,21,1
+0,2017-09-02,"Northern Arizona","Arizona",24,62,0
+0,2017-09-09,"Northern Arizona","Western Illinois",20,38,1
+1,2017-09-23,"Northern Arizona","Cal Poly-San Luis Obispo",28,10,0
+1,2017-09-30,"Northern Arizona","Northern Colorado",48,20,1
+1,2017-10-07,"Northern Arizona","Illinois St.",37,16,1
+1,2017-10-14,"Northern Arizona","Portland St. (OR)",42,20,0
+1,2017-10-21,"Northern Arizona","California-Davis",45,31,1
+1,2017-10-28,"Northern Arizona","Cal St.-Sacramento",37,17,1
+0,2017-11-04,"Northern Arizona","Montana",15,17,0
+1,2017-11-11,"Northern Arizona","Montana St.",37,36,1
+0,2017-11-18,"Northern Arizona","Southern Utah",20,48,0
+0,2017-11-25,"Northern Arizona","San Diego (CA)",10,41,1
+0,2017-09-02,"Arkansas St.","Nebraska",36,43,0
+1,2017-09-16,"Arkansas St.","Arkansas-Pine Bluff",48,3,1
+0,2017-09-23,"Arkansas St.","Southern Methodist (TX)",21,44,0
+1,2017-10-04,"Arkansas St.","Georgia Southern",43,25,0
+1,2017-10-28,"Arkansas St.","New Mexico St.",37,21,0
+0,2017-11-11,"Arkansas St.","South Alabama",19,24,0
+1,2017-11-18,"Arkansas St.","Texas St.",30,12,1
+1,2017-11-25,"Arkansas St.","Louisiana-Monroe",67,50,0
+0,2017-12-02,"Arkansas St.","Troy (AL)",25,32,1
+0,2017-12-16,"Arkansas St.","Middle Tennessee St.",30,35,1
+0,2017-08-26,"Portland St. (OR)","Brigham Young (UT)",6,20,0
+0,2017-09-02,"Portland St. (OR)","Oregon St.",32,35,0
+0,2017-09-16,"Portland St. (OR)","California-Davis",14,37,1
+0,2017-09-30,"Portland St. (OR)","Montana",33,45,1
+0,2017-10-07,"Portland St. (OR)","Montana St.",22,30,0
+0,2017-10-14,"Portland St. (OR)","Northern Arizona",20,42,1
+0,2017-10-21,"Portland St. (OR)","Idaho St.",30,59,0
+0,2017-10-28,"Portland St. (OR)","North Dakota",21,48,1
+0,2017-11-04,"Portland St. (OR)","Cal Poly-San Luis Obispo",28,35,0
+0,2017-11-11,"Portland St. (OR)","Weber St. (UT)",17,63,1
+0,2017-11-18,"Portland St. (OR)","Eastern Washington",33,59,0
+0,2017-08-31,"Cal St.-Sacramento","Idaho",6,28,0
+1,2017-09-09,"Cal St.-Sacramento","Incarnate Word (TX)",56,22,1
+0,2017-09-16,"Cal St.-Sacramento","Weber St. (UT)",24,31,1
+1,2017-09-23,"Cal St.-Sacramento","Southern Utah",54,27,1
+0,2017-09-30,"Cal St.-Sacramento","Eastern Washington",31,52,0
+1,2017-10-14,"Cal St.-Sacramento","Idaho St.",41,21,1
+1,2017-10-21,"Cal St.-Sacramento","North Dakota",34,27,0
+0,2017-10-28,"Cal St.-Sacramento","Northern Arizona",17,37,0
+1,2017-11-04,"Cal St.-Sacramento","Northern Colorado",50,21,1
+1,2017-11-11,"Cal St.-Sacramento","Cal Poly-San Luis Obispo",49,14,0
+1,2017-11-18,"Cal St.-Sacramento","California-Davis",52,47,1
+0,2017-09-02,"California-Davis","San Diego St. (CA)",17,38,0
+1,2017-09-09,"California-Davis","San Diego (CA)",35,7,1
+1,2017-09-16,"California-Davis","Portland St. (OR)",37,14,0
+0,2017-09-23,"California-Davis","Weber St. (UT)",3,41,0
+1,2017-09-30,"California-Davis","North Dakota",48,24,1
+0,2017-10-07,"California-Davis","Eastern Washington",38,41,1
+0,2017-10-21,"California-Davis","Northern Arizona",31,45,0
+1,2017-10-28,"California-Davis","Cal Poly-San Luis Obispo",31,28,1
+1,2017-11-04,"California-Davis","Idaho St.",56,17,0
+0,2017-11-11,"California-Davis","Southern Utah",27,47,1
+0,2017-11-18,"California-Davis","Cal St.-Sacramento",47,52,0
+0,2017-09-09,"Weber St. (UT)","California",20,33,0
+1,2017-09-16,"Weber St. (UT)","Cal St.-Sacramento",31,24,0
+1,2017-09-23,"Weber St. (UT)","California-Davis",41,3,1
+1,2017-09-30,"Weber St. (UT)","Montana St.",25,17,0
+0,2017-10-14,"Weber St. (UT)","Southern Utah",16,32,1
+1,2017-10-21,"Weber St. (UT)","Cal Poly-San Luis Obispo",17,3,0
+1,2017-10-28,"Weber St. (UT)","Montana",41,27,1
+1,2017-11-04,"Weber St. (UT)","Eastern Washington",28,20,0
+1,2017-11-11,"Weber St. (UT)","Portland St. (OR)",63,17,0
+1,2017-11-18,"Weber St. (UT)","Idaho St.",35,7,1
+1,2017-11-25,"Weber St. (UT)","Western Illinois",21,19,1
+1,2017-12-02,"Weber St. (UT)","Southern Utah",30,13,0
+0,2017-12-08,"Weber St. (UT)","James Madison (VA)",28,31,0
+0,2017-09-02,"Southern Utah","Oregon",21,77,0
+1,2017-09-09,"Southern Utah","Stephen F. Austin (TX)",51,14,0
+1,2017-09-16,"Southern Utah","Northern Iowa",24,21,1
+0,2017-09-23,"Southern Utah","Cal St.-Sacramento",27,54,0
+1,2017-10-07,"Southern Utah","Cal Poly-San Luis Obispo",20,14,1
+1,2017-10-14,"Southern Utah","Weber St. (UT)",32,16,0
+1,2017-10-21,"Southern Utah","Eastern Washington",46,28,1
+1,2017-10-28,"Southern Utah","Northern Colorado",27,14,0
+1,2017-11-04,"Southern Utah","North Dakota",47,21,1
+1,2017-11-11,"Southern Utah","California-Davis",47,27,0
+1,2017-11-18,"Southern Utah","Northern Arizona",48,20,1
+0,2017-12-02,"Southern Utah","Weber St. (UT)",13,30,1
+0,2017-09-02,"South Alabama","Mississippi",27,47,0
+0,2017-09-08,"South Alabama","Oklahoma St.",7,44,1
+1,2017-09-16,"South Alabama","Alabama A&M",45,0,1
+0,2017-09-23,"South Alabama","Idaho",23,29,1
+0,2017-09-30,"South Alabama","Louisiana Tech",16,34,0
+1,2017-10-11,"South Alabama","Troy (AL)",19,8,0
+1,2017-10-21,"South Alabama","Louisiana-Monroe",33,23,1
+0,2017-10-26,"South Alabama","Georgia St.",13,21,0
+1,2017-11-11,"South Alabama","Arkansas St.",24,19,1
+0,2017-11-18,"South Alabama","Georgia Southern",0,52,0
+0,2017-12-02,"South Alabama","New Mexico St.",17,22,0
+0,2017-09-02,"Charleston Southern (SC)","Mississippi St.",0,49,0
+0,2017-09-16,"Charleston Southern (SC)","Elon (NC)",17,19,0
+1,2017-09-30,"Charleston Southern (SC)","Mississippi Valley St.",58,7,1
+0,2017-10-07,"Charleston Southern (SC)","Indiana",0,27,0
+1,2017-10-14,"Charleston Southern (SC)","Presbyterian (SC)",7,0,0
+1,2017-10-21,"Charleston Southern (SC)","Savannah St. (GA)",52,27,1
+0,2017-10-28,"Charleston Southern (SC)","Monmouth (NJ)",20,23,1
+1,2017-11-04,"Charleston Southern (SC)","Gardner-Webb (NC)",10,9,0
+0,2017-11-11,"Charleston Southern (SC)","Kennesaw St. (GA)",0,38,0
+1,2017-11-18,"Charleston Southern (SC)","Liberty (VA)",20,19,1
+0,2017-09-02,"Gardner-Webb (NC)","North Carolina A&T",3,45,1
+0,2017-09-09,"Gardner-Webb (NC)","Wyoming",0,27,0
+0,2017-09-16,"Gardner-Webb (NC)","Western Carolina (NC)",27,42,1
+0,2017-09-23,"Gardner-Webb (NC)","Wofford (SC)",24,27,0
+0,2017-10-14,"Gardner-Webb (NC)","North Carolina Central",17,24,0
+0,2017-10-21,"Gardner-Webb (NC)","Kennesaw St. (GA)",3,17,0
+0,2017-10-28,"Gardner-Webb (NC)","Liberty (VA)",17,33,1
+0,2017-11-04,"Gardner-Webb (NC)","Charleston Southern (SC)",9,10,1
+0,2017-11-11,"Gardner-Webb (NC)","Monmouth (NJ)",14,41,0
+0,2017-11-18,"Gardner-Webb (NC)","Presbyterian (SC)",21,31,0
+0,2017-08-31,"Kennesaw St. (GA)","Samford (AL)",23,28,0
+1,2017-09-09,"Kennesaw St. (GA)","Tennessee Tech",27,14,1
+1,2017-09-16,"Kennesaw St. (GA)","Alabama St.",20,14,0
+1,2017-10-07,"Kennesaw St. (GA)","Texas Southern",48,3,1
+1,2017-10-14,"Kennesaw St. (GA)","Liberty (VA)",42,28,0
+1,2017-10-21,"Kennesaw St. (GA)","Gardner-Webb (NC)",17,3,1
+1,2017-10-28,"Kennesaw St. (GA)","Presbyterian (SC)",28,0,0
+1,2017-11-04,"Kennesaw St. (GA)","Montana St.",16,14,0
+1,2017-11-11,"Kennesaw St. (GA)","Charleston Southern (SC)",38,0,1
+1,2017-11-18,"Kennesaw St. (GA)","Monmouth (NJ)",52,21,1
+1,2017-11-25,"Kennesaw St. (GA)","Samford (AL)",28,17,1
+1,2017-12-02,"Kennesaw St. (GA)","Jacksonville St. (AL)",17,7,0
+0,2017-12-09,"Kennesaw St. (GA)","Sam Houston St. (TX)",27,34,0
+0,2017-09-02,"Montana St.","Washington St.",0,31,0
+0,2017-09-09,"Montana St.","South Dakota St.",27,31,1
+1,2017-09-23,"Montana St.","North Dakota",49,21,0
+0,2017-09-30,"Montana St.","Weber St. (UT)",17,25,1
+1,2017-10-07,"Montana St.","Portland St. (OR)",30,22,1
+0,2017-10-14,"Montana St.","Eastern Washington",19,31,0
+1,2017-10-21,"Montana St.","Northern Colorado",27,24,0
+1,2017-10-28,"Montana St.","Idaho St.",28,14,1
+0,2017-11-04,"Montana St.","Kennesaw St. (GA)",14,16,1
+0,2017-11-11,"Montana St.","Northern Arizona",36,37,0
+1,2017-11-18,"Montana St.","Montana",31,23,1
+1,2017-09-02,"Liberty (VA)","Baylor (TX)",48,45,0
+1,2017-09-09,"Liberty (VA)","Morehead St. (KY)",58,17,1
+1,2017-09-16,"Liberty (VA)","Indiana St.",42,41,1
+0,2017-09-23,"Liberty (VA)","Jacksonville St. (AL)",10,31,0
+0,2017-09-30,"Liberty (VA)","Saint Francis (PA)",7,13,1
+0,2017-10-14,"Liberty (VA)","Kennesaw St. (GA)",28,42,1
+0,2017-10-21,"Liberty (VA)","Monmouth (NJ)",39,56,0
+1,2017-10-28,"Liberty (VA)","Gardner-Webb (NC)",33,17,0
+1,2017-11-04,"Liberty (VA)","Duquesne (PA)",27,24,1
+1,2017-11-11,"Liberty (VA)","Presbyterian (SC)",47,28,1
+0,2017-11-18,"Liberty (VA)","Charleston Southern (SC)",19,20,0
+1,2017-09-02,"Monmouth (NJ)","Lafayette (PA)",31,12,1
+1,2017-09-09,"Monmouth (NJ)","Lehigh (PA)",46,27,1
+0,2017-09-16,"Monmouth (NJ)","SUNY-Albany (NY)",14,28,0
+1,2017-09-23,"Monmouth (NJ)","Hampton (VA)",30,23,0
+1,2017-09-30,"Monmouth (NJ)","Bucknell (PA)",35,13,0
+1,2017-10-07,"Monmouth (NJ)","Holy Cross (MA)",48,36,0
+1,2017-10-21,"Monmouth (NJ)","Liberty (VA)",56,39,1
+1,2017-10-28,"Monmouth (NJ)","Charleston Southern (SC)",23,20,0
+1,2017-11-04,"Monmouth (NJ)","Presbyterian (SC)",42,21,1
+1,2017-11-11,"Monmouth (NJ)","Gardner-Webb (NC)",41,14,1
+0,2017-11-18,"Monmouth (NJ)","Kennesaw St. (GA)",21,52,0
+0,2017-11-25,"Monmouth (NJ)","Northern Iowa",7,46,0
+0,2017-09-16,"Northern Colorado","Colorado",21,41,0
+1,2017-09-23,"Northern Colorado","Idaho St.",43,42,1
+0,2017-09-30,"Northern Colorado","Northern Arizona",20,48,0
+0,2017-10-07,"Northern Colorado","North Dakota",38,48,0
+0,2017-10-21,"Northern Colorado","Montana St.",24,27,1
+0,2017-10-28,"Northern Colorado","Southern Utah",14,27,1
+0,2017-11-04,"Northern Colorado","Cal St.-Sacramento",21,50,0
+0,2017-11-11,"Northern Colorado","Montana",14,44,0
+1,2017-11-18,"Northern Colorado","Cal Poly-San Luis Obispo",42,0,1
+0,2017-09-02,"SUNY-Albany (NY)","Old Dominion (VA)",17,31,0
+1,2017-09-09,"SUNY-Albany (NY)","Morgan St. (MD)",26,0,0
+1,2017-09-16,"SUNY-Albany (NY)","Monmouth (NJ)",28,14,1
+1,2017-09-23,"SUNY-Albany (NY)","Villanova (PA)",19,10,1
+0,2017-09-30,"SUNY-Albany (NY)","Elon (NC)",0,6,0
+0,2017-10-07,"SUNY-Albany (NY)","Richmond (VA)",38,41,0
+0,2017-10-21,"SUNY-Albany (NY)","Maine",10,12,1
+0,2017-10-28,"SUNY-Albany (NY)","Rhode Island",14,31,1
+0,2017-11-04,"SUNY-Albany (NY)","SUNY-Stony Brook (NY)",21,28,0
+0,2017-11-11,"SUNY-Albany (NY)","Delaware",3,22,0
+1,2017-11-18,"SUNY-Albany (NY)","New Hampshire",15,0,1
+0,2017-08-31,"Presbyterian (SC)","Wake Forest (NC)",7,51,0
+0,2017-09-09,"Presbyterian (SC)","Citadel (SC)",7,48,1
+1,2017-09-16,"Presbyterian (SC)","Campbell (NC)",28,16,1
+0,2017-09-30,"Presbyterian (SC)","Wofford (SC)",7,31,1
+1,2017-10-07,"Presbyterian (SC)","Saint Francis (PA)",26,14,1
+0,2017-10-14,"Presbyterian (SC)","Charleston Southern (SC)",0,7,1
+0,2017-10-28,"Presbyterian (SC)","Kennesaw St. (GA)",0,28,1
+0,2017-11-04,"Presbyterian (SC)","Monmouth (NJ)",21,42,0
+0,2017-11-11,"Presbyterian (SC)","Liberty (VA)",28,47,0
+1,2017-11-18,"Presbyterian (SC)","Gardner-Webb (NC)",31,21,1
+0,2017-08-31,"Elon (NC)","Toledo (OH)",13,47,0
+1,2017-09-09,"Elon (NC)","Furman (SC)",34,31,0
+1,2017-09-16,"Elon (NC)","Charleston Southern (SC)",19,17,1
+1,2017-09-23,"Elon (NC)","Richmond (VA)",36,33,0
+1,2017-09-30,"Elon (NC)","SUNY-Albany (NY)",6,0,1
+1,2017-10-07,"Elon (NC)","William & Mary (VA)",25,17,1
+1,2017-10-21,"Elon (NC)","Rhode Island",35,34,0
+1,2017-10-28,"Elon (NC)","Villanova (PA)",19,14,0
+1,2017-11-04,"Elon (NC)","Towson (MD)",33,30,1
+0,2017-11-11,"Elon (NC)","New Hampshire",6,16,0
+0,2017-11-18,"Elon (NC)","James Madison (VA)",3,31,1
+0,2017-11-25,"Elon (NC)","Furman (SC)",27,28,1
+1,2017-08-31,"Delaware","Delaware St.",22,3,1
+0,2017-09-09,"Delaware","Virginia Tech",0,27,0
+1,2017-09-16,"Delaware","Cornell (NY)",41,14,1
+0,2017-09-30,"Delaware","James Madison (VA)",10,20,1
+1,2017-10-07,"Delaware","SUNY-Stony Brook (NY)",24,20,0
+1,2017-10-14,"Delaware","William & Mary (VA)",17,0,1
+1,2017-10-21,"Delaware","Richmond (VA)",42,35,1
+0,2017-10-28,"Delaware","Towson (MD)",17,18,0
+1,2017-11-04,"Delaware","Maine",31,17,0
+1,2017-11-11,"Delaware","SUNY-Albany (NY)",22,3,1
+0,2017-11-18,"Delaware","Villanova (PA)",7,28,0
+0,2017-08-31,"Maine","New Hampshire",23,24,0
+1,2017-09-09,"Maine","Bryant (RI)",60,12,1
+0,2017-09-23,"Maine","James Madison (VA)",10,28,0
+0,2017-10-07,"Maine","Villanova (PA)",0,31,0
+1,2017-10-14,"Maine","Rhode Island",51,27,1
+1,2017-10-21,"Maine","SUNY-Albany (NY)",12,10,0
+1,2017-10-28,"Maine","William & Mary (VA)",23,6,1
+0,2017-11-04,"Maine","Delaware",17,31,1
+0,2017-11-11,"Maine","Massachusetts",31,44,1
+0,2017-11-18,"Maine","SUNY-Stony Brook (NY)",19,20,1
+1,2017-08-31,"New Hampshire","Maine",24,23,1
+1,2017-09-09,"New Hampshire","Georgia Southern",22,12,1
+0,2017-09-16,"New Hampshire","Holy Cross (MA)",26,51,0
+1,2017-09-23,"New Hampshire","Rhode Island",28,14,1
+1,2017-09-30,"New Hampshire","Bryant (RI)",45,17,1
+0,2017-10-14,"New Hampshire","SUNY-Stony Brook (NY)",24,38,0
+1,2017-10-21,"New Hampshire","Towson (MD)",40,17,1
+0,2017-10-28,"New Hampshire","James Madison (VA)",0,21,0
+1,2017-11-04,"New Hampshire","William & Mary (VA)",35,16,0
+1,2017-11-11,"New Hampshire","Elon (NC)",16,6,1
+0,2017-11-18,"New Hampshire","SUNY-Albany (NY)",0,15,0
+1,2017-11-25,"New Hampshire","Central Connecticut St.",14,0,1
+1,2017-12-02,"New Hampshire","Central Arkansas",21,15,0
+0,2017-12-09,"New Hampshire","South Dakota St.",14,56,0
+1,2017-09-02,"James Madison (VA)","East Carolina (NC)",34,14,0
+1,2017-09-09,"James Madison (VA)","East Tennessee St.",52,10,1
+1,2017-09-16,"James Madison (VA)","Norfolk St. (VA)",75,14,1
+1,2017-09-23,"James Madison (VA)","Maine",28,10,1
+1,2017-09-30,"James Madison (VA)","Delaware",20,10,0
+1,2017-10-14,"James Madison (VA)","Villanova (PA)",30,8,1
+1,2017-10-21,"James Madison (VA)","William & Mary (VA)",46,14,0
+1,2017-10-28,"James Madison (VA)","New Hampshire",21,0,1
+1,2017-11-04,"James Madison (VA)","Rhode Island",38,3,0
+1,2017-11-11,"James Madison (VA)","Richmond (VA)",20,13,1
+1,2017-11-18,"James Madison (VA)","Elon (NC)",31,3,0
+1,2017-12-02,"James Madison (VA)","SUNY-Stony Brook (NY)",26,7,1
+1,2017-12-08,"James Madison (VA)","Weber St. (UT)",31,28,1
+1,2017-12-16,"James Madison (VA)","South Dakota St.",51,16,1
+0,2017-01-06,"James Madison (VA)","North Dakota St.",13,17,1
+0,2017-09-01,"Richmond (VA)","Sam Houston St. (TX)",34,48,0
+1,2017-09-09,"Richmond (VA)","Colgate (NY)",20,17,0
+1,2017-09-16,"Richmond (VA)","Howard (DC)",68,21,1
+0,2017-09-23,"Richmond (VA)","Elon (NC)",33,36,1
+1,2017-10-07,"Richmond (VA)","SUNY-Albany (NY)",41,38,1
+1,2017-10-14,"Richmond (VA)","Towson (MD)",23,3,0
+0,2017-10-21,"Richmond (VA)","Delaware",35,42,0
+0,2017-10-28,"Richmond (VA)","SUNY-Stony Brook (NY)",24,27,1
+1,2017-11-04,"Richmond (VA)","Villanova (PA)",22,0,0
+0,2017-11-11,"Richmond (VA)","James Madison (VA)",13,20,0
+1,2017-11-18,"Richmond (VA)","William & Mary (VA)",27,20,1
+0,2017-09-02,"SUNY-Stony Brook (NY)","South Florida",17,31,0
+1,2017-09-09,"SUNY-Stony Brook (NY)","Rhode Island",35,18,0
+1,2017-09-16,"SUNY-Stony Brook (NY)","Sacred Heart (CT)",45,7,1
+1,2017-09-23,"SUNY-Stony Brook (NY)","Towson (MD)",25,17,1
+1,2017-09-30,"SUNY-Stony Brook (NY)","William & Mary (VA)",21,18,0
+0,2017-10-07,"SUNY-Stony Brook (NY)","Delaware",20,24,1
+1,2017-10-14,"SUNY-Stony Brook (NY)","New Hampshire",38,24,1
+1,2017-10-28,"SUNY-Stony Brook (NY)","Richmond (VA)",27,24,0
+1,2017-11-04,"SUNY-Stony Brook (NY)","SUNY-Albany (NY)",28,21,1
+1,2017-11-11,"SUNY-Stony Brook (NY)","Wagner (NY)",38,10,1
+1,2017-11-18,"SUNY-Stony Brook (NY)","Maine",20,19,0
+1,2017-11-25,"SUNY-Stony Brook (NY)","Lehigh (PA)",59,29,1
+0,2017-12-02,"SUNY-Stony Brook (NY)","James Madison (VA)",7,26,0
+0,2017-08-31,"Rhode Island","Central Michigan",27,30,0
+0,2017-09-09,"Rhode Island","SUNY-Stony Brook (NY)",18,35,1
+1,2017-09-16,"Rhode Island","Harvard (MA)",17,10,1
+0,2017-09-23,"Rhode Island","New Hampshire",14,28,0
+0,2017-09-30,"Rhode Island","Brown (RI)",21,24,0
+0,2017-10-14,"Rhode Island","Maine",27,51,0
+0,2017-10-21,"Rhode Island","Elon (NC)",34,35,1
+1,2017-10-28,"Rhode Island","SUNY-Albany (NY)",31,14,0
+0,2017-11-04,"Rhode Island","James Madison (VA)",3,38,1
+1,2017-11-11,"Rhode Island","Villanova (PA)",20,6,1
+0,2017-11-18,"Rhode Island","Towson (MD)",10,29,0
+1,2017-09-02,"Villanova (PA)","Lehigh (PA)",38,35,0
+0,2017-09-09,"Villanova (PA)","Temple (PA)",13,16,0
+1,2017-09-16,"Villanova (PA)","Lafayette (PA)",59,0,1
+0,2017-09-23,"Villanova (PA)","SUNY-Albany (NY)",10,19,0
+1,2017-09-30,"Villanova (PA)","Towson (MD)",24,9,0
+1,2017-10-07,"Villanova (PA)","Maine",31,0,1
+0,2017-10-14,"Villanova (PA)","James Madison (VA)",8,30,0
+0,2017-10-28,"Villanova (PA)","Elon (NC)",14,19,1
+0,2017-11-04,"Villanova (PA)","Richmond (VA)",0,22,1
+0,2017-11-11,"Villanova (PA)","Rhode Island",6,20,0
+1,2017-11-18,"Villanova (PA)","Delaware",28,7,1
+1,2017-09-02,"Towson (MD)","Morgan St. (MD)",10,0,1
+0,2017-09-09,"Towson (MD)","Maryland",17,63,0
+1,2017-09-16,"Towson (MD)","Saint Francis (PA)",16,14,0
+0,2017-09-23,"Towson (MD)","SUNY-Stony Brook (NY)",17,25,0
+0,2017-09-30,"Towson (MD)","Villanova (PA)",9,24,1
+0,2017-10-14,"Towson (MD)","Richmond (VA)",3,23,1
+0,2017-10-21,"Towson (MD)","New Hampshire",17,40,0
+1,2017-10-28,"Towson (MD)","Delaware",18,17,1
+0,2017-11-04,"Towson (MD)","Elon (NC)",30,33,0
+1,2017-11-11,"Towson (MD)","William & Mary (VA)",26,14,0
+1,2017-11-18,"Towson (MD)","Rhode Island",29,10,1
+0,2017-09-02,"William & Mary (VA)","Virginia",10,28,0
+1,2017-09-09,"William & Mary (VA)","Norfolk St. (VA)",20,6,0
+1,2017-09-16,"William & Mary (VA)","Bucknell (PA)",30,9,1
+0,2017-09-30,"William & Mary (VA)","SUNY-Stony Brook (NY)",18,21,1
+0,2017-10-07,"William & Mary (VA)","Elon (NC)",17,25,0
+0,2017-10-14,"William & Mary (VA)","Delaware",0,17,0
+0,2017-10-21,"William & Mary (VA)","James Madison (VA)",14,46,1
+0,2017-10-28,"William & Mary (VA)","Maine",6,23,0
+0,2017-11-04,"William & Mary (VA)","New Hampshire",16,35,1
+0,2017-11-11,"William & Mary (VA)","Towson (MD)",14,26,1
+0,2017-11-18,"William & Mary (VA)","Richmond (VA)",20,27,0
+1,2017-09-16,"Columbia (NY)","Wagner (NY)",17,14,1
+1,2017-09-23,"Columbia (NY)","Georgetown (DC)",35,14,1
+1,2017-09-30,"Columbia (NY)","Princeton (NJ)",28,24,0
+1,2017-10-07,"Columbia (NY)","Marist (NY)",41,17,0
+1,2017-10-14,"Columbia (NY)","Pennsylvania",34,31,1
+1,2017-10-21,"Columbia (NY)","Dartmouth (NH)",22,17,0
+0,2017-10-28,"Columbia (NY)","Yale (CT)",6,23,0
+0,2017-11-04,"Columbia (NY)","Harvard (MA)",14,21,1
+1,2017-11-11,"Columbia (NY)","Cornell (NY)",18,8,0
+1,2017-11-18,"Columbia (NY)","Brown (RI)",24,6,1
+0,2017-09-16,"Cornell (NY)","Delaware",14,41,0
+0,2017-09-23,"Cornell (NY)","Yale (CT)",24,49,0
+0,2017-09-30,"Cornell (NY)","Colgate (NY)",7,21,1
+1,2017-10-07,"Cornell (NY)","Harvard (MA)",17,14,1
+0,2017-10-14,"Cornell (NY)","Bucknell (PA)",18,26,1
+1,2017-10-21,"Cornell (NY)","Brown (RI)",34,7,1
+1,2017-10-28,"Cornell (NY)","Princeton (NJ)",29,28,0
+0,2017-11-04,"Cornell (NY)","Dartmouth (NH)",0,10,0
+0,2017-11-11,"Cornell (NY)","Columbia (NY)",8,18,1
+0,2017-11-18,"Cornell (NY)","Pennsylvania",22,29,0
+1,2017-09-16,"Brown (RI)","Bryant (RI)",28,23,1
+0,2017-09-23,"Brown (RI)","Harvard (MA)",28,45,0
+1,2017-09-30,"Brown (RI)","Rhode Island",24,21,1
+0,2017-10-07,"Brown (RI)","Stetson (FL)",13,17,0
+0,2017-10-14,"Brown (RI)","Princeton (NJ)",0,53,1
+0,2017-10-21,"Brown (RI)","Cornell (NY)",7,34,0
+0,2017-10-28,"Brown (RI)","Pennsylvania",7,17,1
+0,2017-11-03,"Brown (RI)","Yale (CT)",7,34,0
+0,2017-11-10,"Brown (RI)","Dartmouth (NH)",10,33,1
+0,2017-11-18,"Brown (RI)","Columbia (NY)",6,24,0
+0,2017-09-16,"Harvard (MA)","Rhode Island",10,17,0
+1,2017-09-23,"Harvard (MA)","Brown (RI)",45,28,1
+1,2017-09-30,"Harvard (MA)","Georgetown (DC)",41,2,1
+0,2017-10-07,"Harvard (MA)","Cornell (NY)",14,17,0
+1,2017-10-14,"Harvard (MA)","Lafayette (PA)",38,10,1
+0,2017-10-20,"Harvard (MA)","Princeton (NJ)",17,52,1
+1,2017-10-28,"Harvard (MA)","Dartmouth (NH)",25,22,1
+1,2017-11-04,"Harvard (MA)","Columbia (NY)",21,14,0
+0,2017-11-11,"Harvard (MA)","Pennsylvania",6,23,1
+0,2017-11-18,"Harvard (MA)","Yale (CT)",3,24,0
+1,2017-09-16,"Dartmouth (NH)","Stetson (FL)",38,7,0
+1,2017-09-23,"Dartmouth (NH)","Holy Cross (MA)",27,26,1
+1,2017-09-29,"Dartmouth (NH)","Pennsylvania",16,13,0
+1,2017-10-07,"Dartmouth (NH)","Yale (CT)",28,27,1
+1,2017-10-14,"Dartmouth (NH)","Sacred Heart (CT)",29,26,0
+0,2017-10-21,"Dartmouth (NH)","Columbia (NY)",17,22,1
+0,2017-10-28,"Dartmouth (NH)","Harvard (MA)",22,25,0
+1,2017-11-04,"Dartmouth (NH)","Cornell (NY)",10,0,1
+1,2017-11-10,"Dartmouth (NH)","Brown (RI)",33,10,1
+1,2017-11-18,"Dartmouth (NH)","Princeton (NJ)",54,44,1
+1,2017-09-23,"Pennsylvania","Lehigh (PA)",65,47,0
+0,2017-09-29,"Pennsylvania","Dartmouth (NH)",13,16,1
+0,2017-10-07,"Pennsylvania","Central Connecticut St.",21,42,0
+0,2017-10-14,"Pennsylvania","Columbia (NY)",31,34,0
+0,2017-10-21,"Pennsylvania","Yale (CT)",19,24,1
+1,2017-10-28,"Pennsylvania","Brown (RI)",17,7,0
+1,2017-11-04,"Pennsylvania","Princeton (NJ)",38,35,1
+1,2017-11-11,"Pennsylvania","Harvard (MA)",23,6,0
+1,2017-11-18,"Pennsylvania","Cornell (NY)",29,22,1
+0,2017-09-02,"Bethune-Cookman (FL)","Miami (FL)",13,41,0
+1,2017-09-09,"Bethune-Cookman (FL)","Southeastern Louisiana",28,23,0
+0,2017-09-16,"Bethune-Cookman (FL)","Florida Atlantic",0,45,0
+0,2017-09-23,"Bethune-Cookman (FL)","Howard (DC)",24,26,0
+1,2017-09-30,"Bethune-Cookman (FL)","Savannah St. (GA)",24,12,1
+1,2017-10-14,"Bethune-Cookman (FL)","South Carolina St.",12,9,1
+0,2017-10-21,"Bethune-Cookman (FL)","North Carolina A&T",20,24,0
+1,2017-10-28,"Bethune-Cookman (FL)","Hampton (VA)",24,21,1
+1,2017-11-04,"Bethune-Cookman (FL)","Morgan St. (MD)",41,28,1
+1,2017-11-11,"Bethune-Cookman (FL)","North Carolina Central",13,10,0
+1,2017-11-18,"Bethune-Cookman (FL)","Florida A&M",29,24,1
+1,2017-09-16,"Yale (CT)","Lehigh (PA)",56,28,0
+1,2017-09-23,"Yale (CT)","Cornell (NY)",49,24,1
+1,2017-09-30,"Yale (CT)","Fordham (NY)",41,10,0
+0,2017-10-07,"Yale (CT)","Dartmouth (NH)",27,28,0
+1,2017-10-14,"Yale (CT)","Holy Cross (MA)",32,0,1
+1,2017-10-21,"Yale (CT)","Pennsylvania",24,19,0
+1,2017-10-28,"Yale (CT)","Columbia (NY)",23,6,1
+1,2017-11-03,"Yale (CT)","Brown (RI)",34,7,1
+1,2017-11-11,"Yale (CT)","Princeton (NJ)",35,31,0
+1,2017-11-18,"Yale (CT)","Harvard (MA)",24,3,1
+0,2017-08-31,"Delaware St.","Delaware",3,22,0
+0,2017-09-08,"Delaware St.","Hampton (VA)",15,28,0
+0,2017-09-16,"Delaware St.","West Virginia",16,59,0
+0,2017-09-23,"Delaware St.","Norfolk St. (VA)",7,17,1
+0,2017-10-07,"Delaware St.","North Carolina A&T",3,44,0
+0,2017-10-14,"Delaware St.","Howard (DC)",23,52,1
+1,2017-10-21,"Delaware St.","South Carolina St.",17,14,1
+0,2017-10-28,"Delaware St.","North Carolina Central",14,42,0
+0,2017-11-04,"Delaware St.","Savannah St. (GA)",21,35,0
+1,2017-11-11,"Delaware St.","Morgan St. (MD)",33,30,1
+0,2017-11-18,"Delaware St.","Florida St.",6,77,0
+1,2017-08-26,"Florida A&M","Texas Southern",29,7,1
+0,2017-08-31,"Florida A&M","Arkansas",7,49,1
+0,2017-09-16,"Florida A&M","Tennessee St.",13,24,1
+1,2017-09-23,"Florida A&M","Savannah St. (GA)",20,14,0
+0,2017-09-28,"Florida A&M","North Carolina Central",14,21,1
+0,2017-10-07,"Florida A&M","Norfolk St. (VA)",28,35,0
+0,2017-10-14,"Florida A&M","North Carolina A&T",20,31,1
+0,2017-10-21,"Florida A&M","Hampton (VA)",27,31,0
+1,2017-10-28,"Florida A&M","Morgan St. (MD)",34,31,0
+0,2017-11-04,"Florida A&M","Howard (DC)",26,37,1
+0,2017-11-18,"Florida A&M","Bethune-Cookman (FL)",24,29,1
+0,2017-09-02,"Morgan St. (MD)","Towson (MD)",0,10,0
+0,2017-09-09,"Morgan St. (MD)","SUNY-Albany (NY)",0,26,1
+0,2017-09-16,"Morgan St. (MD)","Rutgers (NJ)",0,65,0
+0,2017-09-23,"Morgan St. (MD)","North Carolina A&T",17,49,1
+0,2017-10-06,"Morgan St. (MD)","South Carolina St.",14,35,0
+1,2017-10-14,"Morgan St. (MD)","Savannah St. (GA)",48,28,1
+0,2017-10-21,"Morgan St. (MD)","Howard (DC)",14,39,0
+0,2017-10-28,"Morgan St. (MD)","Florida A&M",31,34,1
+0,2017-11-04,"Morgan St. (MD)","Bethune-Cookman (FL)",28,41,0
+0,2017-11-11,"Morgan St. (MD)","Delaware St.",30,33,0
+0,2017-11-18,"Morgan St. (MD)","Norfolk St. (VA)",32,45,1
+1,2017-09-02,"Howard (DC)","Nevada-Las Vegas",43,40,0
+0,2017-09-09,"Howard (DC)","Kent St. (OH)",31,38,0
+0,2017-09-16,"Howard (DC)","Richmond (VA)",21,68,0
+1,2017-09-23,"Howard (DC)","Bethune-Cookman (FL)",26,24,1
+0,2017-10-07,"Howard (DC)","North Carolina Central",7,13,1
+1,2017-10-14,"Howard (DC)","Delaware St.",52,23,0
+1,2017-10-21,"Howard (DC)","Morgan St. (MD)",39,14,1
+1,2017-10-28,"Howard (DC)","South Carolina St.",28,20,0
+1,2017-11-04,"Howard (DC)","Florida A&M",37,26,0
+1,2017-11-11,"Howard (DC)","Norfolk St. (VA)",28,24,1
+0,2017-11-18,"Howard (DC)","Hampton (VA)",17,20,0
+0,2017-09-09,"Norfolk St. (VA)","William & Mary (VA)",6,20,1
+0,2017-09-16,"Norfolk St. (VA)","James Madison (VA)",14,75,0
+1,2017-09-23,"Norfolk St. (VA)","Delaware St.",17,7,0
+1,2017-10-07,"Norfolk St. (VA)","Florida A&M",35,28,1
+0,2017-10-14,"Norfolk St. (VA)","Hampton (VA)",14,16,1
+1,2017-10-21,"Norfolk St. (VA)","North Carolina Central",28,21,0
+0,2017-10-28,"Norfolk St. (VA)","Savannah St. (GA)",9,27,1
+0,2017-11-04,"Norfolk St. (VA)","North Carolina A&T",7,35,1
+0,2017-11-11,"Norfolk St. (VA)","Howard (DC)",24,28,0
+1,2017-11-18,"Norfolk St. (VA)","Morgan St. (MD)",45,32,0
+1,2017-09-02,"North Carolina A&T","Gardner-Webb (NC)",45,3,0
+1,2017-09-16,"North Carolina A&T","North Carolina-Charlotte",35,31,0
+1,2017-09-23,"North Carolina A&T","Morgan St. (MD)",49,17,0
+1,2017-09-30,"North Carolina A&T","South Carolina St.",21,7,0
+1,2017-10-07,"North Carolina A&T","Delaware St.",44,3,1
+1,2017-10-14,"North Carolina A&T","Florida A&M",31,20,0
+1,2017-10-21,"North Carolina A&T","Bethune-Cookman (FL)",24,20,1
+1,2017-11-04,"North Carolina A&T","Norfolk St. (VA)",35,7,0
+1,2017-11-11,"North Carolina A&T","Savannah St. (GA)",36,17,1
+1,2017-11-18,"North Carolina A&T","North Carolina Central",24,10,1
+0,2017-09-02,"North Carolina Central","Duke (NC)",7,60,0
+1,2017-09-21,"North Carolina Central","South Carolina St.",33,28,1
+1,2017-09-28,"North Carolina Central","Florida A&M",21,14,0
+1,2017-10-07,"North Carolina Central","Howard (DC)",13,7,0
+1,2017-10-14,"North Carolina Central","Gardner-Webb (NC)",24,17,1
+0,2017-10-21,"North Carolina Central","Norfolk St. (VA)",21,28,1
+1,2017-10-28,"North Carolina Central","Delaware St.",42,14,1
+1,2017-11-04,"North Carolina Central","Hampton (VA)",14,6,0
+0,2017-11-11,"North Carolina Central","Bethune-Cookman (FL)",10,13,1
+0,2017-11-18,"North Carolina Central","North Carolina A&T",10,24,0
+0,2017-09-09,"Savannah St. (GA)","Appalachian State (NC)",7,54,0
+0,2017-09-16,"Savannah St. (GA)","Montana",3,56,0
+0,2017-09-23,"Savannah St. (GA)","Florida A&M",14,20,1
+0,2017-09-30,"Savannah St. (GA)","Bethune-Cookman (FL)",12,24,0
+0,2017-10-07,"Savannah St. (GA)","Hampton (VA)",10,17,1
+0,2017-10-14,"Savannah St. (GA)","Morgan St. (MD)",28,48,0
+0,2017-10-21,"Savannah St. (GA)","Charleston Southern (SC)",27,52,0
+1,2017-10-28,"Savannah St. (GA)","Norfolk St. (VA)",27,9,0
+1,2017-11-04,"Savannah St. (GA)","Delaware St.",35,21,1
+0,2017-11-11,"Savannah St. (GA)","North Carolina A&T",17,36,0
+1,2017-11-18,"Savannah St. (GA)","South Carolina St.",34,10,1
+0,2017-09-03,"South Carolina St.","Southern (LA)",8,14,0
+0,2017-09-21,"South Carolina St.","North Carolina Central",28,33,0
+0,2017-09-30,"South Carolina St.","North Carolina A&T",7,21,1
+1,2017-10-06,"South Carolina St.","Morgan St. (MD)",35,14,1
+0,2017-10-14,"South Carolina St.","Bethune-Cookman (FL)",9,12,0
+0,2017-10-21,"South Carolina St.","Delaware St.",14,17,0
+0,2017-10-28,"South Carolina St.","Howard (DC)",20,28,1
+1,2017-11-11,"South Carolina St.","Hampton (VA)",33,15,1
+0,2017-11-18,"South Carolina St.","Savannah St. (GA)",10,34,0
+1,2017-09-02,"Illinois St.","Butler (IN)",45,0,1
+1,2017-09-16,"Illinois St.","Eastern Illinois",44,13,0
+1,2017-09-23,"Illinois St.","Missouri St.",34,9,0
+1,2017-09-30,"Illinois St.","Indiana St.",24,13,1
+0,2017-10-07,"Illinois St.","Northern Arizona",16,37,0
+0,2017-10-14,"Illinois St.","Southern Illinois",7,42,0
+1,2017-10-21,"Illinois St.","South Dakota",37,21,1
+1,2017-10-28,"Illinois St.","Youngstown St. (OH)",35,0,0
+0,2017-11-04,"Illinois St.","Western Illinois",14,31,1
+0,2017-11-11,"Illinois St.","South Dakota St.",24,27,0
+0,2017-11-18,"Illinois St.","North Dakota St.",7,20,1
+0,2017-08-31,"Indiana St.","Eastern Illinois",20,22,1
+0,2017-09-09,"Indiana St.","Tennessee",7,42,0
+0,2017-09-16,"Indiana St.","Liberty (VA)",41,42,0
+0,2017-09-30,"Indiana St.","Illinois St.",13,24,0
+0,2017-10-07,"Indiana St.","North Dakota St.",0,52,1
+0,2017-10-14,"Indiana St.","South Dakota",6,56,0
+0,2017-10-21,"Indiana St.","Southern Illinois",24,45,1
+0,2017-10-28,"Indiana St.","Missouri St.",20,59,0
+0,2017-11-04,"Indiana St.","Youngstown St. (OH)",24,66,1
+0,2017-11-11,"Indiana St.","Western Illinois",0,45,1
+0,2017-11-18,"Indiana St.","Northern Iowa",3,41,0
+0,2017-09-02,"Missouri St.","Missouri",43,72,0
+0,2017-09-09,"Missouri St.","North Dakota",0,34,0
+1,2017-09-16,"Missouri St.","Murray St. (KY)",28,21,1
+0,2017-09-23,"Missouri St.","Illinois St.",9,34,1
+0,2017-09-30,"Missouri St.","North Dakota St.",11,38,0
+0,2017-10-14,"Missouri St.","Western Illinois",30,49,0
+0,2017-10-21,"Missouri St.","South Dakota St.",30,62,1
+1,2017-10-28,"Missouri St.","Indiana St.",59,20,1
+1,2017-11-04,"Missouri St.","Southern Illinois",36,28,0
+0,2017-11-11,"Missouri St.","Northern Iowa",10,25,1
+0,2017-11-18,"Missouri St.","Youngstown St. (OH)",10,38,0
+1,2017-09-16,"Princeton (NJ)","San Diego (CA)",27,17,1
+1,2017-09-23,"Princeton (NJ)","Lafayette (PA)",38,17,0
+0,2017-09-30,"Princeton (NJ)","Columbia (NY)",24,28,1
+1,2017-10-07,"Princeton (NJ)","Georgetown (DC)",50,30,1
+1,2017-10-14,"Princeton (NJ)","Brown (RI)",53,0,0
+1,2017-10-20,"Princeton (NJ)","Harvard (MA)",52,17,0
+0,2017-10-28,"Princeton (NJ)","Cornell (NY)",28,29,1
+0,2017-11-04,"Princeton (NJ)","Pennsylvania",35,38,0
+0,2017-11-11,"Princeton (NJ)","Yale (CT)",31,35,1
+0,2017-11-18,"Princeton (NJ)","Dartmouth (NH)",44,54,0
+0,2017-09-02,"Northern Iowa","Iowa St.",24,42,0
+1,2017-09-09,"Northern Iowa","Cal Poly-San Luis Obispo",45,38,1
+0,2017-09-16,"Northern Iowa","Southern Utah",21,24,0
+1,2017-09-30,"Northern Iowa","Southern Illinois",24,17,0
+0,2017-10-07,"Northern Iowa","Western Illinois",29,38,1
+1,2017-10-14,"Northern Iowa","South Dakota St.",38,18,0
+1,2017-10-21,"Northern Iowa","Youngstown St. (OH)",19,14,1
+0,2017-10-28,"Northern Iowa","North Dakota St.",14,30,0
+1,2017-11-04,"Northern Iowa","South Dakota",34,29,1
+1,2017-11-11,"Northern Iowa","Missouri St.",25,10,0
+1,2017-11-18,"Northern Iowa","Indiana St.",41,3,1
+1,2017-11-25,"Northern Iowa","Monmouth (NJ)",46,7,1
+0,2017-12-02,"Northern Iowa","South Dakota St.",22,37,0
+1,2017-09-02,"South Dakota","Drake (IA)",77,7,0
+1,2017-09-09,"South Dakota","Bowling Green (OH)",35,27,0
+1,2017-09-16,"South Dakota","North Dakota",45,7,1
+1,2017-09-30,"South Dakota","Western Illinois",38,33,0
+1,2017-10-07,"South Dakota","Youngstown St. (OH)",31,28,1
+1,2017-10-14,"South Dakota","Indiana St.",56,6,1
+0,2017-10-21,"South Dakota","Illinois St.",21,37,0
+1,2017-10-28,"South Dakota","Southern Illinois",42,0,1
+0,2017-11-04,"South Dakota","Northern Iowa",29,34,0
+0,2017-11-11,"South Dakota","North Dakota St.",14,49,0
+0,2017-11-18,"South Dakota","South Dakota St.",28,31,1
+1,2017-11-25,"South Dakota","Nicholls St. (LA)",38,31,0
+0,2017-12-02,"South Dakota","Sam Houston St. (TX)",42,54,0
+1,2017-08-31,"South Dakota St.","Duquesne (PA)",51,13,1
+1,2017-09-09,"South Dakota St.","Montana St.",31,27,0
+1,2017-09-16,"South Dakota St.","Drake (IA)",51,10,1
+0,2017-09-30,"South Dakota St.","Youngstown St. (OH)",7,19,0
+1,2017-10-07,"South Dakota St.","Southern Illinois",49,14,1
+0,2017-10-14,"South Dakota St.","Northern Iowa",18,38,1
+1,2017-10-21,"South Dakota St.","Missouri St.",62,30,0
+1,2017-10-28,"South Dakota St.","Western Illinois",52,24,0
+1,2017-11-04,"South Dakota St.","North Dakota St.",33,21,1
+1,2017-11-11,"South Dakota St.","Illinois St.",27,24,1
+1,2017-11-18,"South Dakota St.","South Dakota",31,28,0
+1,2017-12-02,"South Dakota St.","Northern Iowa",37,22,1
+1,2017-12-09,"South Dakota St.","New Hampshire",56,14,1
+0,2017-12-16,"South Dakota St.","James Madison (VA)",16,51,0
+1,2017-09-09,"Southern Illinois","Mississippi Valley St.",55,3,1
+1,2017-09-16,"Southern Illinois","Southeast Missouri St.",35,17,0
+0,2017-09-23,"Southern Illinois","Memphis (TN)",31,44,0
+0,2017-09-30,"Southern Illinois","Northern Iowa",17,24,1
+0,2017-10-07,"Southern Illinois","South Dakota St.",14,49,0
+1,2017-10-14,"Southern Illinois","Illinois St.",42,7,1
+1,2017-10-21,"Southern Illinois","Indiana St.",45,24,0
+0,2017-10-28,"Southern Illinois","South Dakota",0,42,0
+0,2017-11-04,"Southern Illinois","Missouri St.",28,36,1
+0,2017-11-11,"Southern Illinois","Youngstown St. (OH)",20,28,1
+0,2017-11-18,"Southern Illinois","Western Illinois",14,28,0
+1,2017-08-31,"Western Illinois","Tennessee Tech",41,14,0
+1,2017-09-09,"Western Illinois","Northern Arizona",38,20,0
+0,2017-09-30,"Western Illinois","South Dakota",33,38,1
+1,2017-10-07,"Western Illinois","Northern Iowa",38,29,0
+1,2017-10-14,"Western Illinois","Missouri St.",49,30,1
+0,2017-10-21,"Western Illinois","North Dakota St.",12,24,0
+0,2017-10-28,"Western Illinois","South Dakota St.",24,52,1
+1,2017-11-04,"Western Illinois","Illinois St.",31,14,0
+1,2017-11-11,"Western Illinois","Indiana St.",45,0,0
+1,2017-11-18,"Western Illinois","Southern Illinois",28,14,1
+0,2017-11-25,"Western Illinois","Weber St. (UT)",19,21,0
+0,2017-09-02,"Hampton (VA)","Ohio",0,59,0
+1,2017-09-08,"Hampton (VA)","Delaware St.",28,15,1
+0,2017-09-23,"Hampton (VA)","Monmouth (NJ)",23,30,1
+1,2017-10-07,"Hampton (VA)","Savannah St. (GA)",17,10,0
+1,2017-10-14,"Hampton (VA)","Norfolk St. (VA)",16,14,0
+1,2017-10-21,"Hampton (VA)","Florida A&M",31,27,1
+0,2017-10-28,"Hampton (VA)","Bethune-Cookman (FL)",21,24,0
+0,2017-11-04,"Hampton (VA)","North Carolina Central",6,14,1
+0,2017-11-11,"Hampton (VA)","South Carolina St.",15,33,0
+1,2017-11-18,"Hampton (VA)","Howard (DC)",20,17,1
+0,2017-09-02,"Youngstown St. (OH)","Pittsburgh (PA)",21,28,0
+1,2017-09-09,"Youngstown St. (OH)","Robert Morris (PA)",30,0,1
+1,2017-09-16,"Youngstown St. (OH)","Central Connecticut St.",59,9,1
+1,2017-09-30,"Youngstown St. (OH)","South Dakota St.",19,7,1
+0,2017-10-07,"Youngstown St. (OH)","South Dakota",28,31,0
+0,2017-10-14,"Youngstown St. (OH)","North Dakota St.",24,27,1
+0,2017-10-21,"Youngstown St. (OH)","Northern Iowa",14,19,0
+0,2017-10-28,"Youngstown St. (OH)","Illinois St.",0,35,1
+1,2017-11-04,"Youngstown St. (OH)","Indiana St.",66,24,0
+1,2017-11-11,"Youngstown St. (OH)","Southern Illinois",28,20,0
+1,2017-11-18,"Youngstown St. (OH)","Missouri St.",38,10,1
+0,2017-09-09,"Bryant (RI)","Maine",12,60,0
+0,2017-09-16,"Bryant (RI)","Brown (RI)",23,28,0
+1,2017-09-23,"Bryant (RI)","Fordham (NY)",45,40,1
+0,2017-09-30,"Bryant (RI)","New Hampshire",17,45,0
+0,2017-10-14,"Bryant (RI)","Saint Francis (PA)",14,30,1
+0,2017-10-21,"Bryant (RI)","Central Connecticut St.",14,31,0
+1,2017-10-28,"Bryant (RI)","Wagner (NY)",31,16,0
+1,2017-11-04,"Bryant (RI)","Sacred Heart (CT)",48,45,1
+1,2017-11-11,"Bryant (RI)","Robert Morris (PA)",42,17,0
+1,2017-11-18,"Bryant (RI)","Duquesne (PA)",38,29,1
+0,2017-09-01,"Central Connecticut St.","Syracuse (NY)",7,50,0
+0,2017-09-09,"Central Connecticut St.","Fordham (NY)",31,38,1
+0,2017-09-16,"Central Connecticut St.","Youngstown St. (OH)",9,59,0
+1,2017-09-30,"Central Connecticut St.","Sacred Heart (CT)",26,15,0
+1,2017-10-07,"Central Connecticut St.","Pennsylvania",42,21,1
+1,2017-10-14,"Central Connecticut St.","Wagner (NY)",51,45,0
+1,2017-10-21,"Central Connecticut St.","Bryant (RI)",31,14,1
+1,2017-11-04,"Central Connecticut St.","Saint Francis (PA)",28,10,1
+1,2017-11-11,"Central Connecticut St.","Duquesne (PA)",28,27,0
+1,2017-11-18,"Central Connecticut St.","Robert Morris (PA)",42,14,1
+0,2017-11-25,"Central Connecticut St.","New Hampshire",0,14,0
+0,2017-08-31,"Duquesne (PA)","South Dakota St.",13,51,0
+1,2017-09-09,"Duquesne (PA)","Valparaiso (IN)",45,40,0
+1,2017-09-16,"Duquesne (PA)","Dayton (OH)",28,23,0
+1,2017-10-07,"Duquesne (PA)","Wagner (NY)",38,0,1
+1,2017-10-14,"Duquesne (PA)","Robert Morris (PA)",51,14,0
+1,2017-10-21,"Duquesne (PA)","Saint Francis (PA)",24,7,1
+1,2017-10-28,"Duquesne (PA)","Sacred Heart (CT)",37,21,0
+0,2017-11-04,"Duquesne (PA)","Liberty (VA)",24,27,0
+0,2017-11-11,"Duquesne (PA)","Central Connecticut St.",27,28,1
+0,2017-11-18,"Duquesne (PA)","Bryant (RI)",29,38,0
+1,2017-09-02,"Robert Morris (PA)","Dayton (OH)",13,10,1
+0,2017-09-09,"Robert Morris (PA)","Youngstown St. (OH)",0,30,0
+1,2017-09-16,"Robert Morris (PA)","Virginia Military Institute",23,0,1
+0,2017-09-23,"Robert Morris (PA)","North Dakota St.",0,56,0
+0,2017-10-07,"Robert Morris (PA)","East Tennessee St.",3,16,0
+0,2017-10-14,"Robert Morris (PA)","Duquesne (PA)",14,51,1
+0,2017-10-21,"Robert Morris (PA)","Sacred Heart (CT)",14,21,1
+0,2017-10-28,"Robert Morris (PA)","Saint Francis (PA)",7,36,0
+0,2017-11-04,"Robert Morris (PA)","Wagner (NY)",7,27,0
+0,2017-11-11,"Robert Morris (PA)","Bryant (RI)",17,42,1
+0,2017-11-18,"Robert Morris (PA)","Central Connecticut St.",14,42,0
+1,2017-09-02,"Sacred Heart (CT)","Stetson (FL)",42,3,1
+1,2017-09-09,"Sacred Heart (CT)","Lafayette (PA)",38,24,0
+0,2017-09-16,"Sacred Heart (CT)","SUNY-Stony Brook (NY)",7,45,0
+0,2017-09-23,"Sacred Heart (CT)","Bucknell (PA)",31,34,0
+0,2017-09-30,"Sacred Heart (CT)","Central Connecticut St.",15,26,1
+0,2017-10-14,"Sacred Heart (CT)","Dartmouth (NH)",26,29,1
+1,2017-10-21,"Sacred Heart (CT)","Robert Morris (PA)",21,14,0
+0,2017-10-28,"Sacred Heart (CT)","Duquesne (PA)",21,37,1
+0,2017-11-04,"Sacred Heart (CT)","Bryant (RI)",45,48,0
+1,2017-11-11,"Sacred Heart (CT)","Saint Francis (PA)",16,7,0
+0,2017-11-18,"Sacred Heart (CT)","Wagner (NY)",15,28,1
+0,2017-09-09,"Wagner (NY)","Saint Francis (PA)",6,31,0
+0,2017-09-16,"Wagner (NY)","Columbia (NY)",14,17,0
+0,2017-09-23,"Wagner (NY)","Western Michigan",14,49,0
+1,2017-09-30,"Wagner (NY)","Lehigh (PA)",37,20,1
+0,2017-10-07,"Wagner (NY)","Duquesne (PA)",0,38,0
+0,2017-10-14,"Wagner (NY)","Central Connecticut St.",45,51,1
+0,2017-10-28,"Wagner (NY)","Bryant (RI)",16,31,1
+1,2017-11-04,"Wagner (NY)","Robert Morris (PA)",27,7,1
+0,2017-11-11,"Wagner (NY)","SUNY-Stony Brook (NY)",10,38,0
+1,2017-11-18,"Wagner (NY)","Sacred Heart (CT)",28,15,0
+0,2017-08-31,"Austin Peay St. (TN)","Cincinnati (OH)",14,26,0
+0,2017-09-09,"Austin Peay St. (TN)","Miami (OH)",10,31,0
+1,2017-09-16,"Austin Peay St. (TN)","Morehead St. (KY)",69,13,1
+1,2017-09-23,"Austin Peay St. (TN)","Murray St. (KY)",27,7,0
+1,2017-09-30,"Austin Peay St. (TN)","Tennessee-Martin",7,0,1
+0,2017-10-07,"Austin Peay St. (TN)","Jacksonville St. (AL)",14,34,1
+1,2017-10-14,"Austin Peay St. (TN)","Tennessee St.",21,17,0
+1,2017-10-21,"Austin Peay St. (TN)","Southeast Missouri St.",38,31,1
+0,2017-10-28,"Austin Peay St. (TN)","Central Florida",33,73,0
+1,2017-11-04,"Austin Peay St. (TN)","Tennessee Tech",35,28,0
+1,2017-11-11,"Austin Peay St. (TN)","Eastern Kentucky",31,24,0
+1,2017-11-18,"Austin Peay St. (TN)","Eastern Illinois",28,13,1
+1,2017-09-02,"North Dakota St.","Mississippi Valley St.",72,7,1
+1,2017-09-09,"North Dakota St.","Eastern Washington",40,13,0
+1,2017-09-23,"North Dakota St.","Robert Morris (PA)",56,0,1
+1,2017-09-30,"North Dakota St.","Missouri St.",38,11,1
+1,2017-10-07,"North Dakota St.","Indiana St.",52,0,0
+1,2017-10-14,"North Dakota St.","Youngstown St. (OH)",27,24,0
+1,2017-10-21,"North Dakota St.","Western Illinois",24,12,1
+1,2017-10-28,"North Dakota St.","Northern Iowa",30,14,1
+0,2017-11-04,"North Dakota St.","South Dakota St.",21,33,0
+1,2017-11-11,"North Dakota St.","South Dakota",49,14,1
+1,2017-11-18,"North Dakota St.","Illinois St.",20,7,0
+1,2017-12-02,"North Dakota St.","San Diego (CA)",38,3,1
+1,2017-12-09,"North Dakota St.","Wofford (SC)",42,10,1
+1,2017-12-15,"North Dakota St.","Sam Houston St. (TX)",55,13,1
+1,2017-01-06,"North Dakota St.","James Madison (VA)",17,13,1
+0,2017-09-02,"Southeast Missouri St.","Kansas",16,38,0
+0,2017-09-09,"Southeast Missouri St.","Dayton (OH)",23,25,0
+0,2017-09-16,"Southeast Missouri St.","Southern Illinois",17,35,1
+0,2017-09-23,"Southeast Missouri St.","Eastern Illinois",16,19,0
+1,2017-09-30,"Southeast Missouri St.","Eastern Kentucky",29,10,1
+1,2017-10-14,"Southeast Missouri St.","Tennessee Tech",31,3,1
+0,2017-10-21,"Southeast Missouri St.","Austin Peay St. (TN)",31,38,0
+0,2017-10-28,"Southeast Missouri St.","Jacksonville St. (AL)",7,23,0
+0,2017-11-04,"Southeast Missouri St.","Tennessee-Martin",14,16,1
+0,2017-11-11,"Southeast Missouri St.","Tennessee St.",20,23,0
+1,2017-11-18,"Southeast Missouri St.","Murray St. (KY)",21,10,1
+1,2017-08-31,"Tennessee St.","Georgia St.",17,10,0
+1,2017-09-09,"Tennessee St.","Jackson St. (MS)",17,15,1
+1,2017-09-16,"Tennessee St.","Florida A&M",24,13,1
+0,2017-09-23,"Tennessee St.","Tennessee-Martin",16,31,0
+0,2017-09-30,"Tennessee St.","Eastern Illinois",16,19,1
+1,2017-10-07,"Tennessee St.","Eastern Kentucky",45,21,0
+0,2017-10-14,"Tennessee St.","Austin Peay St. (TN)",17,21,1
+0,2017-10-28,"Tennessee St.","Tennessee Tech",26,30,0
+1,2017-11-11,"Tennessee St.","Southeast Missouri St.",23,20,1
+0,2017-11-16,"Tennessee St.","Jacksonville St. (AL)",6,36,0
+1,2017-08-31,"Eastern Illinois","Indiana St.",22,20,0
+0,2017-09-09,"Eastern Illinois","Northern Illinois",10,38,0
+0,2017-09-16,"Eastern Illinois","Illinois St.",13,44,1
+1,2017-09-23,"Eastern Illinois","Southeast Missouri St.",19,16,1
+1,2017-09-30,"Eastern Illinois","Tennessee St.",19,16,0
+1,2017-10-07,"Eastern Illinois","Tennessee Tech",24,23,1
+1,2017-10-14,"Eastern Illinois","Murray St. (KY)",27,24,0
+0,2017-10-21,"Eastern Illinois","Jacksonville St. (AL)",14,30,1
+0,2017-10-28,"Eastern Illinois","Tennessee-Martin",10,27,0
+1,2017-11-04,"Eastern Illinois","Eastern Kentucky",23,20,1
+0,2017-11-18,"Eastern Illinois","Austin Peay St. (TN)",13,28,0
+0,2017-09-02,"Eastern Kentucky","Western Kentucky",17,31,0
+0,2017-09-09,"Eastern Kentucky","Kentucky",16,27,0
+1,2017-09-23,"Eastern Kentucky","Tennessee Tech",24,21,1
+0,2017-09-30,"Eastern Kentucky","Southeast Missouri St.",10,29,0
+0,2017-10-07,"Eastern Kentucky","Tennessee St.",21,45,1
+0,2017-10-14,"Eastern Kentucky","Jacksonville St. (AL)",25,41,0
+1,2017-10-21,"Eastern Kentucky","Tennessee-Martin",31,21,1
+1,2017-10-28,"Eastern Kentucky","Murray St. (KY)",26,13,0
+0,2017-11-04,"Eastern Kentucky","Eastern Illinois",20,23,0
+0,2017-11-11,"Eastern Kentucky","Austin Peay St. (TN)",24,31,1
+1,2017-11-18,"Eastern Kentucky","Saint Francis (PA)",14,10,1
+1,2017-09-09,"Saint Francis (PA)","Wagner (NY)",31,6,1
+0,2017-09-16,"Saint Francis (PA)","Towson (MD)",14,16,1
+1,2017-09-30,"Saint Francis (PA)","Liberty (VA)",13,7,0
+0,2017-10-07,"Saint Francis (PA)","Presbyterian (SC)",14,26,0
+1,2017-10-14,"Saint Francis (PA)","Bryant (RI)",30,14,0
+0,2017-10-21,"Saint Francis (PA)","Duquesne (PA)",7,24,0
+1,2017-10-28,"Saint Francis (PA)","Robert Morris (PA)",36,7,1
+0,2017-11-04,"Saint Francis (PA)","Central Connecticut St.",10,28,0
+0,2017-11-11,"Saint Francis (PA)","Sacred Heart (CT)",7,16,1
+0,2017-11-18,"Saint Francis (PA)","Eastern Kentucky",10,14,0
+1,2017-08-26,"Jacksonville St. (AL)","Tennessee-Chattanooga",27,13,1
+0,2017-09-09,"Jacksonville St. (AL)","Georgia Tech",10,37,0
+1,2017-09-23,"Jacksonville St. (AL)","Liberty (VA)",31,10,1
+1,2017-09-30,"Jacksonville St. (AL)","Tennessee Tech",34,7,0
+1,2017-10-07,"Jacksonville St. (AL)","Austin Peay St. (TN)",34,14,0
+1,2017-10-14,"Jacksonville St. (AL)","Eastern Kentucky",41,25,1
+1,2017-10-21,"Jacksonville St. (AL)","Eastern Illinois",30,14,0
+1,2017-10-28,"Jacksonville St. (AL)","Southeast Missouri St.",23,7,1
+1,2017-11-04,"Jacksonville St. (AL)","Murray St. (KY)",59,23,1
+1,2017-11-11,"Jacksonville St. (AL)","Tennessee-Martin",14,7,0
+1,2017-11-16,"Jacksonville St. (AL)","Tennessee St.",36,6,1
+0,2017-12-02,"Jacksonville St. (AL)","Kennesaw St. (GA)",7,17,1
+0,2017-09-09,"Murray St. (KY)","Central Arkansas",13,41,1
+0,2017-09-16,"Murray St. (KY)","Missouri St.",21,28,0
+0,2017-09-23,"Murray St. (KY)","Austin Peay St. (TN)",7,27,1
+0,2017-09-30,"Murray St. (KY)","Louisville (KY)",10,55,0
+1,2017-10-07,"Murray St. (KY)","Tennessee-Martin",13,10,0
+0,2017-10-14,"Murray St. (KY)","Eastern Illinois",24,27,1
+0,2017-10-28,"Murray St. (KY)","Eastern Kentucky",13,26,1
+0,2017-11-04,"Murray St. (KY)","Jacksonville St. (AL)",23,59,0
+1,2017-11-11,"Murray St. (KY)","Tennessee Tech",31,21,1
+0,2017-11-18,"Murray St. (KY)","Southeast Missouri St.",10,21,0
+0,2017-09-09,"Tennessee-Martin","Mississippi",23,45,0
+1,2017-09-16,"Tennessee-Martin","Tennessee-Chattanooga",21,7,0
+1,2017-09-23,"Tennessee-Martin","Tennessee St.",31,16,1
+0,2017-09-30,"Tennessee-Martin","Austin Peay St. (TN)",0,7,0
+0,2017-10-07,"Tennessee-Martin","Murray St. (KY)",10,13,1
+0,2017-10-21,"Tennessee-Martin","Eastern Kentucky",21,31,0
+1,2017-10-28,"Tennessee-Martin","Eastern Illinois",27,10,1
+1,2017-11-04,"Tennessee-Martin","Southeast Missouri St.",16,14,0
+0,2017-11-11,"Tennessee-Martin","Jacksonville St. (AL)",7,14,1
+1,2017-11-18,"Tennessee-Martin","Tennessee Tech",24,0,0
+1,2017-09-02,"Bucknell (PA)","Marist (NY)",45,6,1
+0,2017-09-09,"Bucknell (PA)","Holy Cross (MA)",0,20,1
+0,2017-09-16,"Bucknell (PA)","William & Mary (VA)",9,30,0
+1,2017-09-23,"Bucknell (PA)","Sacred Heart (CT)",34,31,1
+0,2017-09-30,"Bucknell (PA)","Monmouth (NJ)",13,35,1
+1,2017-10-14,"Bucknell (PA)","Cornell (NY)",26,18,0
+1,2017-10-21,"Bucknell (PA)","Lafayette (PA)",13,7,0
+0,2017-10-28,"Bucknell (PA)","Colgate (NY)",3,40,0
+0,2017-11-04,"Bucknell (PA)","Lehigh (PA)",21,42,1
+1,2017-11-11,"Bucknell (PA)","Georgetown (DC)",12,0,1
+0,2017-11-18,"Bucknell (PA)","Fordham (NY)",9,20,0
+1,2017-08-26,"Colgate (NY)","Cal Poly-San Luis Obispo",20,14,0
+0,2017-09-09,"Colgate (NY)","Richmond (VA)",17,20,1
+0,2017-09-16,"Colgate (NY)","Buffalo (NY)",10,33,0
+0,2017-09-23,"Colgate (NY)","Furman (SC)",14,45,1
+1,2017-09-30,"Colgate (NY)","Cornell (NY)",21,7,0
+0,2017-10-07,"Colgate (NY)","Lehigh (PA)",38,41,1
+1,2017-10-14,"Colgate (NY)","Fordham (NY)",38,12,1
+1,2017-10-21,"Colgate (NY)","Holy Cross (MA)",45,7,0
+1,2017-10-28,"Colgate (NY)","Bucknell (PA)",40,3,1
+1,2017-11-11,"Colgate (NY)","Lafayette (PA)",27,0,0
+1,2017-11-18,"Colgate (NY)","Georgetown (DC)",35,10,0
+0,2017-09-01,"Fordham (NY)","Army (NY)",6,64,0
+1,2017-09-09,"Fordham (NY)","Central Connecticut St.",38,31,0
+0,2017-09-16,"Fordham (NY)","Eastern Washington",21,56,1
+0,2017-09-23,"Fordham (NY)","Bryant (RI)",40,45,0
+0,2017-09-30,"Fordham (NY)","Yale (CT)",10,41,1
+0,2017-10-07,"Fordham (NY)","Lafayette (PA)",10,14,0
+0,2017-10-14,"Fordham (NY)","Colgate (NY)",12,38,0
+1,2017-10-21,"Fordham (NY)","Georgetown (DC)",17,9,0
+1,2017-10-28,"Fordham (NY)","Lehigh (PA)",45,35,1
+0,2017-11-04,"Fordham (NY)","Holy Cross (MA)",20,42,1
+1,2017-11-18,"Fordham (NY)","Bucknell (PA)",20,9,1
+0,2017-09-02,"Lafayette (PA)","Monmouth (NJ)",12,31,0
+0,2017-09-09,"Lafayette (PA)","Sacred Heart (CT)",24,38,1
+0,2017-09-16,"Lafayette (PA)","Villanova (PA)",0,59,0
+0,2017-09-23,"Lafayette (PA)","Princeton (NJ)",17,38,1
+1,2017-09-30,"Lafayette (PA)","Holy Cross (MA)",10,7,0
+1,2017-10-07,"Lafayette (PA)","Fordham (NY)",14,10,1
+0,2017-10-14,"Lafayette (PA)","Harvard (MA)",10,38,0
+0,2017-10-21,"Lafayette (PA)","Bucknell (PA)",7,13,1
+1,2017-11-04,"Lafayette (PA)","Georgetown (DC)",7,0,0
+0,2017-11-11,"Lafayette (PA)","Colgate (NY)",0,27,1
+0,2017-11-18,"Lafayette (PA)","Lehigh (PA)",31,38,0
+0,2017-08-31,"Holy Cross (MA)","Connecticut",20,27,0
+1,2017-09-09,"Holy Cross (MA)","Bucknell (PA)",20,0,0
+1,2017-09-16,"Holy Cross (MA)","New Hampshire",51,26,1
+0,2017-09-23,"Holy Cross (MA)","Dartmouth (NH)",26,27,0
+0,2017-09-30,"Holy Cross (MA)","Lafayette (PA)",7,10,1
+0,2017-10-07,"Holy Cross (MA)","Monmouth (NJ)",36,48,1
+0,2017-10-14,"Holy Cross (MA)","Yale (CT)",0,32,0
+0,2017-10-21,"Holy Cross (MA)","Colgate (NY)",7,45,1
+1,2017-10-28,"Holy Cross (MA)","Georgetown (DC)",24,10,1
+1,2017-11-04,"Holy Cross (MA)","Fordham (NY)",42,20,0
+0,2017-11-11,"Holy Cross (MA)","Lehigh (PA)",21,34,0
+0,2017-09-02,"Lehigh (PA)","Villanova (PA)",35,38,1
+0,2017-09-09,"Lehigh (PA)","Monmouth (NJ)",27,46,0
+0,2017-09-16,"Lehigh (PA)","Yale (CT)",28,56,1
+0,2017-09-23,"Lehigh (PA)","Pennsylvania",47,65,1
+0,2017-09-30,"Lehigh (PA)","Wagner (NY)",20,37,0
+1,2017-10-07,"Lehigh (PA)","Colgate (NY)",41,38,0
+1,2017-10-14,"Lehigh (PA)","Georgetown (DC)",54,35,1
+0,2017-10-28,"Lehigh (PA)","Fordham (NY)",35,45,0
+1,2017-11-04,"Lehigh (PA)","Bucknell (PA)",42,21,0
+1,2017-11-11,"Lehigh (PA)","Holy Cross (MA)",34,21,1
+1,2017-11-18,"Lehigh (PA)","Lafayette (PA)",38,31,1
+0,2017-11-25,"Lehigh (PA)","SUNY-Stony Brook (NY)",29,59,0
+0,2017-09-09,"Campbell (NC)","Georgetown (DC)",10,16,1
+0,2017-09-16,"Campbell (NC)","Presbyterian (SC)",16,28,0
+1,2017-09-23,"Campbell (NC)","Stetson (FL)",49,21,0
+1,2017-09-30,"Campbell (NC)","Morehead St. (KY)",38,0,1
+1,2017-10-07,"Campbell (NC)","Valparaiso (IN)",49,10,1
+1,2017-10-14,"Campbell (NC)","Dayton (OH)",17,7,0
+0,2017-10-21,"Campbell (NC)","Butler (IN)",23,37,0
+0,2017-10-28,"Campbell (NC)","Jacksonville (FL)",48,54,1
+1,2017-11-04,"Campbell (NC)","Davidson (NC)",42,29,0
+0,2017-11-11,"Campbell (NC)","Drake (IA)",10,45,1
+0,2017-09-09,"Davidson (NC)","Western Carolina (NC)",17,63,0
+0,2017-09-30,"Davidson (NC)","Marist (NY)",9,31,1
+0,2017-10-07,"Davidson (NC)","Jacksonville (FL)",21,35,0
+0,2017-10-14,"Davidson (NC)","Stetson (FL)",17,28,0
+0,2017-10-21,"Davidson (NC)","Dayton (OH)",22,48,1
+0,2017-10-28,"Davidson (NC)","Drake (IA)",12,17,0
+0,2017-11-04,"Davidson (NC)","Campbell (NC)",29,42,1
+0,2017-11-11,"Davidson (NC)","San Diego (CA)",7,63,1
+0,2017-11-18,"Davidson (NC)","Morehead St. (KY)",14,21,0
+0,2017-09-02,"Butler (IN)","Illinois St.",0,45,0
+0,2017-09-23,"Butler (IN)","San Diego (CA)",17,38,0
+0,2017-09-30,"Butler (IN)","Drake (IA)",16,27,1
+1,2017-10-07,"Butler (IN)","Morehead St. (KY)",44,6,0
+1,2017-10-14,"Butler (IN)","Jacksonville (FL)",37,22,1
+1,2017-10-21,"Butler (IN)","Campbell (NC)",37,23,1
+0,2017-10-28,"Butler (IN)","Dayton (OH)",22,27,0
+1,2017-11-04,"Butler (IN)","Stetson (FL)",23,6,0
+0,2017-11-11,"Butler (IN)","Valparaiso (IN)",28,36,1
+0,2017-08-31,"Tennessee Tech","Western Illinois",14,41,1
+0,2017-09-09,"Tennessee Tech","Kennesaw St. (GA)",14,27,0
+0,2017-09-16,"Tennessee Tech","Ball St. (IN)",13,28,0
+0,2017-09-23,"Tennessee Tech","Eastern Kentucky",21,24,0
+0,2017-09-30,"Tennessee Tech","Jacksonville St. (AL)",7,34,1
+0,2017-10-07,"Tennessee Tech","Eastern Illinois",23,24,0
+0,2017-10-14,"Tennessee Tech","Southeast Missouri St.",3,31,0
+1,2017-10-28,"Tennessee Tech","Tennessee St.",30,26,1
+0,2017-11-04,"Tennessee Tech","Austin Peay St. (TN)",28,35,1
+0,2017-11-11,"Tennessee Tech","Murray St. (KY)",21,31,0
+0,2017-11-18,"Tennessee Tech","Tennessee-Martin",0,24,1
+0,2017-09-02,"Dayton (OH)","Robert Morris (PA)",10,13,0
+1,2017-09-09,"Dayton (OH)","Southeast Missouri St.",25,23,1
+0,2017-09-16,"Dayton (OH)","Duquesne (PA)",23,28,1
+0,2017-09-23,"Dayton (OH)","Morehead St. (KY)",28,34,0
+0,2017-09-30,"Dayton (OH)","San Diego (CA)",7,23,1
+1,2017-10-07,"Dayton (OH)","Drake (IA)",20,10,0
+0,2017-10-14,"Dayton (OH)","Campbell (NC)",7,17,1
+1,2017-10-21,"Dayton (OH)","Davidson (NC)",48,22,0
+1,2017-10-28,"Dayton (OH)","Butler (IN)",27,22,1
+1,2017-11-04,"Dayton (OH)","Marist (NY)",36,17,1
+0,2017-11-18,"Dayton (OH)","Valparaiso (IN)",7,8,0
+0,2017-08-31,"Jacksonville (FL)","Mercer (GA)",7,48,0
+1,2017-09-23,"Jacksonville (FL)","Marist (NY)",44,37,0
+1,2017-10-07,"Jacksonville (FL)","Davidson (NC)",35,21,1
+0,2017-10-14,"Jacksonville (FL)","Butler (IN)",22,37,0
+0,2017-10-21,"Jacksonville (FL)","San Diego (CA)",10,63,1
+1,2017-10-28,"Jacksonville (FL)","Campbell (NC)",54,48,0
+1,2017-11-04,"Jacksonville (FL)","Valparaiso (IN)",20,17,1
+1,2017-11-11,"Jacksonville (FL)","Stetson (FL)",13,10,1
+0,2017-11-18,"Jacksonville (FL)","Drake (IA)",7,52,0
+0,2017-09-02,"Marist (NY)","Bucknell (PA)",6,45,0
+1,2017-09-09,"Marist (NY)","Stetson (FL)",38,17,1
+1,2017-09-16,"Marist (NY)","Georgetown (DC)",14,12,0
+0,2017-09-23,"Marist (NY)","Jacksonville (FL)",37,44,1
+1,2017-09-30,"Marist (NY)","Davidson (NC)",31,9,0
+0,2017-10-07,"Marist (NY)","Columbia (NY)",17,41,1
+0,2017-10-14,"Marist (NY)","Valparaiso (IN)",15,49,0
+0,2017-10-21,"Marist (NY)","Drake (IA)",14,19,1
+0,2017-11-04,"Marist (NY)","Dayton (OH)",17,36,0
+1,2017-11-11,"Marist (NY)","Morehead St. (KY)",38,31,1
+0,2017-11-18,"Marist (NY)","San Diego (CA)",7,35,0
+0,2017-09-09,"San Diego (CA)","California-Davis",7,35,0
+0,2017-09-16,"San Diego (CA)","Princeton (NJ)",17,27,0
+1,2017-09-23,"San Diego (CA)","Butler (IN)",38,17,1
+1,2017-09-30,"San Diego (CA)","Dayton (OH)",23,7,0
+1,2017-10-14,"San Diego (CA)","Morehead St. (KY)",56,27,1
+1,2017-10-21,"San Diego (CA)","Jacksonville (FL)",63,10,0
+1,2017-10-28,"San Diego (CA)","Stetson (FL)",48,7,0
+1,2017-11-04,"San Diego (CA)","Drake (IA)",45,15,1
+1,2017-11-11,"San Diego (CA)","Davidson (NC)",63,7,0
+1,2017-11-18,"San Diego (CA)","Marist (NY)",35,7,1
+1,2017-11-25,"San Diego (CA)","Northern Arizona",41,10,0
+0,2017-12-02,"San Diego (CA)","North Dakota St.",3,38,0
+0,2017-09-09,"Morehead St. (KY)","Liberty (VA)",17,58,0
+0,2017-09-16,"Morehead St. (KY)","Austin Peay St. (TN)",13,69,0
+1,2017-09-23,"Morehead St. (KY)","Dayton (OH)",34,28,1
+0,2017-09-30,"Morehead St. (KY)","Campbell (NC)",0,38,0
+0,2017-10-07,"Morehead St. (KY)","Butler (IN)",6,44,1
+0,2017-10-14,"Morehead St. (KY)","San Diego (CA)",27,56,0
+1,2017-10-21,"Morehead St. (KY)","Stetson (FL)",29,26,1
+0,2017-10-28,"Morehead St. (KY)","Valparaiso (IN)",32,63,0
+0,2017-11-11,"Morehead St. (KY)","Marist (NY)",31,38,0
+1,2017-11-18,"Morehead St. (KY)","Davidson (NC)",21,14,1
+0,2017-09-02,"Drake (IA)","South Dakota",7,77,1
+0,2017-09-16,"Drake (IA)","South Dakota St.",10,51,0
+1,2017-09-23,"Drake (IA)","Valparaiso (IN)",38,13,1
+1,2017-09-30,"Drake (IA)","Butler (IN)",27,16,0
+0,2017-10-07,"Drake (IA)","Dayton (OH)",10,20,1
+1,2017-10-21,"Drake (IA)","Marist (NY)",19,14,0
+1,2017-10-28,"Drake (IA)","Davidson (NC)",17,12,1
+0,2017-11-04,"Drake (IA)","San Diego (CA)",15,45,0
+1,2017-11-11,"Drake (IA)","Campbell (NC)",45,10,0
+1,2017-11-18,"Drake (IA)","Jacksonville (FL)",52,7,1
+0,2017-09-02,"Stetson (FL)","Sacred Heart (CT)",3,42,0
+0,2017-09-09,"Stetson (FL)","Marist (NY)",17,38,0
+0,2017-09-16,"Stetson (FL)","Dartmouth (NH)",7,38,1
+0,2017-09-23,"Stetson (FL)","Campbell (NC)",21,49,1
+0,2017-09-30,"Stetson (FL)","Valparaiso (IN)",24,27,0
+1,2017-10-07,"Stetson (FL)","Brown (RI)",17,13,1
+1,2017-10-14,"Stetson (FL)","Davidson (NC)",28,17,1
+0,2017-10-21,"Stetson (FL)","Morehead St. (KY)",26,29,0
+0,2017-10-28,"Stetson (FL)","San Diego (CA)",7,48,1
+0,2017-11-04,"Stetson (FL)","Butler (IN)",6,23,1
+0,2017-11-11,"Stetson (FL)","Jacksonville (FL)",10,13,0
+0,2017-09-02,"Valparaiso (IN)","Montana",23,45,0
+0,2017-09-09,"Valparaiso (IN)","Duquesne (PA)",40,45,1
+0,2017-09-23,"Valparaiso (IN)","Drake (IA)",13,38,0
+1,2017-09-30,"Valparaiso (IN)","Stetson (FL)",27,24,1
+0,2017-10-07,"Valparaiso (IN)","Campbell (NC)",10,49,0
+1,2017-10-14,"Valparaiso (IN)","Marist (NY)",49,15,1
+1,2017-10-28,"Valparaiso (IN)","Morehead St. (KY)",63,32,1
+0,2017-11-04,"Valparaiso (IN)","Jacksonville (FL)",17,20,0
+1,2017-11-11,"Valparaiso (IN)","Butler (IN)",36,28,0
+1,2017-11-18,"Valparaiso (IN)","Dayton (OH)",8,7,1
+0,2017-09-09,"East Tennessee St.","James Madison (VA)",10,52,0
+0,2017-09-16,"East Tennessee St.","Citadel (SC)",25,31,1
+1,2017-09-23,"East Tennessee St.","Mercer (GA)",26,23,1
+0,2017-09-30,"East Tennessee St.","Furman (SC)",35,56,0
+1,2017-10-07,"East Tennessee St.","Robert Morris (PA)",16,3,1
+0,2017-10-14,"East Tennessee St.","Western Carolina (NC)",10,49,0
+0,2017-10-28,"East Tennessee St.","Wofford (SC)",24,31,1
+1,2017-11-04,"East Tennessee St.","Virginia Military Institute",24,6,1
+0,2017-11-11,"East Tennessee St.","Samford (AL)",7,42,0
+0,2017-11-18,"East Tennessee St.","Tennessee-Chattanooga",3,10,0
+1,2017-09-09,"Georgetown (DC)","Campbell (NC)",16,10,0
+0,2017-09-16,"Georgetown (DC)","Marist (NY)",12,14,1
+0,2017-09-23,"Georgetown (DC)","Columbia (NY)",14,35,0
+0,2017-09-30,"Georgetown (DC)","Harvard (MA)",2,41,1
+0,2017-10-07,"Georgetown (DC)","Princeton (NJ)",30,50,0
+0,2017-10-14,"Georgetown (DC)","Lehigh (PA)",35,54,0
+0,2017-10-21,"Georgetown (DC)","Fordham (NY)",9,17,1
+0,2017-10-28,"Georgetown (DC)","Holy Cross (MA)",10,24,0
+0,2017-11-04,"Georgetown (DC)","Lafayette (PA)",0,7,1
+0,2017-11-11,"Georgetown (DC)","Bucknell (PA)",0,12,0
+0,2017-11-18,"Georgetown (DC)","Colgate (NY)",10,35,1
+0,2017-08-26,"Tennessee-Chattanooga","Jacksonville St. (AL)",13,27,1
+0,2017-09-09,"Tennessee-Chattanooga","Louisiana St.",10,45,0
+0,2017-09-16,"Tennessee-Chattanooga","Tennessee-Martin",7,21,1
+1,2017-09-23,"Tennessee-Chattanooga","Virginia Military Institute",63,7,0
+0,2017-09-30,"Tennessee-Chattanooga","Western Carolina (NC)",7,45,1
+0,2017-10-07,"Tennessee-Chattanooga","Furman (SC)",17,41,1
+0,2017-10-14,"Tennessee-Chattanooga","Mercer (GA)",10,30,0
+0,2017-10-21,"Tennessee-Chattanooga","Citadel (SC)",14,20,1
+1,2017-10-28,"Tennessee-Chattanooga","Samford (AL)",23,21,0
+0,2017-11-04,"Tennessee-Chattanooga","Wofford (SC)",21,24,0
+1,2017-11-18,"Tennessee-Chattanooga","East Tennessee St.",10,3,1
+0,2017-09-02,"Furman (SC)","Wofford (SC)",23,24,0
+0,2017-09-09,"Furman (SC)","Elon (NC)",31,34,1
+0,2017-09-16,"Furman (SC)","North Carolina St.",16,49,0
+1,2017-09-23,"Furman (SC)","Colgate (NY)",45,14,0
+1,2017-09-30,"Furman (SC)","East Tennessee St.",56,35,1
+1,2017-10-07,"Furman (SC)","Tennessee-Chattanooga",41,17,0
+1,2017-10-14,"Furman (SC)","Virginia Military Institute",42,10,1
+1,2017-10-21,"Furman (SC)","Mercer (GA)",28,21,1
+1,2017-10-28,"Furman (SC)","Western Carolina (NC)",28,6,0
+1,2017-11-11,"Furman (SC)","Citadel (SC)",56,20,1
+0,2017-11-18,"Furman (SC)","Samford (AL)",20,26,0
+1,2017-11-25,"Furman (SC)","Elon (NC)",28,27,0
+0,2017-12-02,"Furman (SC)","Wofford (SC)",10,28,0
+1,2017-08-31,"Mercer (GA)","Jacksonville (FL)",48,7,1
+0,2017-09-09,"Mercer (GA)","Wofford (SC)",27,28,1
+0,2017-09-16,"Mercer (GA)","Auburn (AL)",10,24,0
+0,2017-09-23,"Mercer (GA)","East Tennessee St.",23,26,0
+1,2017-09-30,"Mercer (GA)","Virginia Military Institute",49,14,1
+1,2017-10-07,"Mercer (GA)","Citadel (SC)",24,14,0
+1,2017-10-14,"Mercer (GA)","Tennessee-Chattanooga",30,10,1
+0,2017-10-21,"Mercer (GA)","Furman (SC)",21,28,0
+0,2017-11-04,"Mercer (GA)","Samford (AL)",3,20,1
+1,2017-11-11,"Mercer (GA)","Western Carolina (NC)",35,33,0
+0,2017-11-18,"Mercer (GA)","Alabama",0,56,0
+1,2017-08-31,"Samford (AL)","Kennesaw St. (GA)",28,23,1
+0,2017-09-16,"Samford (AL)","Georgia",14,42,0
+0,2017-09-23,"Samford (AL)","Western Carolina (NC)",34,38,0
+1,2017-09-30,"Samford (AL)","Citadel (SC)",35,14,1
+1,2017-10-07,"Samford (AL)","Virginia Military Institute",26,7,0
+1,2017-10-21,"Samford (AL)","Wofford (SC)",24,21,0
+0,2017-10-28,"Samford (AL)","Tennessee-Chattanooga",21,23,1
+1,2017-11-04,"Samford (AL)","Mercer (GA)",20,3,0
+1,2017-11-11,"Samford (AL)","East Tennessee St.",42,7,1
+1,2017-11-18,"Samford (AL)","Furman (SC)",26,20,1
+0,2017-11-25,"Samford (AL)","Kennesaw St. (GA)",17,28,0
+1,2017-09-09,"Citadel (SC)","Presbyterian (SC)",48,7,0
+1,2017-09-16,"Citadel (SC)","East Tennessee St.",31,25,0
+0,2017-09-30,"Citadel (SC)","Samford (AL)",14,35,0
+0,2017-10-07,"Citadel (SC)","Mercer (GA)",14,24,1
+0,2017-10-14,"Citadel (SC)","Wofford (SC)",16,20,1
+1,2017-10-21,"Citadel (SC)","Tennessee-Chattanooga",20,14,0
+1,2017-10-28,"Citadel (SC)","Virginia Military Institute",21,3,1
+0,2017-11-04,"Citadel (SC)","Western Carolina (NC)",19,31,1
+0,2017-11-11,"Citadel (SC)","Furman (SC)",20,56,0
+0,2017-11-18,"Citadel (SC)","Clemson (SC)",3,61,0
+0,2017-09-02,"Virginia Military Institute","Air Force (CO)",0,62,0
+0,2017-09-16,"Virginia Military Institute","Robert Morris (PA)",0,23,0
+0,2017-09-23,"Virginia Military Institute","Tennessee-Chattanooga",7,63,1
+0,2017-09-30,"Virginia Military Institute","Mercer (GA)",14,49,0
+0,2017-10-07,"Virginia Military Institute","Samford (AL)",7,26,1
+0,2017-10-14,"Virginia Military Institute","Furman (SC)",10,42,0
+0,2017-10-21,"Virginia Military Institute","Western Carolina (NC)",7,26,1
+0,2017-10-28,"Virginia Military Institute","Citadel (SC)",3,21,0
+0,2017-11-04,"Virginia Military Institute","East Tennessee St.",6,24,0
+0,2017-11-11,"Virginia Military Institute","Wofford (SC)",14,45,1
+1,2017-09-02,"Wofford (SC)","Furman (SC)",24,23,1
+1,2017-09-09,"Wofford (SC)","Mercer (GA)",28,27,0
+1,2017-09-23,"Wofford (SC)","Gardner-Webb (NC)",27,24,1
+1,2017-09-30,"Wofford (SC)","Presbyterian (SC)",31,7,0
+1,2017-10-07,"Wofford (SC)","Western Carolina (NC)",35,28,1
+1,2017-10-14,"Wofford (SC)","Citadel (SC)",20,16,0
+0,2017-10-21,"Wofford (SC)","Samford (AL)",21,24,1
+1,2017-10-28,"Wofford (SC)","East Tennessee St.",31,24,0
+1,2017-11-04,"Wofford (SC)","Tennessee-Chattanooga",24,21,1
+1,2017-11-11,"Wofford (SC)","Virginia Military Institute",45,14,0
+0,2017-11-18,"Wofford (SC)","South Carolina",10,31,0
+1,2017-12-02,"Wofford (SC)","Furman (SC)",28,10,1
+0,2017-12-09,"Wofford (SC)","North Dakota St.",10,42,0
+0,2017-09-02,"Western Carolina (NC)","Hawaii",18,41,0
+1,2017-09-09,"Western Carolina (NC)","Davidson (NC)",63,17,1
+1,2017-09-16,"Western Carolina (NC)","Gardner-Webb (NC)",42,27,0
+1,2017-09-23,"Western Carolina (NC)","Samford (AL)",38,34,1
+1,2017-09-30,"Western Carolina (NC)","Tennessee-Chattanooga",45,7,0
+0,2017-10-07,"Western Carolina (NC)","Wofford (SC)",28,35,0
+1,2017-10-14,"Western Carolina (NC)","East Tennessee St.",49,10,1
+1,2017-10-21,"Western Carolina (NC)","Virginia Military Institute",26,7,0
+0,2017-10-28,"Western Carolina (NC)","Furman (SC)",6,28,1
+1,2017-11-04,"Western Carolina (NC)","Citadel (SC)",31,19,0
+0,2017-11-11,"Western Carolina (NC)","Mercer (GA)",33,35,1
+0,2017-11-18,"Western Carolina (NC)","North Carolina",10,65,0
+0,2017-09-02,"Abilene Christian (TX)","New Mexico",14,38,0
+0,2017-09-09,"Abilene Christian (TX)","Colorado St.",10,38,0
+1,2017-09-16,"Abilene Christian (TX)","Houston Baptist (TX)",24,3,1
+0,2017-09-23,"Abilene Christian (TX)","Stephen F. Austin (TX)",10,20,1
+1,2017-09-30,"Abilene Christian (TX)","Incarnate Word (TX)",45,20,0
+0,2017-10-07,"Abilene Christian (TX)","McNeese St. (LA)",7,13,1
+0,2017-10-14,"Abilene Christian (TX)","Nicholls St. (LA)",20,29,0
+0,2017-10-21,"Abilene Christian (TX)","Southeastern Louisiana",21,56,1
+0,2017-11-04,"Abilene Christian (TX)","Northwestern St. (LA)",23,26,0
+0,2017-11-11,"Abilene Christian (TX)","Sam Houston St. (TX)",35,44,1
+0,2017-11-18,"Abilene Christian (TX)","Central Arkansas",0,34,0
+0,2017-09-02,"Central Arkansas","Kansas St.",19,55,0
+1,2017-09-09,"Central Arkansas","Murray St. (KY)",41,13,0
+1,2017-09-16,"Central Arkansas","Southeastern Louisiana",38,6,1
+1,2017-09-30,"Central Arkansas","Sam Houston St. (TX)",41,30,1
+1,2017-10-07,"Central Arkansas","Houston Baptist (TX)",27,7,0
+1,2017-10-14,"Central Arkansas","Stephen F. Austin (TX)",24,20,1
+1,2017-10-21,"Central Arkansas","Northwestern St. (LA)",45,17,0
+1,2017-10-28,"Central Arkansas","McNeese St. (LA)",47,17,1
+1,2017-11-04,"Central Arkansas","Lamar (TX)",42,14,0
+1,2017-11-11,"Central Arkansas","Incarnate Word (TX)",56,10,0
+1,2017-11-18,"Central Arkansas","Abilene Christian (TX)",34,0,1
+0,2017-12-02,"Central Arkansas","New Hampshire",15,21,1
+0,2017-09-02,"Houston Baptist (TX)","Texas St.",11,20,0
+1,2017-09-07,"Houston Baptist (TX)","Texas Southern",24,17,0
+0,2017-09-16,"Houston Baptist (TX)","Abilene Christian (TX)",3,24,0
+0,2017-09-23,"Houston Baptist (TX)","McNeese St. (LA)",12,27,0
+0,2017-10-07,"Houston Baptist (TX)","Central Arkansas",7,27,1
+0,2017-10-14,"Houston Baptist (TX)","Southeastern Louisiana",10,56,1
+0,2017-10-21,"Houston Baptist (TX)","Stephen F. Austin (TX)",10,27,0
+0,2017-10-28,"Houston Baptist (TX)","Northwestern St. (LA)",7,10,1
+0,2017-11-04,"Houston Baptist (TX)","Nicholls St. (LA)",17,23,0
+0,2017-11-11,"Houston Baptist (TX)","Lamar (TX)",16,23,1
+0,2017-11-18,"Houston Baptist (TX)","Sam Houston St. (TX)",33,53,0
+0,2017-09-02,"Incarnate Word (TX)","Fresno St. (CA)",0,66,0
+0,2017-09-09,"Incarnate Word (TX)","Cal St.-Sacramento",22,56,0
+0,2017-09-16,"Incarnate Word (TX)","Stephen F. Austin (TX)",31,37,0
+0,2017-09-30,"Incarnate Word (TX)","Abilene Christian (TX)",20,45,1
+0,2017-10-07,"Incarnate Word (TX)","Southeastern Louisiana",30,49,0
+1,2017-10-14,"Incarnate Word (TX)","Lamar (TX)",33,24,1
+0,2017-10-21,"Incarnate Word (TX)","McNeese St. (LA)",7,55,0
+0,2017-10-28,"Incarnate Word (TX)","Nicholls St. (LA)",31,38,1
+0,2017-11-04,"Incarnate Word (TX)","Sam Houston St. (TX)",20,57,0
+0,2017-11-11,"Incarnate Word (TX)","Central Arkansas",10,56,1
+0,2017-11-16,"Incarnate Word (TX)","Prairie View A&M (TX)",28,42,1
+0,2017-09-02,"Lamar (TX)","North Texas",14,59,0
+0,2017-09-16,"Lamar (TX)","Northwestern St. (LA)",28,35,0
+0,2017-09-23,"Lamar (TX)","Southeastern Louisiana",21,49,0
+0,2017-09-30,"Lamar (TX)","Nicholls St. (LA)",14,41,1
+0,2017-10-14,"Lamar (TX)","Incarnate Word (TX)",24,33,0
+0,2017-10-21,"Lamar (TX)","Sam Houston St. (TX)",27,63,0
+0,2017-10-28,"Lamar (TX)","Stephen F. Austin (TX)",7,34,1
+0,2017-11-04,"Lamar (TX)","Central Arkansas",14,42,1
+1,2017-11-11,"Lamar (TX)","Houston Baptist (TX)",23,16,0
+0,2017-11-18,"Lamar (TX)","McNeese St. (LA)",3,13,1
+1,2017-08-31,"Nicholls St. (LA)","McNeese St. (LA)",37,35,1
+0,2017-09-09,"Nicholls St. (LA)","Texas A&M",14,24,0
+1,2017-09-16,"Nicholls St. (LA)","Prairie View A&M (TX)",44,13,1
+0,2017-09-23,"Nicholls St. (LA)","Sam Houston St. (TX)",17,66,0
+1,2017-09-30,"Nicholls St. (LA)","Lamar (TX)",41,14,0
+1,2017-10-07,"Nicholls St. (LA)","Northwestern St. (LA)",14,10,1
+1,2017-10-14,"Nicholls St. (LA)","Abilene Christian (TX)",29,20,1
+1,2017-10-28,"Nicholls St. (LA)","Incarnate Word (TX)",38,31,0
+1,2017-11-04,"Nicholls St. (LA)","Houston Baptist (TX)",23,17,1
+1,2017-11-11,"Nicholls St. (LA)","Stephen F. Austin (TX)",34,13,0
+0,2017-11-16,"Nicholls St. (LA)","Southeastern Louisiana",17,21,0
+0,2017-11-25,"Nicholls St. (LA)","South Dakota",31,38,1
+0,2017-09-02,"Northwestern St. (LA)","Louisiana Tech",24,52,0
+1,2017-09-16,"Northwestern St. (LA)","Lamar (TX)",35,28,1
+0,2017-09-30,"Northwestern St. (LA)","Southeastern Louisiana",20,49,1
+0,2017-10-07,"Northwestern St. (LA)","Nicholls St. (LA)",10,14,0
+0,2017-10-14,"Northwestern St. (LA)","Sam Houston St. (TX)",36,40,0
+0,2017-10-21,"Northwestern St. (LA)","Central Arkansas",17,45,1
+1,2017-10-28,"Northwestern St. (LA)","Houston Baptist (TX)",10,7,0
+1,2017-11-04,"Northwestern St. (LA)","Abilene Christian (TX)",26,23,1
+0,2017-11-11,"Northwestern St. (LA)","McNeese St. (LA)",24,44,0
+1,2017-11-18,"Northwestern St. (LA)","Stephen F. Austin (TX)",38,21,1
+1,2017-09-01,"Sam Houston St. (TX)","Richmond (VA)",48,34,1
+1,2017-09-07,"Sam Houston St. (TX)","Prairie View A&M (TX)",44,31,0
+1,2017-09-23,"Sam Houston St. (TX)","Nicholls St. (LA)",66,17,1
+0,2017-09-30,"Sam Houston St. (TX)","Central Arkansas",30,41,0
+1,2017-10-07,"Sam Houston St. (TX)","Stephen F. Austin (TX)",27,16,1
+1,2017-10-14,"Sam Houston St. (TX)","Northwestern St. (LA)",40,36,1
+1,2017-10-21,"Sam Houston St. (TX)","Lamar (TX)",63,27,1
+1,2017-10-28,"Sam Houston St. (TX)","Southeastern Louisiana",33,23,0
+1,2017-11-04,"Sam Houston St. (TX)","Incarnate Word (TX)",57,20,1
+1,2017-11-11,"Sam Houston St. (TX)","Abilene Christian (TX)",44,35,0
+1,2017-11-18,"Sam Houston St. (TX)","Houston Baptist (TX)",53,33,1
+1,2017-12-02,"Sam Houston St. (TX)","South Dakota",54,42,1
+1,2017-12-09,"Sam Houston St. (TX)","Kennesaw St. (GA)",34,27,1
+0,2017-12-15,"Sam Houston St. (TX)","North Dakota St.",13,55,0
+0,2017-09-02,"Stephen F. Austin (TX)","Southern Methodist (TX)",14,58,0
+0,2017-09-09,"Stephen F. Austin (TX)","Southern Utah",14,51,1
+1,2017-09-16,"Stephen F. Austin (TX)","Incarnate Word (TX)",37,31,1
+1,2017-09-23,"Stephen F. Austin (TX)","Abilene Christian (TX)",20,10,0
+0,2017-09-30,"Stephen F. Austin (TX)","McNeese St. (LA)",0,35,1
+0,2017-10-07,"Stephen F. Austin (TX)","Sam Houston St. (TX)",16,27,1
+0,2017-10-14,"Stephen F. Austin (TX)","Central Arkansas",20,24,0
+1,2017-10-21,"Stephen F. Austin (TX)","Houston Baptist (TX)",27,10,1
+1,2017-10-28,"Stephen F. Austin (TX)","Lamar (TX)",34,7,0
+0,2017-11-11,"Stephen F. Austin (TX)","Nicholls St. (LA)",13,34,1
+0,2017-11-18,"Stephen F. Austin (TX)","Northwestern St. (LA)",21,38,0
+0,2017-09-09,"Southeastern Louisiana","Bethune-Cookman (FL)",23,28,1
+0,2017-09-16,"Southeastern Louisiana","Central Arkansas",6,38,0
+1,2017-09-23,"Southeastern Louisiana","Lamar (TX)",49,21,1
+1,2017-09-30,"Southeastern Louisiana","Northwestern St. (LA)",49,20,0
+1,2017-10-07,"Southeastern Louisiana","Incarnate Word (TX)",49,30,1
+1,2017-10-14,"Southeastern Louisiana","Houston Baptist (TX)",56,10,0
+1,2017-10-21,"Southeastern Louisiana","Abilene Christian (TX)",56,21,0
+0,2017-10-28,"Southeastern Louisiana","Sam Houston St. (TX)",23,33,1
+0,2017-11-04,"Southeastern Louisiana","McNeese St. (LA)",3,13,0
+1,2017-11-16,"Southeastern Louisiana","Nicholls St. (LA)",21,17,1
+0,2017-09-02,"Alabama A&M","Alabama-Birmingham",7,38,0
+0,2017-09-09,"Alabama A&M","Vanderbilt (TN)",0,42,0
+0,2017-09-16,"Alabama A&M","South Alabama",0,45,0
+1,2017-09-23,"Alabama A&M","Texas Southern",30,13,1
+1,2017-09-30,"Alabama A&M","Arkansas-Pine Bluff",27,14,1
+0,2017-10-07,"Alabama A&M","Southern (LA)",14,35,0
+1,2017-10-14,"Alabama A&M","Mississippi Valley St.",49,14,1
+0,2017-10-28,"Alabama A&M","Alabama St.",16,21,1
+0,2017-11-04,"Alabama A&M","Alcorn St. (MS)",22,47,0
+0,2017-11-11,"Alabama A&M","Jackson St. (MS)",7,10,1
+0,2017-09-09,"Alabama St.","Troy (AL)",7,34,0
+0,2017-09-16,"Alabama St.","Kennesaw St. (GA)",14,20,1
+0,2017-09-23,"Alabama St.","Prairie View A&M (TX)",0,34,1
+0,2017-10-05,"Alabama St.","Alcorn St. (MS)",10,24,1
+1,2017-10-14,"Alabama St.","Texas Southern",23,16,0
+1,2017-10-28,"Alabama St.","Alabama A&M",21,16,1
+1,2017-11-04,"Alabama St.","Jackson St. (MS)",13,3,0
+1,2017-11-18,"Alabama St.","Mississippi Valley St.",16,10,0
+0,2017-09-09,"Arkansas-Pine Bluff","Akron (OH)",3,52,0
+0,2017-09-16,"Arkansas-Pine Bluff","Arkansas St.",3,48,0
+1,2017-09-23,"Arkansas-Pine Bluff","Jackson St. (MS)",34,27,0
+0,2017-09-30,"Arkansas-Pine Bluff","Alabama A&M",14,27,0
+0,2017-10-07,"Arkansas-Pine Bluff","Mississippi Valley St.",31,38,1
+0,2017-10-28,"Arkansas-Pine Bluff","Southern (LA)",40,47,1
+0,2017-11-11,"Arkansas-Pine Bluff","Prairie View A&M (TX)",12,35,0
+0,2017-11-18,"Arkansas-Pine Bluff","Texas Southern",10,24,1
+0,2017-09-02,"Jackson St. (MS)","Texas Christian",0,63,0
+0,2017-09-09,"Jackson St. (MS)","Tennessee St.",15,17,1
+0,2017-09-23,"Jackson St. (MS)","Arkansas-Pine Bluff",27,34,1
+0,2017-09-30,"Jackson St. (MS)","Prairie View A&M (TX)",9,38,0
+0,2017-10-21,"Jackson St. (MS)","Southern (LA)",17,35,1
+1,2017-10-28,"Jackson St. (MS)","Mississippi Valley St.",24,5,0
+0,2017-11-04,"Jackson St. (MS)","Alabama St.",3,13,1
+1,2017-11-11,"Jackson St. (MS)","Alabama A&M",10,7,0
+1,2017-11-18,"Jackson St. (MS)","Alcorn St. (MS)",7,3,1
+0,2017-09-08,"Alcorn St. (MS)","Florida International",10,17,1
+0,2017-09-16,"Alcorn St. (MS)","McNeese St. (LA)",27,34,1
+1,2017-09-23,"Alcorn St. (MS)","Southern (LA)",48,31,1
+1,2017-09-29,"Alcorn St. (MS)","Texas Southern",24,17,0
+1,2017-10-05,"Alcorn St. (MS)","Alabama St.",24,10,0
+1,2017-10-14,"Alcorn St. (MS)","Prairie View A&M (TX)",34,21,1
+1,2017-11-04,"Alcorn St. (MS)","Alabama A&M",47,22,1
+1,2017-11-11,"Alcorn St. (MS)","Mississippi Valley St.",59,0,1
+0,2017-11-18,"Alcorn St. (MS)","Jackson St. (MS)",3,7,0
+0,2017-09-02,"Mississippi Valley St.","North Dakota St.",7,72,0
+0,2017-09-09,"Mississippi Valley St.","Southern Illinois",3,55,0
+0,2017-09-30,"Mississippi Valley St.","Charleston Southern (SC)",7,58,0
+1,2017-10-07,"Mississippi Valley St.","Arkansas-Pine Bluff",38,31,0
+0,2017-10-14,"Mississippi Valley St.","Alabama A&M",14,49,0
+0,2017-10-28,"Mississippi Valley St.","Jackson St. (MS)",5,24,1
+0,2017-11-04,"Mississippi Valley St.","Texas Southern",21,38,1
+0,2017-11-11,"Mississippi Valley St.","Alcorn St. (MS)",0,59,0
+0,2017-11-18,"Mississippi Valley St.","Alabama St.",10,16,1
+0,2017-09-02,"Grambling St. (LA)","Tulane (LA)",14,43,0
+1,2017-09-09,"Grambling St. (LA)","Northwestern St. (LA)",23,10,1
+1,2017-09-16,"Grambling St. (LA)","Jackson St. (MS)",36,21,1
+1,2017-09-23,"Grambling St. (LA)","Mississippi Valley St.",38,6,0
+1,2017-10-07,"Grambling St. (LA)","Prairie View A&M (TX)",34,21,1
+1,2017-10-21,"Grambling St. (LA)","Alcorn St. (MS)",41,14,1
+1,2017-10-28,"Grambling St. (LA)","Texas Southern",50,24,1
+1,2017-11-04,"Grambling St. (LA)","Arkansas-Pine Bluff",31,26,0
+1,2017-11-11,"Grambling St. (LA)","Alabama St.",24,7,0
+1,2017-11-25,"Grambling St. (LA)","Southern (LA)",30,21,1
+1,2017-12-02,"Grambling St. (LA)","Alcorn St. (MS)",40,32,1
+0,2017-12-16,"Grambling St. (LA)","North Carolina A&T",14,21,1
+0,2017-08-31,"McNeese St. (LA)","Nicholls St. (LA)",35,37,0
+1,2017-09-16,"McNeese St. (LA)","Alcorn St. (MS)",34,27,0
+1,2017-09-23,"McNeese St. (LA)","Houston Baptist (TX)",27,12,1
+1,2017-09-30,"McNeese St. (LA)","Stephen F. Austin (TX)",35,0,0
+1,2017-10-07,"McNeese St. (LA)","Abilene Christian (TX)",13,7,0
+1,2017-10-21,"McNeese St. (LA)","Incarnate Word (TX)",55,7,1
+0,2017-10-28,"McNeese St. (LA)","Central Arkansas",17,47,0
+1,2017-11-04,"McNeese St. (LA)","Southeastern Louisiana",13,3,1
+1,2017-11-11,"McNeese St. (LA)","Northwestern St. (LA)",44,24,1
+1,2017-11-18,"McNeese St. (LA)","Lamar (TX)",13,3,0
+0,2017-09-07,"Prairie View A&M (TX)","Sam Houston St. (TX)",31,44,1
+0,2017-09-16,"Prairie View A&M (TX)","Nicholls St. (LA)",13,44,0
+1,2017-09-23,"Prairie View A&M (TX)","Alabama St.",34,0,0
+1,2017-09-30,"Prairie View A&M (TX)","Jackson St. (MS)",38,9,1
+0,2017-10-14,"Prairie View A&M (TX)","Alcorn St. (MS)",21,34,0
+0,2017-11-04,"Prairie View A&M (TX)","Southern (LA)",31,37,0
+1,2017-11-11,"Prairie View A&M (TX)","Arkansas-Pine Bluff",35,12,1
+1,2017-11-16,"Prairie View A&M (TX)","Incarnate Word (TX)",42,28,0
+1,2017-11-25,"Prairie View A&M (TX)","Texas Southern",30,16,0
+0,2017-08-26,"Texas Southern","Florida A&M",7,29,0
+0,2017-09-07,"Texas Southern","Houston Baptist (TX)",17,24,1
+0,2017-09-23,"Texas Southern","Alabama A&M",13,30,0
+0,2017-09-29,"Texas Southern","Alcorn St. (MS)",17,24,1
+0,2017-10-07,"Texas Southern","Kennesaw St. (GA)",3,48,0
+0,2017-10-14,"Texas Southern","Alabama St.",16,23,1
+1,2017-11-04,"Texas Southern","Mississippi Valley St.",38,21,0
+0,2017-11-11,"Texas Southern","Southern (LA)",7,33,1
+1,2017-11-18,"Texas Southern","Arkansas-Pine Bluff",24,10,1
+0,2017-11-25,"Texas Southern","Prairie View A&M (TX)",16,30,1
+1,2017-09-03,"Southern (LA)","South Carolina St.",14,8,1
+0,2017-09-09,"Southern (LA)","Southern Mississippi",0,45,0
+0,2017-09-16,"Southern (LA)","Texas-San Antonio",17,51,0
+0,2017-09-23,"Southern (LA)","Alcorn St. (MS)",31,48,0
+1,2017-10-07,"Southern (LA)","Alabama A&M",35,14,1
+1,2017-10-21,"Southern (LA)","Jackson St. (MS)",35,17,0
+1,2017-10-28,"Southern (LA)","Arkansas-Pine Bluff",47,40,1
+1,2017-11-04,"Southern (LA)","Prairie View A&M (TX)",37,31,1
+1,2017-11-11,"Southern (LA)","Texas Southern",33,7,0
